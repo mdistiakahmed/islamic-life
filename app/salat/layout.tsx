@@ -1,4 +1,4 @@
-import SecondaryHeader from "@/components/navbar2/SecondaryHeader";
+import SecondaryHeader from "@/components/navbar/SecondaryHeader";
 import { categoryMap } from "@/utils/constants";
 
 export default function SalatLayout({

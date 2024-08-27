@@ -45,8 +45,8 @@ const SecondaryHeader = ({ subNavList }: any) => {
           <ul className=" flex gap-4 overflow-auto no-scrollbar">
             {subNavList.map((s: any, index: any) => (
               <li
-                className={`px-2 whitespace-nowrap rounded-xl bg-[#ffe7e7] text-[#ff1414] text-[24px]  cursor-pointer border-[1px] hover:border-[#ff1414] ${
-                  s.path === selectedSubNav ? "border-[#ff1414]" : ""
+                className={`px-2 whitespace-nowrap rounded-xl bg-[#ffe7e7] text-[#004b49] text-[24px]  cursor-pointer border-[1px] hover:border-[#004b49] ${
+                  s.path === selectedSubNav ? "border-[#004b49]" : ""
                 }`}
                 key={index}
                 onClick={() => navigateToSubNavCategory(s.path)}
