@@ -123,7 +123,7 @@ const SalatTimePage = () => {
       <h1 className="text-2xl font-bold text-center py-4">
         Prayer Time By Country
       </h1>
-      <div className="grid grid-cols-3 gap-10">
+      <div className="grid grid-cols-2 md:grid-cols-3 gap-10">
         {countries.map((c, index) => (
           <div
             key={index}
