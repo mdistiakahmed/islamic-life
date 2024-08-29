@@ -2,9 +2,6 @@ export const categoryMap: any = {
   salat: [
     { name: "Salat Time", path: "salat-time" },
     { name: "Prayer Rules", path: "prayer-rules" },
-    { name: "Fard Prayers", path: "fard-prayers" },
-    { name: "Wajib Prayers", path: "wajib-prayers" },
-    { name: "Nafl Prayers", path: "nafl-prayers" },
   ],
   sawm: [
     { name: "Benifits", path: "benifits" },
