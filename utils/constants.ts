@@ -39,11 +39,7 @@ export const navOptions = [
     image: "",
     path: "/zakat",
   },
-  {
-    name: "Masala",
-    image: "",
-    path: "/masala",
-  },
+
   {
     name: "Dua",
     image: "",
