@@ -1,30 +1,20 @@
 export const categoryMap: any = {
   salat: [
     { name: "Salat Time", path: "salat-time" },
-    { name: "Prayer Rules", path: "prayer-rules" },
+    { name: "Importance of Salat", path: "importance-of-salat" },
   ],
-  sawm: [
-    { name: "Benifits", path: "benifits" },
-    { name: "Rules", path: "rules" },
-  ],
-  hajj: [
-    { name: "Benifits", path: "benifits" },
-    { name: "Rules", path: "rules" },
-  ],
-  zakat: [
-    { name: "Benifits", path: "benifits" },
-    { name: "Rules", path: "rules" },
-  ],
+  sawm: [{ name: "Importance of Sawm", path: "importance-of-sawm" }],
+  hajj: [{ name: "Importance of Hajj", path: "importance-of-hajj" }],
+  zakat: [{ name: "Importance of Zakat", path: "importance-of-zakat" }],
   masala: [
-    { name: "Funny", path: "Funny" },
-    { name: "Kids", path: "kids" },
+    { name: "Islamic masala for Job", path: "job" },
+    { name: "Islamic masala on Property", path: "property" },
   ],
   dua: [
-    { name: "For Parents", path: "for-parents" },
-    { name: "For Success", path: "for-success" },
-    { name: "Earning Money", path: "earning-money" },
+    { name: "For Parents", path: "parents" },
+    { name: "For Success", path: "success" },
+    { name: "Earning Money", path: "earning" },
     { name: "Suffering", path: "suffering" },
-    { name: "Marriage", path: "marriage" },
   ],
 };
 

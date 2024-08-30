@@ -1,7 +1,6 @@
 import FiveQaqtSalatComponent from "@/components/FiveQaqtSalatComponent";
 import ThisMonthPrayerTime from "@/components/ThisMonthPrayerTime";
 import { getPrayerTime } from "@/utils/getData";
-import React from "react";
 
 const CityPrayerTimePage = async ({ params }: any) => {
   const { country, city } = params;
