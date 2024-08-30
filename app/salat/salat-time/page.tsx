@@ -29,8 +29,8 @@ const SalatTimePage = () => {
             key={index}
             className="p-[24px] border-2 flex item-center justify-center cursor-pointer bg-gray-200 rounded-lg"
           >
-            <div className="grid grid-cols-2 gap-2 ">
-              <div className="flex items-center justify-center">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-2 ">
+              <div className="flex  items-center justify-center">
                 <Image
                   alt={"C"}
                   height={10}
@@ -41,7 +41,7 @@ const SalatTimePage = () => {
               </div>
 
               <div className="flex items-center justify-center">
-                <span>{c.name}</span>
+                <span className="text-center">{c.name}</span>
               </div>
             </div>
           </Link>
