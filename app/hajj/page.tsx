@@ -44,7 +44,7 @@ const HajjPage = async () => {
       <p className="text-center text-lg leading-relaxed text-gray-800 mt-4">
         Explore the spiritual journey of Hajj, the pilgrimage to Mecca, with our
         comprehensive guide. Learn about the rituals, significance, and
-        step-by-step process of performing Hajj. Whether you're preparing for
+        step-by-step process of performing Hajj. Whether youre preparing for
         your pilgrimage or looking to deepen your understanding, find all the
         information you need to make your Hajj experience meaningful and
         fulfilling.
