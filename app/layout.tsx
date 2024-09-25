@@ -4,6 +4,7 @@ import "./globals.css";
 import { NextUIProvider } from "@nextui-org/react";
 import Footer from "@/components/footer/Footer";
 import HeaderComponent from "@/components/navbar/Header";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -21,6 +22,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <GoogleAnalytics gaId="G-TM5M4Q7F83" />
       <body className={inter.className}>
         <NextUIProvider>
           <HeaderComponent />
