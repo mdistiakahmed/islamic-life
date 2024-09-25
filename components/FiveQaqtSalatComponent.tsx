@@ -34,7 +34,7 @@ const FiveQaqtSalatComponent = ({ cityPrayerTime, city }: any) => {
             return (
               <div
                 key={index}
-                className="flex flex-col md:flex-row justify-around border-2 p-4 rounded-lg"
+                className="flex flex-col md:flex-row justify-around border-2 p-4 px-16 md:px-4 rounded-lg"
               >
                 <div className="flex flex-col items-center justify-center gap-4">
                   <h2 className="text-center text-lg text-[#004b49] underline font-bold self-center">
