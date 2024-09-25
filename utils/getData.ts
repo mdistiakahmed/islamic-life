@@ -6,20 +6,29 @@ export const getPrayerTime = async (param: string) => {
       case "bangladesh":
         ({ prayerTime } = await import("../data/prayer-time/bn"));
         break;
-      case "america":
-        ({ prayerTime } = await import("../data/prayer-time/bn"));
+      case "canada":
+        ({ prayerTime } = await import("../data/prayer-time/ca"));
         break;
-      case "birthday":
+      case "england":
+        ({ prayerTime } = await import("../data/prayer-time/gb"));
         break;
-      case "cat":
+      case "india":
+        ({ prayerTime } = await import("../data/prayer-time/in"));
         break;
-      case "thumbs-up":
+      case "indonasia":
+        ({ prayerTime } = await import("../data/prayer-time/id"));
         break;
-      case "drake":
+      case "malaysia":
+        ({ prayerTime } = await import("../data/prayer-time/my"));
         break;
-      case "spiderman":
+      case "pakistan":
+        ({ prayerTime } = await import("../data/prayer-time/pk"));
         break;
-      case "side-eye":
+      case "united-arab-emirates":
+        ({ prayerTime } = await import("../data/prayer-time/ae"));
+        break;
+      case "usa":
+        ({ prayerTime } = await import("../data/prayer-time/us"));
         break;
       default:
         throw new Error(`No data file found for param: ${param}`);

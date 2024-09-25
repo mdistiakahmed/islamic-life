@@ -1,20 +1,7 @@
-import Clock from "@/components/clock/Clock";
+import { countries } from "@/utils/constants";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-
-const countries = [
-  { name: "Bangladesh", code: "bd" },
-  { name: "India", code: "in" },
-  { name: "America", code: "us" },
-  { name: "United Arab Emirates", code: "ae" },
-  { name: "Pakistan", code: "pk" },
-  { name: "England", code: "gb" },
-  { name: "Australia", code: "au" },
-  { name: "Malaysia", code: "my" },
-  { name: "Indonasia", code: "id" },
-  { name: "Canada", code: "ca" },
-];
 
 const SalatTimePage = () => {
   return (

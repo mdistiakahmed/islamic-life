@@ -4,6 +4,8 @@ import { getPrayerTime } from "@/utils/getData";
 
 const CityPrayerTimePage = async ({ params }: any) => {
   const { country, city } = params;
+  console.log(country);
+  console.log(city);
   const prayerTime = await getPrayerTime(country);
   const currentCityPrayerTime = prayerTime.schedule[city];
   return (

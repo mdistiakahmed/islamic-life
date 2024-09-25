@@ -46,3 +46,15 @@ export const navOptions = [
     path: "/dua",
   },
 ];
+
+export const countries = [
+  { name: "Bangladesh", code: "bd" },
+  { name: "Canada", code: "ca" },
+  { name: "England", code: "gb" },
+  { name: "India", code: "in" },
+  { name: "Indonasia", code: "id" },
+  { name: "Malaysia", code: "my" },
+  { name: "Pakistan", code: "pk" },
+  { name: "United-Arab-Emirates", code: "ae" },
+  { name: "USA", code: "us" },
+];

@@ -1,17 +1,10 @@
 import QuoteCard from "@/components/cards/QuoteCard";
 import ShareWidget from "@/components/share/ShareWidget";
+import { countries } from "@/utils/constants";
 import { getImportance } from "@/utils/getData";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-
-const countries = [
-  { name: "Bangladesh", code: "bd" },
-  { name: "India", code: "in" },
-  { name: "America", code: "us" },
-  { name: "United Arab Emirates", code: "ae" },
-  { name: "Pakistan", code: "pk" },
-];
 
 const SalatPage = async () => {
   const importance = await getImportance("salat");
@@ -23,7 +16,7 @@ const SalatPage = async () => {
           Prayer Time By Country
         </h1>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-10">
-          {countries.map((c, index) => (
+          {countries.slice(0, 5).map((c, index) => (
             <Link
               href={`/salat/salat-time/${c.name.toLowerCase()}`}
               key={index}
