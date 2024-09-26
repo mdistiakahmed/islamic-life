@@ -1,4 +1,5 @@
 import FiveQaqtSalatComponent from "@/components/FiveQaqtSalatComponent";
+import ShareWidget from "@/components/share/ShareWidget";
 import { capitalize } from "@/utils/converters";
 import { getPrayerTime } from "@/utils/getData";
 import { Metadata } from "next";
@@ -49,14 +50,16 @@ const CountryPrayerTimePage = async ({ params }: any) => {
         cityPrayerTime={capitalCityPrayerTime}
         city={`${country} (${capitalCity})`}
       />
+
       <p className="text-md text-center py-2">
         Discover the exact times for Fajr, Dhuhr, Asr, Maghrib, and Isha in{" "}
         {country}. Our user-friendly tool makes it easy to find daily prayer
         schedules.
       </p>
-      <h1 className="text-xl font-bold text-center py-4">
+      <ShareWidget />
+      <h2 className="text-xl font-bold text-center py-4">
         {capitalize(country)} Prayer Time By City
-      </h1>
+      </h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
         {cities.map((c: any, index: any) => (
           <Link

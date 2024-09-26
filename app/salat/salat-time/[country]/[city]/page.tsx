@@ -1,4 +1,5 @@
 import FiveQaqtSalatComponent from "@/components/FiveQaqtSalatComponent";
+import ShareWidget from "@/components/share/ShareWidget";
 import ThisMonthPrayerTime from "@/components/ThisMonthPrayerTime";
 import { capitalize } from "@/utils/converters";
 import { getPrayerTime } from "@/utils/getData";
@@ -50,6 +51,8 @@ const CityPrayerTimePage = async ({ params }: any) => {
         accurate schedules for all five daily prayers. Stay connected to your
         faith with our reliable service.
       </p>
+
+      <ShareWidget />
 
       <ThisMonthPrayerTime cityPrayerTime={currentCityPrayerTime} city={city} />
 
