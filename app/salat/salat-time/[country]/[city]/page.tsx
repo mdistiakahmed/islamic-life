@@ -51,11 +51,11 @@ const CityPrayerTimePage = async ({ params }: any) => {
         specific times throughout the day. These times are based on the position
         of the sun and change daily. The five prayers : Fajr, Dhuhr, Asr,
         Maghrib, and Isha : hold great significance in Islamic practice, serving
-        as opportunities to connect with Allah, reflect on one's faith, and seek
-        guidance. In {city}, the accurate prayer times for today ensure that you
-        can perform your prayers at the proper moments, as prescribed in the
-        Quran and Hadith. Staying aligned with these times is essential for
-        maintaining spiritual discipline and observing the commandments of
+        as opportunities to connect with Allah, reflect on one&apos;s faith, and
+        seek guidance. In {city}, the accurate prayer times for today ensure
+        that you can perform your prayers at the proper moments, as prescribed
+        in the Quran and Hadith. Staying aligned with these times is essential
+        for maintaining spiritual discipline and observing the commandments of
         Islam.
       </p>
 
