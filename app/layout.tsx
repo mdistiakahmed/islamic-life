@@ -13,6 +13,9 @@ export const metadata: Metadata = {
     "Islamic Life: Salat Times, Importance of Salat, Sawm, Hajj, Zakat, and Duas from Quran and Hadith",
   description:
     "Explore the Islamic way of life with accurate Salat times, in-depth articles on the importance of Salat, Sawm, Hajj, and Zakat, and a curated collection of Duas from the Quran and Hadith. Enhance your spiritual journey with guidance from authentic Islamic teachings.",
+  verification: {
+    google: "zn4ZgU5utQkPo6QKWBNjy8oY9jUR1UZs6Ip1Dh43V4E",
+  },
 };
 
 export default function RootLayout({

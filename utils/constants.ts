@@ -53,8 +53,11 @@ export const countries = [
   { name: "England", code: "gb" },
   { name: "India", code: "in" },
   { name: "Indonasia", code: "id" },
+  { name: "Ireland", code: "ie" },
   { name: "Malaysia", code: "my" },
   { name: "Pakistan", code: "pk" },
+  { name: "Saudi-Arabia", code: "sa" },
+  { name: "Sweden", code: "se" },
   { name: "United-Arab-Emirates", code: "ae" },
   { name: "USA", code: "us" },
 ];
