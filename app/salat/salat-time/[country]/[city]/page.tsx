@@ -46,7 +46,20 @@ const CityPrayerTimePage = async ({ params }: any) => {
         city={city}
       />
 
-      <p className="text-center py-4">
+      <p className="text-gray-700 p-4 m-4 text-center">
+        Muslims across the world observe five daily prayers, known as Salat, at
+        specific times throughout the day. These times are based on the position
+        of the sun and change daily. The five prayers : Fajr, Dhuhr, Asr,
+        Maghrib, and Isha : hold great significance in Islamic practice, serving
+        as opportunities to connect with Allah, reflect on one's faith, and seek
+        guidance. In {city}, the accurate prayer times for today ensure that you
+        can perform your prayers at the proper moments, as prescribed in the
+        Quran and Hadith. Staying aligned with these times is essential for
+        maintaining spiritual discipline and observing the commandments of
+        Islam.
+      </p>
+
+      <p className="text-gray-700 p-4 m-4 text-center">
         Get precise prayer times for {city}. Our comprehensive database ensures
         accurate schedules for all five daily prayers. Stay connected to your
         faith with our reliable service.
