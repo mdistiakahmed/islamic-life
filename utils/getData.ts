@@ -12,6 +12,12 @@ export const getPrayerTime = async (param: string) => {
       case "england":
         ({ prayerTime } = await import("../data/prayer-time/gb"));
         break;
+      case "kuwait":
+        ({ prayerTime } = await import("../data/prayer-time/kw"));
+        break;
+      case "germany":
+        ({ prayerTime } = await import("../data/prayer-time/de"));
+        break;
       case "india":
         ({ prayerTime } = await import("../data/prayer-time/in"));
         break;
