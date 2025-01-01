@@ -5,3674 +5,10964 @@ export const prayerTime = {
   schedule: {
     "abu-dhabi": [
       {
-        date: "2024-09-01",
+        date: "2025-01-01",
         schedule:
-          "Fazr-4:45AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:41PM;Isha-8:11PM;",
+          "Fazr-5:44AM;Zuhr-12:27PM;Asr-3:26PM;Maghrib-5:46PM;Isha-7:16PM;",
       },
       {
-        date: "2024-09-02",
+        date: "2025-01-02",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:27PM;Asr-3:27PM;Maghrib-5:47PM;Isha-7:17PM;",
+      },
+      {
+        date: "2025-01-03",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:28PM;Asr-3:28PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-01-04",
+        schedule:
+          "Fazr-5:45AM;Zuhr-12:28PM;Asr-3:28PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-01-05",
+        schedule:
+          "Fazr-5:45AM;Zuhr-12:28PM;Asr-3:29PM;Maghrib-5:49PM;Isha-7:19PM;",
+      },
+      {
+        date: "2025-01-06",
+        schedule:
+          "Fazr-5:45AM;Zuhr-12:29PM;Asr-3:30PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-01-07",
+        schedule:
+          "Fazr-5:45AM;Zuhr-12:29PM;Asr-3:30PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-01-08",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:30PM;Asr-3:31PM;Maghrib-5:51PM;Isha-7:21PM;",
+      },
+      {
+        date: "2025-01-09",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:30PM;Asr-3:32PM;Maghrib-5:52PM;Isha-7:22PM;",
+      },
+      {
+        date: "2025-01-10",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:31PM;Asr-3:32PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-01-11",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:31PM;Asr-3:33PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-01-12",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:31PM;Asr-3:34PM;Maghrib-5:54PM;Isha-7:24PM;",
+      },
+      {
+        date: "2025-01-13",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:32PM;Asr-3:34PM;Maghrib-5:55PM;Isha-7:25PM;",
+      },
+      {
+        date: "2025-01-14",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:32PM;Asr-3:35PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-01-15",
+        schedule:
+          "Fazr-5:47AM;Zuhr-12:32PM;Asr-3:36PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-01-16",
+        schedule:
+          "Fazr-5:47AM;Zuhr-12:33PM;Asr-3:36PM;Maghrib-5:57PM;Isha-7:27PM;",
+      },
+      {
+        date: "2025-01-17",
+        schedule:
+          "Fazr-5:47AM;Zuhr-12:33PM;Asr-3:37PM;Maghrib-5:58PM;Isha-7:28PM;",
+      },
+      {
+        date: "2025-01-18",
+        schedule:
+          "Fazr-5:47AM;Zuhr-12:33PM;Asr-3:38PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-01-19",
+        schedule:
+          "Fazr-5:47AM;Zuhr-12:34PM;Asr-3:38PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-01-20",
+        schedule:
+          "Fazr-5:47AM;Zuhr-12:34PM;Asr-3:39PM;Maghrib-6:00PM;Isha-7:30PM;",
+      },
+      {
+        date: "2025-01-21",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:34PM;Asr-3:40PM;Maghrib-6:01PM;Isha-7:31PM;",
+      },
+      {
+        date: "2025-01-22",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:35PM;Asr-3:40PM;Maghrib-6:01PM;Isha-7:31PM;",
+      },
+      {
+        date: "2025-01-23",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:35PM;Asr-3:41PM;Maghrib-6:02PM;Isha-7:32PM;",
+      },
+      {
+        date: "2025-01-24",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:35PM;Asr-3:41PM;Maghrib-6:03PM;Isha-7:33PM;",
+      },
+      {
+        date: "2025-01-25",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:35PM;Asr-3:42PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-01-26",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:36PM;Asr-3:43PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-01-27",
+        schedule:
+          "Fazr-5:46AM;Zuhr-12:36PM;Asr-3:43PM;Maghrib-6:05PM;Isha-7:35PM;",
+      },
+      {
+        date: "2025-01-28",
+        schedule:
+          "Fazr-5:45AM;Zuhr-12:36PM;Asr-3:44PM;Maghrib-6:06PM;Isha-7:36PM;",
+      },
+      {
+        date: "2025-01-29",
+        schedule:
+          "Fazr-5:45AM;Zuhr-12:36PM;Asr-3:44PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-01-30",
+        schedule:
+          "Fazr-5:45AM;Zuhr-12:36PM;Asr-3:45PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-01-31",
+        schedule:
+          "Fazr-5:45AM;Zuhr-12:36PM;Asr-3:46PM;Maghrib-6:08PM;Isha-7:38PM;",
+      },
+      {
+        date: "2025-02-01",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:37PM;Asr-3:46PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-02-02",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:37PM;Asr-3:47PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-02-03",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:37PM;Asr-3:47PM;Maghrib-6:10PM;Isha-7:40PM;",
+      },
+      {
+        date: "2025-02-04",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:37PM;Asr-3:48PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-02-05",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:37PM;Asr-3:48PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-02-06",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:37PM;Asr-3:49PM;Maghrib-6:12PM;Isha-7:42PM;",
+      },
+      {
+        date: "2025-02-07",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:37PM;Asr-3:49PM;Maghrib-6:13PM;Isha-7:43PM;",
+      },
+      {
+        date: "2025-02-08",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:37PM;Asr-3:50PM;Maghrib-6:13PM;Isha-7:43PM;",
+      },
+      {
+        date: "2025-02-09",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:37PM;Asr-3:50PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-02-10",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:37PM;Asr-3:51PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-02-11",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:37PM;Asr-3:51PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-02-12",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:37PM;Asr-3:51PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-02-13",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:37PM;Asr-3:52PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-02-14",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:37PM;Asr-3:52PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-02-15",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:37PM;Asr-3:53PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-02-16",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:37PM;Asr-3:53PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-02-17",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:37PM;Asr-3:53PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-02-18",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:37PM;Asr-3:54PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-02-19",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:37PM;Asr-3:54PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-02-20",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:37PM;Asr-3:54PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-02-21",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:37PM;Asr-3:54PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-02-22",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:36PM;Asr-3:55PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-02-23",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:36PM;Asr-3:55PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-02-24",
+        schedule:
+          "Fazr-5:31AM;Zuhr-12:36PM;Asr-3:55PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-02-25",
+        schedule:
+          "Fazr-5:30AM;Zuhr-12:36PM;Asr-3:55PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-02-26",
+        schedule:
+          "Fazr-5:30AM;Zuhr-12:36PM;Asr-3:56PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-02-27",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:36PM;Asr-3:56PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-02-28",
+        schedule:
+          "Fazr-5:28AM;Zuhr-12:36PM;Asr-3:56PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-03-01",
+        schedule:
+          "Fazr-5:27AM;Zuhr-12:35PM;Asr-3:56PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-02",
+        schedule:
+          "Fazr-5:26AM;Zuhr-12:35PM;Asr-3:56PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-03",
+        schedule:
+          "Fazr-5:25AM;Zuhr-12:35PM;Asr-3:56PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-03-04",
+        schedule:
+          "Fazr-5:24AM;Zuhr-12:35PM;Asr-3:57PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-03-05",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:34PM;Asr-3:57PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-06",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:34PM;Asr-3:57PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-07",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:34PM;Asr-3:57PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-08",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:34PM;Asr-3:57PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-09",
+        schedule:
+          "Fazr-5:20AM;Zuhr-12:34PM;Asr-3:57PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-10",
+        schedule:
+          "Fazr-5:19AM;Zuhr-12:33PM;Asr-3:57PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-11",
+        schedule:
+          "Fazr-5:18AM;Zuhr-12:33PM;Asr-3:57PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-12",
+        schedule:
+          "Fazr-5:17AM;Zuhr-12:33PM;Asr-3:57PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-03-13",
+        schedule:
+          "Fazr-5:16AM;Zuhr-12:32PM;Asr-3:57PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-03-14",
+        schedule:
+          "Fazr-5:15AM;Zuhr-12:32PM;Asr-3:57PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-03-15",
+        schedule:
+          "Fazr-5:14AM;Zuhr-12:32PM;Asr-3:57PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-03-16",
+        schedule:
+          "Fazr-5:13AM;Zuhr-12:32PM;Asr-3:57PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-03-17",
+        schedule:
+          "Fazr-5:12AM;Zuhr-12:31PM;Asr-3:57PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-03-18",
+        schedule:
+          "Fazr-5:11AM;Zuhr-12:31PM;Asr-3:57PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-03-19",
+        schedule:
+          "Fazr-5:10AM;Zuhr-12:31PM;Asr-3:57PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-03-20",
+        schedule:
+          "Fazr-5:08AM;Zuhr-12:30PM;Asr-3:57PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-03-21",
+        schedule:
+          "Fazr-5:07AM;Zuhr-12:30PM;Asr-3:57PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-03-22",
+        schedule:
+          "Fazr-5:06AM;Zuhr-12:30PM;Asr-3:56PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-03-23",
+        schedule:
+          "Fazr-5:05AM;Zuhr-12:30PM;Asr-3:56PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-03-24",
+        schedule:
+          "Fazr-5:04AM;Zuhr-12:29PM;Asr-3:56PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-03-25",
+        schedule:
+          "Fazr-5:03AM;Zuhr-12:29PM;Asr-3:56PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-03-26",
+        schedule:
+          "Fazr-5:02AM;Zuhr-12:29PM;Asr-3:56PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-03-27",
+        schedule:
+          "Fazr-5:01AM;Zuhr-12:28PM;Asr-3:56PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-03-28",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:28PM;Asr-3:56PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-03-29",
+        schedule:
+          "Fazr-4:59AM;Zuhr-12:28PM;Asr-3:55PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-03-30",
+        schedule:
+          "Fazr-4:58AM;Zuhr-12:27PM;Asr-3:55PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-03-31",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:27PM;Asr-3:55PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-04-01",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:27PM;Asr-3:55PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-04-02",
+        schedule:
+          "Fazr-4:54AM;Zuhr-12:27PM;Asr-3:55PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-04-03",
+        schedule:
+          "Fazr-4:53AM;Zuhr-12:26PM;Asr-3:54PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-04-04",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:26PM;Asr-3:54PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-04-05",
+        schedule:
+          "Fazr-4:51AM;Zuhr-12:26PM;Asr-3:54PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-04-06",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:25PM;Asr-3:54PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-04-07",
+        schedule:
+          "Fazr-4:49AM;Zuhr-12:25PM;Asr-3:54PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-04-08",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-04-09",
+        schedule:
+          "Fazr-4:46AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-04-10",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-04-11",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-04-12",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:24PM;Asr-3:52PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-04-13",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:24PM;Asr-3:52PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-04-14",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-04-15",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-04-16",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-04-17",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-04-18",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-04-19",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:22PM;Asr-3:50PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-04-20",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:22PM;Asr-3:50PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-04-21",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:22PM;Asr-3:50PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-04-22",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:22PM;Asr-3:50PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-04-23",
+        schedule:
+          "Fazr-4:31AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-04-24",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-04-25",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-04-26",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-04-27",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:21PM;Asr-3:48PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-04-28",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:21PM;Asr-3:48PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-04-29",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-04-30",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:20PM;Asr-3:47PM;Maghrib-6:52PM;Isha-7:11PM;",
+      },
+      {
+        date: "2025-05-01",
+        schedule:
+          "Fazr-4:24AM;Zuhr-12:20PM;Asr-3:47PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-05-02",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:20PM;Asr-3:47PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-05-03",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:20PM;Asr-3:47PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-05-04",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:20PM;Asr-3:46PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-05-05",
+        schedule:
+          "Fazr-4:20AM;Zuhr-12:20PM;Asr-3:46PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-05-06",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:20PM;Asr-3:46PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-05-07",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:20PM;Asr-3:46PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-05-08",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:20PM;Asr-3:46PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-05-09",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:19PM;Asr-3:45PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-05-10",
+        schedule:
+          "Fazr-4:16AM;Zuhr-12:19PM;Asr-3:45PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-05-11",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:19PM;Asr-3:45PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-05-12",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:19PM;Asr-3:45PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-05-13",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:19PM;Asr-3:44PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-05-14",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:19PM;Asr-3:44PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-05-15",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:19PM;Asr-3:44PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-05-16",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:19PM;Asr-3:44PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-05-17",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:19PM;Asr-3:44PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-05-18",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:19PM;Asr-3:44PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-05-19",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:20PM;Asr-3:44PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-05-20",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-05-21",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-05-22",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-05-23",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-05-24",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-05-25",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-05-26",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-05-27",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-05-28",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-05-29",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-05-30",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:21PM;Asr-3:43PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-05-31",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:21PM;Asr-3:43PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-06-01",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:21PM;Asr-3:43PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-02",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:21PM;Asr-3:43PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-03",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:21PM;Asr-3:43PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-04",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:21PM;Asr-3:43PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-05",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:22PM;Asr-3:43PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-06",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:22PM;Asr-3:43PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-06-07",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:22PM;Asr-3:43PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-06-08",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:22PM;Asr-3:43PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-06-09",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:22PM;Asr-3:43PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-06-10",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:23PM;Asr-3:43PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-06-11",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:23PM;Asr-3:43PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-06-12",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:23PM;Asr-3:44PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-06-13",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:23PM;Asr-3:44PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-06-14",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:23PM;Asr-3:44PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-15",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:24PM;Asr-3:44PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-16",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:24PM;Asr-3:44PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-17",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:24PM;Asr-3:44PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-06-18",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:24PM;Asr-3:45PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-06-19",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:24PM;Asr-3:45PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-06-20",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:25PM;Asr-3:45PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-06-21",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:25PM;Asr-3:45PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-06-22",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:25PM;Asr-3:45PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-06-23",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:25PM;Asr-3:46PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-06-24",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:26PM;Asr-3:46PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-06-25",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:26PM;Asr-3:46PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-06-26",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:26PM;Asr-3:46PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-06-27",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:26PM;Asr-3:47PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-06-28",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:26PM;Asr-3:47PM;Maghrib-7:16PM;Isha-8:46PM;",
+      },
+      {
+        date: "2025-06-29",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:27PM;Asr-3:47PM;Maghrib-7:16PM;Isha-8:46PM;",
+      },
+      {
+        date: "2025-06-30",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:27PM;Asr-3:47PM;Maghrib-7:16PM;Isha-8:46PM;",
+      },
+      {
+        date: "2025-07-01",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:27PM;Asr-3:48PM;Maghrib-7:16PM;Isha-8:46PM;",
+      },
+      {
+        date: "2025-07-02",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:27PM;Asr-3:48PM;Maghrib-7:16PM;Isha-8:46PM;",
+      },
+      {
+        date: "2025-07-03",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:27PM;Asr-3:48PM;Maghrib-7:16PM;Isha-8:46PM;",
+      },
+      {
+        date: "2025-07-04",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:28PM;Asr-3:49PM;Maghrib-7:16PM;Isha-8:46PM;",
+      },
+      {
+        date: "2025-07-05",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:28PM;Asr-3:49PM;Maghrib-7:16PM;Isha-8:46PM;",
+      },
+      {
+        date: "2025-07-06",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:28PM;Asr-3:49PM;Maghrib-7:16PM;Isha-8:46PM;",
+      },
+      {
+        date: "2025-07-07",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:28PM;Asr-3:49PM;Maghrib-7:16PM;Isha-8:46PM;",
+      },
+      {
+        date: "2025-07-08",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:28PM;Asr-3:50PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-07-09",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:28PM;Asr-3:50PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-07-10",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:28PM;Asr-3:50PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-07-11",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:29PM;Asr-3:51PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-07-12",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:29PM;Asr-3:51PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-07-13",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:29PM;Asr-3:51PM;Maghrib-7:15PM;Isha-8:45PM;",
+      },
+      {
+        date: "2025-07-14",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:29PM;Asr-3:51PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-15",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:29PM;Asr-3:52PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-16",
+        schedule:
+          "Fazr-4:16AM;Zuhr-12:29PM;Asr-3:52PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-17",
+        schedule:
+          "Fazr-4:16AM;Zuhr-12:29PM;Asr-3:52PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-18",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:29PM;Asr-3:52PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-19",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:29PM;Asr-3:53PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-20",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:29PM;Asr-3:53PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-21",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:30PM;Asr-3:53PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-07-22",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:30PM;Asr-3:53PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-07-23",
+        schedule:
+          "Fazr-4:20AM;Zuhr-12:30PM;Asr-3:54PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-07-24",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:30PM;Asr-3:54PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-07-25",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:30PM;Asr-3:54PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-07-26",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:30PM;Asr-3:54PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-27",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:30PM;Asr-3:54PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-28",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:30PM;Asr-3:55PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-29",
+        schedule:
+          "Fazr-4:24AM;Zuhr-12:30PM;Asr-3:55PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-30",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:30PM;Asr-3:55PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-31",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:29PM;Asr-3:55PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-08-01",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:29PM;Asr-3:55PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-08-02",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:29PM;Asr-3:55PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-08-03",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:29PM;Asr-3:55PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-08-04",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:29PM;Asr-3:55PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-08-05",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:29PM;Asr-3:55PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-08-06",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:29PM;Asr-3:55PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-08-07",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:29PM;Asr-3:56PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-08-08",
+        schedule:
+          "Fazr-4:31AM;Zuhr-12:29PM;Asr-3:56PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-08-09",
+        schedule:
+          "Fazr-4:31AM;Zuhr-12:29PM;Asr-3:56PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-08-10",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:28PM;Asr-3:56PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-08-11",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:28PM;Asr-3:55PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-08-12",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:28PM;Asr-3:55PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-08-13",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:28PM;Asr-3:55PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-08-14",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:28PM;Asr-3:55PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-08-15",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:28PM;Asr-3:55PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-08-16",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:27PM;Asr-3:55PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-08-17",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:27PM;Asr-3:55PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-08-18",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:27PM;Asr-3:55PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-08-19",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:27PM;Asr-3:55PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-08-20",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:26PM;Asr-3:55PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-08-21",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:26PM;Asr-3:54PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-08-22",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:26PM;Asr-3:54PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-08-23",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:26PM;Asr-3:54PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-08-24",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:25PM;Asr-3:54PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-08-25",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:25PM;Asr-3:54PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-08-26",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-08-27",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-08-28",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-08-29",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:24PM;Asr-3:52PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-08-30",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:24PM;Asr-3:52PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-08-31",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-09-01",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-09-02",
         schedule:
           "Fazr-4:45AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:40PM;Isha-8:10PM;",
       },
       {
-        date: "2024-09-03",
+        date: "2025-09-03",
         schedule:
           "Fazr-4:46AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:39PM;Isha-8:09PM;",
       },
       {
-        date: "2024-09-04",
+        date: "2025-09-04",
         schedule:
           "Fazr-4:46AM;Zuhr-12:22PM;Asr-3:50PM;Maghrib-6:38PM;Isha-8:08PM;",
       },
       {
-        date: "2024-09-05",
+        date: "2025-09-05",
         schedule:
           "Fazr-4:47AM;Zuhr-12:22PM;Asr-3:50PM;Maghrib-6:37PM;Isha-8:07PM;",
       },
       {
-        date: "2024-09-06",
+        date: "2025-09-06",
         schedule:
           "Fazr-4:47AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:36PM;Isha-8:06PM;",
       },
       {
-        date: "2024-09-07",
+        date: "2025-09-07",
         schedule:
           "Fazr-4:48AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:35PM;Isha-8:05PM;",
       },
       {
-        date: "2024-09-08",
+        date: "2025-09-08",
         schedule:
           "Fazr-4:48AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:34PM;Isha-8:04PM;",
       },
       {
-        date: "2024-09-09",
+        date: "2025-09-09",
         schedule:
           "Fazr-4:49AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:33PM;Isha-8:03PM;",
       },
       {
-        date: "2024-09-10",
+        date: "2025-09-10",
         schedule:
           "Fazr-4:49AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:32PM;Isha-8:02PM;",
       },
       {
-        date: "2024-09-11",
+        date: "2025-09-11",
         schedule:
           "Fazr-4:50AM;Zuhr-12:20PM;Asr-3:47PM;Maghrib-6:31PM;Isha-8:01PM;",
       },
       {
-        date: "2024-09-12",
+        date: "2025-09-12",
         schedule:
           "Fazr-4:50AM;Zuhr-12:19PM;Asr-3:47PM;Maghrib-6:30PM;Isha-8:00PM;",
       },
       {
-        date: "2024-09-13",
+        date: "2025-09-13",
         schedule:
-          "Fazr-4:51AM;Zuhr-12:19PM;Asr-3:46PM;Maghrib-6:29PM;Isha-7:59PM;",
+          "Fazr-4:50AM;Zuhr-12:19PM;Asr-3:47PM;Maghrib-6:29PM;Isha-7:59PM;",
       },
       {
-        date: "2024-09-14",
+        date: "2025-09-14",
         schedule:
-          "Fazr-4:51AM;Zuhr-12:18PM;Asr-3:46PM;Maghrib-6:28PM;Isha-7:58PM;",
+          "Fazr-4:51AM;Zuhr-12:19PM;Asr-3:46PM;Maghrib-6:28PM;Isha-7:58PM;",
       },
       {
-        date: "2024-09-15",
+        date: "2025-09-15",
         schedule:
-          "Fazr-4:51AM;Zuhr-12:18PM;Asr-3:45PM;Maghrib-6:27PM;Isha-7:57PM;",
+          "Fazr-4:51AM;Zuhr-12:18PM;Asr-3:46PM;Maghrib-6:27PM;Isha-7:57PM;",
       },
       {
-        date: "2024-09-16",
+        date: "2025-09-16",
         schedule:
           "Fazr-4:52AM;Zuhr-12:18PM;Asr-3:45PM;Maghrib-6:26PM;Isha-7:56PM;",
       },
       {
-        date: "2024-09-17",
+        date: "2025-09-17",
         schedule:
-          "Fazr-4:52AM;Zuhr-12:17PM;Asr-3:44PM;Maghrib-6:24PM;Isha-7:54PM;",
+          "Fazr-4:52AM;Zuhr-12:18PM;Asr-3:44PM;Maghrib-6:25PM;Isha-7:55PM;",
       },
       {
-        date: "2024-09-18",
+        date: "2025-09-18",
         schedule:
-          "Fazr-4:53AM;Zuhr-12:17PM;Asr-3:44PM;Maghrib-6:23PM;Isha-7:53PM;",
+          "Fazr-4:53AM;Zuhr-12:17PM;Asr-3:44PM;Maghrib-6:24PM;Isha-7:54PM;",
       },
       {
-        date: "2024-09-19",
+        date: "2025-09-19",
         schedule:
-          "Fazr-4:53AM;Zuhr-12:17PM;Asr-3:43PM;Maghrib-6:22PM;Isha-7:52PM;",
+          "Fazr-4:53AM;Zuhr-12:17PM;Asr-3:43PM;Maghrib-6:23PM;Isha-7:53PM;",
       },
       {
-        date: "2024-09-20",
+        date: "2025-09-20",
         schedule:
-          "Fazr-4:53AM;Zuhr-12:16PM;Asr-3:43PM;Maghrib-6:21PM;Isha-7:51PM;",
+          "Fazr-4:53AM;Zuhr-12:16PM;Asr-3:43PM;Maghrib-6:22PM;Isha-7:52PM;",
       },
       {
-        date: "2024-09-21",
+        date: "2025-09-21",
         schedule:
           "Fazr-4:54AM;Zuhr-12:16PM;Asr-3:42PM;Maghrib-6:20PM;Isha-7:50PM;",
       },
       {
-        date: "2024-09-22",
+        date: "2025-09-22",
         schedule:
           "Fazr-4:54AM;Zuhr-12:16PM;Asr-3:42PM;Maghrib-6:19PM;Isha-7:49PM;",
       },
       {
-        date: "2024-09-23",
+        date: "2025-09-23",
         schedule:
           "Fazr-4:55AM;Zuhr-12:15PM;Asr-3:41PM;Maghrib-6:18PM;Isha-7:48PM;",
       },
       {
-        date: "2024-09-24",
+        date: "2025-09-24",
         schedule:
-          "Fazr-4:55AM;Zuhr-12:15PM;Asr-3:40PM;Maghrib-6:17PM;Isha-7:47PM;",
+          "Fazr-4:55AM;Zuhr-12:15PM;Asr-3:41PM;Maghrib-6:17PM;Isha-7:47PM;",
       },
       {
-        date: "2024-09-25",
+        date: "2025-09-25",
         schedule:
           "Fazr-4:55AM;Zuhr-12:15PM;Asr-3:40PM;Maghrib-6:16PM;Isha-7:46PM;",
       },
       {
-        date: "2024-09-26",
+        date: "2025-09-26",
         schedule:
-          "Fazr-4:56AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:15PM;Isha-7:45PM;",
+          "Fazr-4:56AM;Zuhr-12:14PM;Asr-3:40PM;Maghrib-6:15PM;Isha-7:45PM;",
       },
       {
-        date: "2024-09-27",
+        date: "2025-09-27",
         schedule:
           "Fazr-4:56AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:14PM;Isha-7:44PM;",
       },
       {
-        date: "2024-09-28",
+        date: "2025-09-28",
         schedule:
           "Fazr-4:57AM;Zuhr-12:14PM;Asr-3:38PM;Maghrib-6:13PM;Isha-7:43PM;",
       },
       {
-        date: "2024-09-29",
+        date: "2025-09-29",
         schedule:
           "Fazr-4:57AM;Zuhr-12:13PM;Asr-3:38PM;Maghrib-6:12PM;Isha-7:42PM;",
       },
       {
-        date: "2024-09-30",
+        date: "2025-09-30",
         schedule:
           "Fazr-4:57AM;Zuhr-12:13PM;Asr-3:37PM;Maghrib-6:11PM;Isha-7:41PM;",
       },
       {
-        date: "2024-10-01",
+        date: "2025-10-01",
         schedule:
-          "Fazr-4:58AM;Zuhr-12:13PM;Asr-3:36PM;Maghrib-6:10PM;Isha-7:40PM;",
+          "Fazr-4:58AM;Zuhr-12:13PM;Asr-3:37PM;Maghrib-6:10PM;Isha-7:40PM;",
       },
       {
-        date: "2024-10-02",
+        date: "2025-10-02",
         schedule:
           "Fazr-4:58AM;Zuhr-12:12PM;Asr-3:36PM;Maghrib-6:09PM;Isha-7:39PM;",
       },
       {
-        date: "2024-10-03",
+        date: "2025-10-03",
         schedule:
           "Fazr-4:59AM;Zuhr-12:12PM;Asr-3:35PM;Maghrib-6:08PM;Isha-7:38PM;",
       },
       {
-        date: "2024-10-04",
+        date: "2025-10-04",
         schedule:
           "Fazr-4:59AM;Zuhr-12:12PM;Asr-3:35PM;Maghrib-6:07PM;Isha-7:37PM;",
       },
       {
-        date: "2024-10-05",
+        date: "2025-10-05",
         schedule:
           "Fazr-4:59AM;Zuhr-12:11PM;Asr-3:34PM;Maghrib-6:06PM;Isha-7:36PM;",
       },
       {
-        date: "2024-10-06",
+        date: "2025-10-06",
         schedule:
           "Fazr-5:00AM;Zuhr-12:11PM;Asr-3:33PM;Maghrib-6:05PM;Isha-7:35PM;",
       },
       {
-        date: "2024-10-07",
+        date: "2025-10-07",
         schedule:
           "Fazr-5:00AM;Zuhr-12:11PM;Asr-3:33PM;Maghrib-6:04PM;Isha-7:34PM;",
       },
       {
-        date: "2024-10-08",
+        date: "2025-10-08",
         schedule:
-          "Fazr-5:01AM;Zuhr-12:10PM;Asr-3:32PM;Maghrib-6:03PM;Isha-7:33PM;",
+          "Fazr-5:00AM;Zuhr-12:11PM;Asr-3:32PM;Maghrib-6:03PM;Isha-7:33PM;",
       },
       {
-        date: "2024-10-09",
+        date: "2025-10-09",
         schedule:
           "Fazr-5:01AM;Zuhr-12:10PM;Asr-3:32PM;Maghrib-6:02PM;Isha-7:32PM;",
       },
       {
-        date: "2024-10-10",
+        date: "2025-10-10",
         schedule:
           "Fazr-5:01AM;Zuhr-12:10PM;Asr-3:31PM;Maghrib-6:01PM;Isha-7:31PM;",
       },
       {
-        date: "2024-10-11",
+        date: "2025-10-11",
         schedule:
           "Fazr-5:02AM;Zuhr-12:10PM;Asr-3:30PM;Maghrib-6:00PM;Isha-7:30PM;",
       },
       {
-        date: "2024-10-12",
+        date: "2025-10-12",
         schedule:
-          "Fazr-5:02AM;Zuhr-12:09PM;Asr-3:30PM;Maghrib-5:59PM;Isha-7:29PM;",
+          "Fazr-5:02AM;Zuhr-12:10PM;Asr-3:30PM;Maghrib-5:59PM;Isha-7:29PM;",
       },
       {
-        date: "2024-10-13",
+        date: "2025-10-13",
         schedule:
-          "Fazr-5:03AM;Zuhr-12:09PM;Asr-3:29PM;Maghrib-5:58PM;Isha-7:28PM;",
+          "Fazr-5:02AM;Zuhr-12:09PM;Asr-3:29PM;Maghrib-5:58PM;Isha-7:28PM;",
       },
       {
-        date: "2024-10-14",
+        date: "2025-10-14",
         schedule:
           "Fazr-5:03AM;Zuhr-12:09PM;Asr-3:29PM;Maghrib-5:57PM;Isha-7:27PM;",
       },
       {
-        date: "2024-10-15",
+        date: "2025-10-15",
         schedule:
           "Fazr-5:03AM;Zuhr-12:09PM;Asr-3:28PM;Maghrib-5:56PM;Isha-7:26PM;",
       },
       {
-        date: "2024-10-16",
+        date: "2025-10-16",
         schedule:
-          "Fazr-5:04AM;Zuhr-12:09PM;Asr-3:27PM;Maghrib-5:55PM;Isha-7:25PM;",
+          "Fazr-5:04AM;Zuhr-12:09PM;Asr-3:27PM;Maghrib-5:56PM;Isha-7:26PM;",
       },
       {
-        date: "2024-10-17",
+        date: "2025-10-17",
         schedule:
-          "Fazr-5:04AM;Zuhr-12:08PM;Asr-3:27PM;Maghrib-5:54PM;Isha-7:24PM;",
+          "Fazr-5:04AM;Zuhr-12:08PM;Asr-3:27PM;Maghrib-5:55PM;Isha-7:25PM;",
       },
       {
-        date: "2024-10-18",
+        date: "2025-10-18",
         schedule:
           "Fazr-5:05AM;Zuhr-12:08PM;Asr-3:26PM;Maghrib-5:54PM;Isha-7:24PM;",
       },
       {
-        date: "2024-10-19",
+        date: "2025-10-19",
         schedule:
           "Fazr-5:05AM;Zuhr-12:08PM;Asr-3:26PM;Maghrib-5:53PM;Isha-7:23PM;",
       },
       {
-        date: "2024-10-20",
+        date: "2025-10-20",
         schedule:
           "Fazr-5:05AM;Zuhr-12:08PM;Asr-3:25PM;Maghrib-5:52PM;Isha-7:22PM;",
       },
       {
-        date: "2024-10-21",
+        date: "2025-10-21",
         schedule:
-          "Fazr-5:06AM;Zuhr-12:08PM;Asr-3:24PM;Maghrib-5:51PM;Isha-7:21PM;",
+          "Fazr-5:06AM;Zuhr-12:08PM;Asr-3:25PM;Maghrib-5:51PM;Isha-7:21PM;",
       },
       {
-        date: "2024-10-22",
+        date: "2025-10-22",
         schedule:
-          "Fazr-5:06AM;Zuhr-12:07PM;Asr-3:24PM;Maghrib-5:50PM;Isha-7:20PM;",
+          "Fazr-5:06AM;Zuhr-12:08PM;Asr-3:24PM;Maghrib-5:50PM;Isha-7:20PM;",
       },
       {
-        date: "2024-10-23",
+        date: "2025-10-23",
+        schedule:
+          "Fazr-5:07AM;Zuhr-12:07PM;Asr-3:24PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-10-24",
         schedule:
           "Fazr-5:07AM;Zuhr-12:07PM;Asr-3:23PM;Maghrib-5:49PM;Isha-7:19PM;",
       },
       {
-        date: "2024-10-24",
-        schedule:
-          "Fazr-5:07AM;Zuhr-12:07PM;Asr-3:23PM;Maghrib-5:49PM;Isha-7:19PM;",
-      },
-      {
-        date: "2024-10-25",
+        date: "2025-10-25",
         schedule:
           "Fazr-5:08AM;Zuhr-12:07PM;Asr-3:22PM;Maghrib-5:48PM;Isha-7:18PM;",
       },
       {
-        date: "2024-10-26",
+        date: "2025-10-26",
         schedule:
           "Fazr-5:08AM;Zuhr-12:07PM;Asr-3:22PM;Maghrib-5:47PM;Isha-7:17PM;",
       },
       {
-        date: "2024-10-27",
+        date: "2025-10-27",
+        schedule:
+          "Fazr-5:08AM;Zuhr-12:07PM;Asr-3:21PM;Maghrib-5:47PM;Isha-7:17PM;",
+      },
+      {
+        date: "2025-10-28",
         schedule:
           "Fazr-5:09AM;Zuhr-12:07PM;Asr-3:21PM;Maghrib-5:46PM;Isha-7:16PM;",
       },
       {
-        date: "2024-10-28",
+        date: "2025-10-29",
         schedule:
-          "Fazr-5:09AM;Zuhr-12:07PM;Asr-3:21PM;Maghrib-5:46PM;Isha-7:16PM;",
+          "Fazr-5:09AM;Zuhr-12:07PM;Asr-3:20PM;Maghrib-5:45PM;Isha-7:15PM;",
       },
       {
-        date: "2024-10-29",
-        schedule:
-          "Fazr-5:10AM;Zuhr-12:07PM;Asr-3:20PM;Maghrib-5:45PM;Isha-7:15PM;",
-      },
-      {
-        date: "2024-10-30",
+        date: "2025-10-30",
         schedule:
           "Fazr-5:10AM;Zuhr-12:07PM;Asr-3:20PM;Maghrib-5:44PM;Isha-7:14PM;",
       },
       {
-        date: "2024-10-31",
+        date: "2025-10-31",
         schedule:
-          "Fazr-5:10AM;Zuhr-12:07PM;Asr-3:19PM;Maghrib-5:44PM;Isha-7:14PM;",
+          "Fazr-5:10AM;Zuhr-12:07PM;Asr-3:20PM;Maghrib-5:44PM;Isha-7:14PM;",
       },
       {
-        date: "2024-11-01",
+        date: "2025-11-01",
         schedule:
           "Fazr-5:11AM;Zuhr-12:07PM;Asr-3:19PM;Maghrib-5:43PM;Isha-7:13PM;",
       },
       {
-        date: "2024-11-02",
+        date: "2025-11-02",
         schedule:
-          "Fazr-5:11AM;Zuhr-12:07PM;Asr-3:19PM;Maghrib-5:42PM;Isha-7:12PM;",
+          "Fazr-5:11AM;Zuhr-12:07PM;Asr-3:19PM;Maghrib-5:43PM;Isha-7:13PM;",
       },
       {
-        date: "2024-11-03",
+        date: "2025-11-03",
         schedule:
           "Fazr-5:12AM;Zuhr-12:07PM;Asr-3:18PM;Maghrib-5:42PM;Isha-7:12PM;",
       },
       {
-        date: "2024-11-04",
+        date: "2025-11-04",
         schedule:
           "Fazr-5:12AM;Zuhr-12:07PM;Asr-3:18PM;Maghrib-5:41PM;Isha-7:11PM;",
       },
       {
-        date: "2024-11-05",
+        date: "2025-11-05",
         schedule:
           "Fazr-5:13AM;Zuhr-12:07PM;Asr-3:17PM;Maghrib-5:41PM;Isha-7:11PM;",
       },
       {
-        date: "2024-11-06",
+        date: "2025-11-06",
         schedule:
           "Fazr-5:13AM;Zuhr-12:07PM;Asr-3:17PM;Maghrib-5:40PM;Isha-7:10PM;",
       },
       {
-        date: "2024-11-07",
+        date: "2025-11-07",
         schedule:
           "Fazr-5:14AM;Zuhr-12:07PM;Asr-3:17PM;Maghrib-5:40PM;Isha-7:10PM;",
       },
       {
-        date: "2024-11-08",
+        date: "2025-11-08",
+        schedule:
+          "Fazr-5:14AM;Zuhr-12:07PM;Asr-3:16PM;Maghrib-5:39PM;Isha-7:09PM;",
+      },
+      {
+        date: "2025-11-09",
         schedule:
           "Fazr-5:15AM;Zuhr-12:07PM;Asr-3:16PM;Maghrib-5:39PM;Isha-7:09PM;",
       },
       {
-        date: "2024-11-09",
+        date: "2025-11-10",
         schedule:
-          "Fazr-5:15AM;Zuhr-12:07PM;Asr-3:16PM;Maghrib-5:39PM;Isha-7:09PM;",
+          "Fazr-5:15AM;Zuhr-12:07PM;Asr-3:16PM;Maghrib-5:38PM;Isha-7:08PM;",
       },
       {
-        date: "2024-11-10",
-        schedule:
-          "Fazr-5:16AM;Zuhr-12:07PM;Asr-3:16PM;Maghrib-5:38PM;Isha-7:08PM;",
-      },
-      {
-        date: "2024-11-11",
+        date: "2025-11-11",
         schedule:
           "Fazr-5:16AM;Zuhr-12:07PM;Asr-3:15PM;Maghrib-5:38PM;Isha-7:08PM;",
       },
       {
-        date: "2024-11-12",
+        date: "2025-11-12",
         schedule:
           "Fazr-5:17AM;Zuhr-12:07PM;Asr-3:15PM;Maghrib-5:37PM;Isha-7:07PM;",
       },
       {
-        date: "2024-11-13",
+        date: "2025-11-13",
         schedule:
           "Fazr-5:17AM;Zuhr-12:07PM;Asr-3:15PM;Maghrib-5:37PM;Isha-7:07PM;",
       },
       {
-        date: "2024-11-14",
+        date: "2025-11-14",
         schedule:
-          "Fazr-5:18AM;Zuhr-12:08PM;Asr-3:15PM;Maghrib-5:37PM;Isha-7:07PM;",
+          "Fazr-5:18AM;Zuhr-12:07PM;Asr-3:15PM;Maghrib-5:37PM;Isha-7:07PM;",
       },
       {
-        date: "2024-11-15",
+        date: "2025-11-15",
         schedule:
           "Fazr-5:18AM;Zuhr-12:08PM;Asr-3:14PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-11-16",
+        date: "2025-11-16",
         schedule:
           "Fazr-5:19AM;Zuhr-12:08PM;Asr-3:14PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-11-17",
+        date: "2025-11-17",
         schedule:
           "Fazr-5:19AM;Zuhr-12:08PM;Asr-3:14PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-11-18",
+        date: "2025-11-18",
         schedule:
           "Fazr-5:20AM;Zuhr-12:08PM;Asr-3:14PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-11-19",
+        date: "2025-11-19",
         schedule:
           "Fazr-5:21AM;Zuhr-12:08PM;Asr-3:14PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-11-20",
+        date: "2025-11-20",
         schedule:
           "Fazr-5:21AM;Zuhr-12:09PM;Asr-3:14PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-11-21",
+        date: "2025-11-21",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:09PM;Asr-3:14PM;Maghrib-5:35PM;Isha-7:05PM;",
+      },
+      {
+        date: "2025-11-22",
         schedule:
           "Fazr-5:22AM;Zuhr-12:09PM;Asr-3:13PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-11-22",
+        date: "2025-11-23",
         schedule:
-          "Fazr-5:22AM;Zuhr-12:09PM;Asr-3:13PM;Maghrib-5:34PM;Isha-7:04PM;",
+          "Fazr-5:23AM;Zuhr-12:09PM;Asr-3:13PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-11-23",
+        date: "2025-11-24",
         schedule:
           "Fazr-5:23AM;Zuhr-12:10PM;Asr-3:13PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-11-24",
+        date: "2025-11-25",
         schedule:
           "Fazr-5:24AM;Zuhr-12:10PM;Asr-3:13PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-11-25",
-        schedule:
-          "Fazr-5:24AM;Zuhr-12:10PM;Asr-3:13PM;Maghrib-5:34PM;Isha-7:04PM;",
-      },
-      {
-        date: "2024-11-26",
+        date: "2025-11-26",
         schedule:
           "Fazr-5:25AM;Zuhr-12:10PM;Asr-3:13PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-11-27",
+        date: "2025-11-27",
         schedule:
           "Fazr-5:25AM;Zuhr-12:11PM;Asr-3:13PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-11-28",
+        date: "2025-11-28",
         schedule:
           "Fazr-5:26AM;Zuhr-12:11PM;Asr-3:13PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-11-29",
+        date: "2025-11-29",
         schedule:
-          "Fazr-5:27AM;Zuhr-12:11PM;Asr-3:13PM;Maghrib-5:34PM;Isha-7:04PM;",
+          "Fazr-5:26AM;Zuhr-12:11PM;Asr-3:13PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-11-30",
+        date: "2025-11-30",
         schedule:
           "Fazr-5:27AM;Zuhr-12:12PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-12-01",
+        date: "2025-12-01",
         schedule:
           "Fazr-5:28AM;Zuhr-12:12PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-12-02",
+        date: "2025-12-02",
         schedule:
-          "Fazr-5:28AM;Zuhr-12:13PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
+          "Fazr-5:28AM;Zuhr-12:12PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-12-03",
+        date: "2025-12-03",
         schedule:
           "Fazr-5:29AM;Zuhr-12:13PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-12-04",
+        date: "2025-12-04",
         schedule:
-          "Fazr-5:30AM;Zuhr-12:13PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
+          "Fazr-5:29AM;Zuhr-12:13PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-12-05",
+        date: "2025-12-05",
         schedule:
-          "Fazr-5:30AM;Zuhr-12:14PM;Asr-3:14PM;Maghrib-5:35PM;Isha-7:05PM;",
+          "Fazr-5:30AM;Zuhr-12:14PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-12-06",
+        date: "2025-12-06",
         schedule:
-          "Fazr-5:31AM;Zuhr-12:14PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
+          "Fazr-5:31AM;Zuhr-12:14PM;Asr-3:14PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-12-07",
+        date: "2025-12-07",
         schedule:
           "Fazr-5:31AM;Zuhr-12:15PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-12-08",
+        date: "2025-12-08",
         schedule:
           "Fazr-5:32AM;Zuhr-12:15PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-12-09",
+        date: "2025-12-09",
         schedule:
-          "Fazr-5:33AM;Zuhr-12:16PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
+          "Fazr-5:32AM;Zuhr-12:15PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-12-10",
+        date: "2025-12-10",
         schedule:
           "Fazr-5:33AM;Zuhr-12:16PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-12-11",
+        date: "2025-12-11",
         schedule:
           "Fazr-5:34AM;Zuhr-12:16PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-12-12",
+        date: "2025-12-12",
         schedule:
           "Fazr-5:34AM;Zuhr-12:17PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-12-13",
+        date: "2025-12-13",
         schedule:
-          "Fazr-5:35AM;Zuhr-12:17PM;Asr-3:17PM;Maghrib-5:37PM;Isha-7:07PM;",
+          "Fazr-5:35AM;Zuhr-12:17PM;Asr-3:17PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-12-14",
+        date: "2025-12-14",
         schedule:
           "Fazr-5:35AM;Zuhr-12:18PM;Asr-3:17PM;Maghrib-5:37PM;Isha-7:07PM;",
       },
       {
-        date: "2024-12-15",
+        date: "2025-12-15",
         schedule:
           "Fazr-5:36AM;Zuhr-12:18PM;Asr-3:17PM;Maghrib-5:37PM;Isha-7:07PM;",
       },
       {
-        date: "2024-12-16",
+        date: "2025-12-16",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:19PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
+      },
+      {
+        date: "2025-12-17",
         schedule:
           "Fazr-5:37AM;Zuhr-12:19PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
       },
       {
-        date: "2024-12-17",
+        date: "2025-12-18",
         schedule:
-          "Fazr-5:37AM;Zuhr-12:19PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
+          "Fazr-5:38AM;Zuhr-12:20PM;Asr-3:19PM;Maghrib-5:38PM;Isha-7:08PM;",
       },
       {
-        date: "2024-12-18",
-        schedule:
-          "Fazr-5:38AM;Zuhr-12:20PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
-      },
-      {
-        date: "2024-12-19",
+        date: "2025-12-19",
         schedule:
           "Fazr-5:38AM;Zuhr-12:20PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
       },
       {
-        date: "2024-12-20",
+        date: "2025-12-20",
         schedule:
-          "Fazr-5:39AM;Zuhr-12:21PM;Asr-3:20PM;Maghrib-5:39PM;Isha-7:09PM;",
+          "Fazr-5:39AM;Zuhr-12:21PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
       },
       {
-        date: "2024-12-21",
+        date: "2025-12-21",
         schedule:
           "Fazr-5:39AM;Zuhr-12:21PM;Asr-3:20PM;Maghrib-5:40PM;Isha-7:10PM;",
       },
       {
-        date: "2024-12-22",
+        date: "2025-12-22",
         schedule:
-          "Fazr-5:40AM;Zuhr-12:22PM;Asr-3:21PM;Maghrib-5:40PM;Isha-7:10PM;",
+          "Fazr-5:40AM;Zuhr-12:22PM;Asr-3:20PM;Maghrib-5:40PM;Isha-7:10PM;",
       },
       {
-        date: "2024-12-23",
+        date: "2025-12-23",
         schedule:
           "Fazr-5:40AM;Zuhr-12:22PM;Asr-3:21PM;Maghrib-5:41PM;Isha-7:11PM;",
       },
       {
-        date: "2024-12-24",
+        date: "2025-12-24",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:23PM;Asr-3:22PM;Maghrib-5:41PM;Isha-7:11PM;",
+      },
+      {
+        date: "2025-12-25",
         schedule:
           "Fazr-5:41AM;Zuhr-12:23PM;Asr-3:22PM;Maghrib-5:42PM;Isha-7:12PM;",
       },
       {
-        date: "2024-12-25",
-        schedule:
-          "Fazr-5:41AM;Zuhr-12:23PM;Asr-3:22PM;Maghrib-5:42PM;Isha-7:12PM;",
-      },
-      {
-        date: "2024-12-26",
+        date: "2025-12-26",
         schedule:
           "Fazr-5:41AM;Zuhr-12:24PM;Asr-3:23PM;Maghrib-5:43PM;Isha-7:13PM;",
       },
       {
-        date: "2024-12-27",
+        date: "2025-12-27",
         schedule:
           "Fazr-5:42AM;Zuhr-12:24PM;Asr-3:23PM;Maghrib-5:43PM;Isha-7:13PM;",
       },
       {
-        date: "2024-12-28",
+        date: "2025-12-28",
         schedule:
           "Fazr-5:42AM;Zuhr-12:25PM;Asr-3:24PM;Maghrib-5:44PM;Isha-7:14PM;",
       },
       {
-        date: "2024-12-29",
+        date: "2025-12-29",
         schedule:
-          "Fazr-5:43AM;Zuhr-12:25PM;Asr-3:25PM;Maghrib-5:44PM;Isha-7:14PM;",
+          "Fazr-5:43AM;Zuhr-12:25PM;Asr-3:24PM;Maghrib-5:44PM;Isha-7:14PM;",
       },
       {
-        date: "2024-12-30",
+        date: "2025-12-30",
         schedule:
           "Fazr-5:43AM;Zuhr-12:26PM;Asr-3:25PM;Maghrib-5:45PM;Isha-7:15PM;",
       },
       {
-        date: "2024-12-31",
+        date: "2025-12-31",
         schedule:
           "Fazr-5:43AM;Zuhr-12:26PM;Asr-3:26PM;Maghrib-5:46PM;Isha-7:16PM;",
       },
     ],
     ajman: [
       {
-        date: "2024-09-01",
+        date: "2025-01-01",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:22PM;Asr-3:20PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+      {
+        date: "2025-01-02",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:23PM;Asr-3:21PM;Maghrib-5:41PM;Isha-7:11PM;",
+      },
+      {
+        date: "2025-01-03",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:23PM;Asr-3:22PM;Maghrib-5:42PM;Isha-7:12PM;",
+      },
+      {
+        date: "2025-01-04",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:24PM;Asr-3:22PM;Maghrib-5:42PM;Isha-7:12PM;",
+      },
+      {
+        date: "2025-01-05",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:24PM;Asr-3:23PM;Maghrib-5:43PM;Isha-7:13PM;",
+      },
+      {
+        date: "2025-01-06",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:25PM;Asr-3:24PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-01-07",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:25PM;Asr-3:24PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-01-08",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:26PM;Asr-3:25PM;Maghrib-5:45PM;Isha-7:15PM;",
+      },
+      {
+        date: "2025-01-09",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:26PM;Asr-3:26PM;Maghrib-5:46PM;Isha-7:16PM;",
+      },
+      {
+        date: "2025-01-10",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:26PM;Asr-3:26PM;Maghrib-5:47PM;Isha-7:17PM;",
+      },
+      {
+        date: "2025-01-11",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:27PM;Asr-3:27PM;Maghrib-5:47PM;Isha-7:17PM;",
+      },
+      {
+        date: "2025-01-12",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:27PM;Asr-3:28PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-01-13",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:27PM;Asr-3:29PM;Maghrib-5:49PM;Isha-7:19PM;",
+      },
+      {
+        date: "2025-01-14",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:28PM;Asr-3:29PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-01-15",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:28PM;Asr-3:30PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-01-16",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:29PM;Asr-3:31PM;Maghrib-5:51PM;Isha-7:21PM;",
+      },
+      {
+        date: "2025-01-17",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:29PM;Asr-3:31PM;Maghrib-5:52PM;Isha-7:22PM;",
+      },
+      {
+        date: "2025-01-18",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:29PM;Asr-3:32PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-01-19",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:30PM;Asr-3:33PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-01-20",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:30PM;Asr-3:33PM;Maghrib-5:54PM;Isha-7:24PM;",
+      },
+      {
+        date: "2025-01-21",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:30PM;Asr-3:34PM;Maghrib-5:55PM;Isha-7:25PM;",
+      },
+      {
+        date: "2025-01-22",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:30PM;Asr-3:35PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-01-23",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:31PM;Asr-3:35PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-01-24",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:31PM;Asr-3:36PM;Maghrib-5:57PM;Isha-7:27PM;",
+      },
+      {
+        date: "2025-01-25",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:31PM;Asr-3:37PM;Maghrib-5:58PM;Isha-7:28PM;",
+      },
+      {
+        date: "2025-01-26",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:31PM;Asr-3:37PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-01-27",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:32PM;Asr-3:38PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-01-28",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:32PM;Asr-3:38PM;Maghrib-6:00PM;Isha-7:30PM;",
+      },
+      {
+        date: "2025-01-29",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:32PM;Asr-3:39PM;Maghrib-6:01PM;Isha-7:31PM;",
+      },
+      {
+        date: "2025-01-30",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:32PM;Asr-3:40PM;Maghrib-6:02PM;Isha-7:32PM;",
+      },
+      {
+        date: "2025-01-31",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:32PM;Asr-3:40PM;Maghrib-6:02PM;Isha-7:32PM;",
+      },
+      {
+        date: "2025-02-01",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:32PM;Asr-3:41PM;Maghrib-6:03PM;Isha-7:33PM;",
+      },
+      {
+        date: "2025-02-02",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:32PM;Asr-3:41PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-02-03",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:33PM;Asr-3:42PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-02-04",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:33PM;Asr-3:42PM;Maghrib-6:05PM;Isha-7:35PM;",
+      },
+      {
+        date: "2025-02-05",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:33PM;Asr-3:43PM;Maghrib-6:06PM;Isha-7:36PM;",
+      },
+      {
+        date: "2025-02-06",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:33PM;Asr-3:43PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-02-07",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:33PM;Asr-3:44PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-02-08",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:33PM;Asr-3:44PM;Maghrib-6:08PM;Isha-7:38PM;",
+      },
+      {
+        date: "2025-02-09",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:33PM;Asr-3:45PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-02-10",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:33PM;Asr-3:45PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-02-11",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:33PM;Asr-3:46PM;Maghrib-6:10PM;Isha-7:40PM;",
+      },
+      {
+        date: "2025-02-12",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:33PM;Asr-3:46PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-02-13",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:33PM;Asr-3:47PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-02-14",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:33PM;Asr-3:47PM;Maghrib-6:12PM;Isha-7:42PM;",
+      },
+      {
+        date: "2025-02-15",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:33PM;Asr-3:47PM;Maghrib-6:13PM;Isha-7:43PM;",
+      },
+      {
+        date: "2025-02-16",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:33PM;Asr-3:48PM;Maghrib-6:13PM;Isha-7:43PM;",
+      },
+      {
+        date: "2025-02-17",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:33PM;Asr-3:48PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-02-18",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:33PM;Asr-3:49PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-02-19",
+        schedule:
+          "Fazr-5:31AM;Zuhr-12:33PM;Asr-3:49PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-02-20",
+        schedule:
+          "Fazr-5:30AM;Zuhr-12:32PM;Asr-3:49PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-02-21",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:32PM;Asr-3:50PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-02-22",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:32PM;Asr-3:50PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-02-23",
+        schedule:
+          "Fazr-5:28AM;Zuhr-12:32PM;Asr-3:50PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-02-24",
+        schedule:
+          "Fazr-5:27AM;Zuhr-12:32PM;Asr-3:50PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-02-25",
+        schedule:
+          "Fazr-5:26AM;Zuhr-12:32PM;Asr-3:51PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-02-26",
+        schedule:
+          "Fazr-5:25AM;Zuhr-12:32PM;Asr-3:51PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-02-27",
+        schedule:
+          "Fazr-5:24AM;Zuhr-12:31PM;Asr-3:51PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-02-28",
+        schedule:
+          "Fazr-5:24AM;Zuhr-12:31PM;Asr-3:51PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-03-01",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:31PM;Asr-3:52PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-03-02",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:31PM;Asr-3:52PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-03-03",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:31PM;Asr-3:52PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-03-04",
+        schedule:
+          "Fazr-5:20AM;Zuhr-12:30PM;Asr-3:52PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-03-05",
+        schedule:
+          "Fazr-5:19AM;Zuhr-12:30PM;Asr-3:52PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-03-06",
+        schedule:
+          "Fazr-5:18AM;Zuhr-12:30PM;Asr-3:52PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-03-07",
+        schedule:
+          "Fazr-5:17AM;Zuhr-12:30PM;Asr-3:52PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-03-08",
+        schedule:
+          "Fazr-5:16AM;Zuhr-12:29PM;Asr-3:52PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-03-09",
+        schedule:
+          "Fazr-5:15AM;Zuhr-12:29PM;Asr-3:53PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-03-10",
+        schedule:
+          "Fazr-5:14AM;Zuhr-12:29PM;Asr-3:53PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-03-11",
+        schedule:
+          "Fazr-5:13AM;Zuhr-12:29PM;Asr-3:53PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-12",
+        schedule:
+          "Fazr-5:12AM;Zuhr-12:28PM;Asr-3:53PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-13",
+        schedule:
+          "Fazr-5:11AM;Zuhr-12:28PM;Asr-3:53PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-03-14",
+        schedule:
+          "Fazr-5:10AM;Zuhr-12:28PM;Asr-3:53PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-03-15",
+        schedule:
+          "Fazr-5:09AM;Zuhr-12:28PM;Asr-3:53PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-16",
+        schedule:
+          "Fazr-5:08AM;Zuhr-12:27PM;Asr-3:53PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-17",
+        schedule:
+          "Fazr-5:07AM;Zuhr-12:27PM;Asr-3:53PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-18",
+        schedule:
+          "Fazr-5:06AM;Zuhr-12:27PM;Asr-3:53PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-19",
+        schedule:
+          "Fazr-5:05AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-20",
+        schedule:
+          "Fazr-5:04AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-21",
+        schedule:
+          "Fazr-5:02AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-22",
+        schedule:
+          "Fazr-5:01AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-03-23",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:25PM;Asr-3:52PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-03-24",
+        schedule:
+          "Fazr-4:59AM;Zuhr-12:25PM;Asr-3:52PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-03-25",
+        schedule:
+          "Fazr-4:58AM;Zuhr-12:25PM;Asr-3:52PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-03-26",
+        schedule:
+          "Fazr-4:57AM;Zuhr-12:24PM;Asr-3:52PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-03-27",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:24PM;Asr-3:52PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-03-28",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:24PM;Asr-3:52PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-03-29",
+        schedule:
+          "Fazr-4:53AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-03-30",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-03-31",
+        schedule:
+          "Fazr-4:51AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-04-01",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-04-02",
+        schedule:
+          "Fazr-4:49AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-04-03",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-04-04",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-04-05",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:21PM;Asr-3:51PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-04-06",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-04-07",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-04-08",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-04-09",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:20PM;Asr-3:50PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-04-10",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:20PM;Asr-3:50PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-04-11",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-04-12",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-04-13",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:19PM;Asr-3:49PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-04-14",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:19PM;Asr-3:49PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-04-15",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-04-16",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-04-17",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:18PM;Asr-3:48PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-04-18",
+        schedule:
+          "Fazr-4:31AM;Zuhr-12:18PM;Asr-3:48PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-04-19",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:18PM;Asr-3:48PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-04-20",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-04-21",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:17PM;Asr-3:47PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-04-22",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:17PM;Asr-3:47PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-04-23",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:17PM;Asr-3:47PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-04-24",
+        schedule:
+          "Fazr-4:24AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-04-25",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-04-26",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-04-27",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:16PM;Asr-3:46PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-04-28",
+        schedule:
+          "Fazr-4:20AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-04-29",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-04-30",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-05-01",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-05-02",
+        schedule:
+          "Fazr-4:16AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-05-03",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-05-04",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-05-05",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-05-06",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-05-07",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-05-08",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-05-09",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-05-10",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-05-11",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-05-12",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-05-13",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-05-14",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-05-15",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-05-16",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-05-17",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-05-18",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-05-19",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-05-20",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:15PM;Asr-3:41PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-05-21",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:15PM;Asr-3:41PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-05-22",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:15PM;Asr-3:41PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-05-23",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-05-24",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-05-25",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-05-26",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-05-27",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-05-28",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-05-29",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-05-30",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-05-31",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-06-01",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-06-02",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-06-03",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-06-04",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-06-05",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-06-06",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-07",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:18PM;Asr-3:41PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-08",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:18PM;Asr-3:41PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-09",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:18PM;Asr-3:42PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-10",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:18PM;Asr-3:42PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-11",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:18PM;Asr-3:42PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-12",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:19PM;Asr-3:42PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-06-13",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:19PM;Asr-3:42PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-06-14",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:19PM;Asr-3:42PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-06-15",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:19PM;Asr-3:42PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-06-16",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-06-17",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-06-18",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-06-19",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-06-20",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-06-21",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:21PM;Asr-3:44PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-06-22",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:21PM;Asr-3:44PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-23",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:21PM;Asr-3:44PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-24",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:21PM;Asr-3:44PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-25",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:21PM;Asr-3:45PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-26",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:22PM;Asr-3:45PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-27",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:22PM;Asr-3:45PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-28",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:22PM;Asr-3:45PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-29",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:22PM;Asr-3:46PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-30",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:23PM;Asr-3:46PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-01",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:23PM;Asr-3:46PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-02",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:23PM;Asr-3:46PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-03",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:23PM;Asr-3:47PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-04",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:23PM;Asr-3:47PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-05",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:23PM;Asr-3:47PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-06",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-07",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-08",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-09",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-10",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-11",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-12",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-13",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:25PM;Asr-3:49PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-07-14",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:25PM;Asr-3:50PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-07-15",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:25PM;Asr-3:50PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-07-16",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:25PM;Asr-3:50PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-07-17",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:25PM;Asr-3:50PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-07-18",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:25PM;Asr-3:51PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-07-19",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:25PM;Asr-3:51PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-07-20",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:25PM;Asr-3:51PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-21",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:25PM;Asr-3:51PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-22",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:25PM;Asr-3:51PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-23",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:25PM;Asr-3:52PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-24",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:25PM;Asr-3:52PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-25",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:25PM;Asr-3:52PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-26",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:25PM;Asr-3:52PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-27",
+        schedule:
+          "Fazr-4:16AM;Zuhr-12:25PM;Asr-3:52PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-28",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:25PM;Asr-3:52PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-29",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-07-30",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-07-31",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-08-01",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-08-02",
+        schedule:
+          "Fazr-4:20AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-08-03",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-08-04",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-08-05",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-08-06",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-08-07",
+        schedule:
+          "Fazr-4:24AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-08-08",
+        schedule:
+          "Fazr-4:24AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-08-09",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-08-10",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-08-11",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-08-12",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-08-13",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-08-14",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:23PM;Asr-3:53PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-08-15",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:23PM;Asr-3:53PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-08-16",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-08-17",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-08-18",
+        schedule:
+          "Fazr-4:31AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-08-19",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:22PM;Asr-3:52PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-08-20",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:22PM;Asr-3:52PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-08-21",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:22PM;Asr-3:52PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-08-22",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-08-23",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:21PM;Asr-3:51PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-08-24",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:21PM;Asr-3:51PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-08-25",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:21PM;Asr-3:51PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-08-26",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-08-27",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:20PM;Asr-3:50PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-08-28",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:20PM;Asr-3:50PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-08-29",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-08-30",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:19PM;Asr-3:49PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-08-31",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:19PM;Asr-3:49PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-09-01",
         schedule:
           "Fazr-4:39AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:38PM;Isha-8:08PM;",
       },
       {
-        date: "2024-09-02",
+        date: "2025-09-02",
         schedule:
-          "Fazr-4:40AM;Zuhr-12:18PM;Asr-3:48PM;Maghrib-6:36PM;Isha-8:06PM;",
+          "Fazr-4:40AM;Zuhr-12:18PM;Asr-3:48PM;Maghrib-6:37PM;Isha-8:07PM;",
       },
       {
-        date: "2024-09-03",
+        date: "2025-09-03",
         schedule:
-          "Fazr-4:40AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:35PM;Isha-8:05PM;",
+          "Fazr-4:40AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:36PM;Isha-8:06PM;",
       },
       {
-        date: "2024-09-04",
+        date: "2025-09-04",
         schedule:
-          "Fazr-4:41AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:34PM;Isha-8:04PM;",
+          "Fazr-4:41AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:35PM;Isha-8:05PM;",
       },
       {
-        date: "2024-09-05",
+        date: "2025-09-05",
         schedule:
-          "Fazr-4:41AM;Zuhr-12:17PM;Asr-3:47PM;Maghrib-6:33PM;Isha-8:03PM;",
+          "Fazr-4:41AM;Zuhr-12:17PM;Asr-3:47PM;Maghrib-6:34PM;Isha-8:04PM;",
       },
       {
-        date: "2024-09-06",
+        date: "2025-09-06",
         schedule:
-          "Fazr-4:42AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:32PM;Isha-8:02PM;",
+          "Fazr-4:42AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:33PM;Isha-8:03PM;",
       },
       {
-        date: "2024-09-07",
+        date: "2025-09-07",
         schedule:
           "Fazr-4:42AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:31PM;Isha-8:01PM;",
       },
       {
-        date: "2024-09-08",
+        date: "2025-09-08",
         schedule:
           "Fazr-4:43AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:30PM;Isha-8:00PM;",
       },
       {
-        date: "2024-09-09",
+        date: "2025-09-09",
         schedule:
           "Fazr-4:43AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:29PM;Isha-7:59PM;",
       },
       {
-        date: "2024-09-10",
+        date: "2025-09-10",
         schedule:
           "Fazr-4:44AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:28PM;Isha-7:58PM;",
       },
       {
-        date: "2024-09-11",
+        date: "2025-09-11",
         schedule:
           "Fazr-4:44AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:27PM;Isha-7:57PM;",
       },
       {
-        date: "2024-09-12",
+        date: "2025-09-12",
         schedule:
           "Fazr-4:45AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:26PM;Isha-7:56PM;",
       },
       {
-        date: "2024-09-13",
+        date: "2025-09-13",
         schedule:
           "Fazr-4:45AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:25PM;Isha-7:55PM;",
       },
       {
-        date: "2024-09-14",
+        date: "2025-09-14",
         schedule:
           "Fazr-4:46AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:24PM;Isha-7:54PM;",
       },
       {
-        date: "2024-09-15",
+        date: "2025-09-15",
         schedule:
           "Fazr-4:46AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:23PM;Isha-7:53PM;",
       },
       {
-        date: "2024-09-16",
+        date: "2025-09-16",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:14PM;Asr-3:41PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-09-17",
         schedule:
           "Fazr-4:47AM;Zuhr-12:13PM;Asr-3:41PM;Maghrib-6:21PM;Isha-7:51PM;",
       },
       {
-        date: "2024-09-17",
+        date: "2025-09-18",
         schedule:
-          "Fazr-4:47AM;Zuhr-12:13PM;Asr-3:41PM;Maghrib-6:20PM;Isha-7:50PM;",
+          "Fazr-4:47AM;Zuhr-12:13PM;Asr-3:40PM;Maghrib-6:20PM;Isha-7:50PM;",
       },
       {
-        date: "2024-09-18",
+        date: "2025-09-19",
         schedule:
-          "Fazr-4:48AM;Zuhr-12:13PM;Asr-3:40PM;Maghrib-6:19PM;Isha-7:49PM;",
+          "Fazr-4:48AM;Zuhr-12:13PM;Asr-3:40PM;Maghrib-6:18PM;Isha-7:48PM;",
       },
       {
-        date: "2024-09-19",
-        schedule:
-          "Fazr-4:48AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:18PM;Isha-7:48PM;",
-      },
-      {
-        date: "2024-09-20",
+        date: "2025-09-20",
         schedule:
           "Fazr-4:48AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:17PM;Isha-7:47PM;",
       },
       {
-        date: "2024-09-21",
+        date: "2025-09-21",
         schedule:
           "Fazr-4:49AM;Zuhr-12:12PM;Asr-3:38PM;Maghrib-6:16PM;Isha-7:46PM;",
       },
       {
-        date: "2024-09-22",
+        date: "2025-09-22",
         schedule:
           "Fazr-4:49AM;Zuhr-12:11PM;Asr-3:38PM;Maghrib-6:15PM;Isha-7:45PM;",
       },
       {
-        date: "2024-09-23",
+        date: "2025-09-23",
         schedule:
           "Fazr-4:50AM;Zuhr-12:11PM;Asr-3:37PM;Maghrib-6:14PM;Isha-7:44PM;",
       },
       {
-        date: "2024-09-24",
+        date: "2025-09-24",
         schedule:
-          "Fazr-4:50AM;Zuhr-12:11PM;Asr-3:36PM;Maghrib-6:13PM;Isha-7:43PM;",
+          "Fazr-4:50AM;Zuhr-12:11PM;Asr-3:37PM;Maghrib-6:13PM;Isha-7:43PM;",
       },
       {
-        date: "2024-09-25",
+        date: "2025-09-25",
         schedule:
           "Fazr-4:51AM;Zuhr-12:10PM;Asr-3:36PM;Maghrib-6:12PM;Isha-7:42PM;",
       },
       {
-        date: "2024-09-26",
+        date: "2025-09-26",
         schedule:
           "Fazr-4:51AM;Zuhr-12:10PM;Asr-3:35PM;Maghrib-6:11PM;Isha-7:41PM;",
       },
       {
-        date: "2024-09-27",
+        date: "2025-09-27",
         schedule:
-          "Fazr-4:51AM;Zuhr-12:10PM;Asr-3:35PM;Maghrib-6:09PM;Isha-7:39PM;",
+          "Fazr-4:51AM;Zuhr-12:10PM;Asr-3:35PM;Maghrib-6:10PM;Isha-7:40PM;",
       },
       {
-        date: "2024-09-28",
+        date: "2025-09-28",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:09PM;Asr-3:34PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-09-29",
         schedule:
           "Fazr-4:52AM;Zuhr-12:09PM;Asr-3:34PM;Maghrib-6:08PM;Isha-7:38PM;",
       },
       {
-        date: "2024-09-29",
+        date: "2025-09-30",
         schedule:
-          "Fazr-4:52AM;Zuhr-12:09PM;Asr-3:33PM;Maghrib-6:07PM;Isha-7:37PM;",
+          "Fazr-4:53AM;Zuhr-12:09PM;Asr-3:33PM;Maghrib-6:07PM;Isha-7:37PM;",
       },
       {
-        date: "2024-09-30",
-        schedule:
-          "Fazr-4:53AM;Zuhr-12:09PM;Asr-3:33PM;Maghrib-6:06PM;Isha-7:36PM;",
-      },
-      {
-        date: "2024-10-01",
+        date: "2025-10-01",
         schedule:
           "Fazr-4:53AM;Zuhr-12:08PM;Asr-3:32PM;Maghrib-6:05PM;Isha-7:35PM;",
       },
       {
-        date: "2024-10-02",
+        date: "2025-10-02",
         schedule:
-          "Fazr-4:54AM;Zuhr-12:08PM;Asr-3:31PM;Maghrib-6:04PM;Isha-7:34PM;",
+          "Fazr-4:54AM;Zuhr-12:08PM;Asr-3:32PM;Maghrib-6:04PM;Isha-7:34PM;",
       },
       {
-        date: "2024-10-03",
+        date: "2025-10-03",
         schedule:
           "Fazr-4:54AM;Zuhr-12:08PM;Asr-3:31PM;Maghrib-6:03PM;Isha-7:33PM;",
       },
       {
-        date: "2024-10-04",
+        date: "2025-10-04",
         schedule:
           "Fazr-4:54AM;Zuhr-12:07PM;Asr-3:30PM;Maghrib-6:02PM;Isha-7:32PM;",
       },
       {
-        date: "2024-10-05",
+        date: "2025-10-05",
         schedule:
           "Fazr-4:55AM;Zuhr-12:07PM;Asr-3:30PM;Maghrib-6:01PM;Isha-7:31PM;",
       },
       {
-        date: "2024-10-06",
+        date: "2025-10-06",
         schedule:
           "Fazr-4:55AM;Zuhr-12:07PM;Asr-3:29PM;Maghrib-6:00PM;Isha-7:30PM;",
       },
       {
-        date: "2024-10-07",
+        date: "2025-10-07",
         schedule:
-          "Fazr-4:56AM;Zuhr-12:06PM;Asr-3:28PM;Maghrib-5:59PM;Isha-7:29PM;",
+          "Fazr-4:56AM;Zuhr-12:07PM;Asr-3:28PM;Maghrib-5:59PM;Isha-7:29PM;",
       },
       {
-        date: "2024-10-08",
+        date: "2025-10-08",
         schedule:
           "Fazr-4:56AM;Zuhr-12:06PM;Asr-3:28PM;Maghrib-5:58PM;Isha-7:28PM;",
       },
       {
-        date: "2024-10-09",
+        date: "2025-10-09",
         schedule:
-          "Fazr-4:57AM;Zuhr-12:06PM;Asr-3:27PM;Maghrib-5:57PM;Isha-7:27PM;",
+          "Fazr-4:56AM;Zuhr-12:06PM;Asr-3:27PM;Maghrib-5:57PM;Isha-7:27PM;",
       },
       {
-        date: "2024-10-10",
+        date: "2025-10-10",
         schedule:
-          "Fazr-4:57AM;Zuhr-12:06PM;Asr-3:26PM;Maghrib-5:56PM;Isha-7:26PM;",
+          "Fazr-4:57AM;Zuhr-12:06PM;Asr-3:27PM;Maghrib-5:56PM;Isha-7:26PM;",
       },
       {
-        date: "2024-10-11",
+        date: "2025-10-11",
         schedule:
           "Fazr-4:57AM;Zuhr-12:05PM;Asr-3:26PM;Maghrib-5:55PM;Isha-7:25PM;",
       },
       {
-        date: "2024-10-12",
+        date: "2025-10-12",
         schedule:
           "Fazr-4:58AM;Zuhr-12:05PM;Asr-3:25PM;Maghrib-5:54PM;Isha-7:24PM;",
       },
       {
-        date: "2024-10-13",
+        date: "2025-10-13",
         schedule:
-          "Fazr-4:58AM;Zuhr-12:05PM;Asr-3:24PM;Maghrib-5:53PM;Isha-7:23PM;",
+          "Fazr-4:58AM;Zuhr-12:05PM;Asr-3:25PM;Maghrib-5:53PM;Isha-7:23PM;",
       },
       {
-        date: "2024-10-14",
+        date: "2025-10-14",
         schedule:
           "Fazr-4:59AM;Zuhr-12:05PM;Asr-3:24PM;Maghrib-5:52PM;Isha-7:22PM;",
       },
       {
-        date: "2024-10-15",
+        date: "2025-10-15",
         schedule:
-          "Fazr-4:59AM;Zuhr-12:04PM;Asr-3:23PM;Maghrib-5:51PM;Isha-7:21PM;",
+          "Fazr-4:59AM;Zuhr-12:05PM;Asr-3:23PM;Maghrib-5:51PM;Isha-7:21PM;",
       },
       {
-        date: "2024-10-16",
+        date: "2025-10-16",
         schedule:
-          "Fazr-5:00AM;Zuhr-12:04PM;Asr-3:23PM;Maghrib-5:50PM;Isha-7:20PM;",
+          "Fazr-5:00AM;Zuhr-12:04PM;Asr-3:23PM;Maghrib-5:51PM;Isha-7:21PM;",
       },
       {
-        date: "2024-10-17",
+        date: "2025-10-17",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:04PM;Asr-3:22PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-10-18",
         schedule:
           "Fazr-5:00AM;Zuhr-12:04PM;Asr-3:22PM;Maghrib-5:49PM;Isha-7:19PM;",
       },
       {
-        date: "2024-10-18",
+        date: "2025-10-19",
         schedule:
           "Fazr-5:01AM;Zuhr-12:04PM;Asr-3:21PM;Maghrib-5:48PM;Isha-7:18PM;",
       },
       {
-        date: "2024-10-19",
+        date: "2025-10-20",
         schedule:
-          "Fazr-5:01AM;Zuhr-12:04PM;Asr-3:21PM;Maghrib-5:48PM;Isha-7:18PM;",
+          "Fazr-5:01AM;Zuhr-12:04PM;Asr-3:20PM;Maghrib-5:47PM;Isha-7:17PM;",
       },
       {
-        date: "2024-10-20",
-        schedule:
-          "Fazr-5:01AM;Zuhr-12:03PM;Asr-3:20PM;Maghrib-5:47PM;Isha-7:17PM;",
-      },
-      {
-        date: "2024-10-21",
+        date: "2025-10-21",
         schedule:
           "Fazr-5:02AM;Zuhr-12:03PM;Asr-3:20PM;Maghrib-5:46PM;Isha-7:16PM;",
       },
       {
-        date: "2024-10-22",
+        date: "2025-10-22",
         schedule:
           "Fazr-5:02AM;Zuhr-12:03PM;Asr-3:19PM;Maghrib-5:45PM;Isha-7:15PM;",
       },
       {
-        date: "2024-10-23",
+        date: "2025-10-23",
+        schedule:
+          "Fazr-5:03AM;Zuhr-12:03PM;Asr-3:19PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-10-24",
         schedule:
           "Fazr-5:03AM;Zuhr-12:03PM;Asr-3:18PM;Maghrib-5:44PM;Isha-7:14PM;",
       },
       {
-        date: "2024-10-24",
-        schedule:
-          "Fazr-5:03AM;Zuhr-12:03PM;Asr-3:18PM;Maghrib-5:43PM;Isha-7:13PM;",
-      },
-      {
-        date: "2024-10-25",
+        date: "2025-10-25",
         schedule:
           "Fazr-5:04AM;Zuhr-12:03PM;Asr-3:17PM;Maghrib-5:43PM;Isha-7:13PM;",
       },
       {
-        date: "2024-10-26",
+        date: "2025-10-26",
         schedule:
           "Fazr-5:04AM;Zuhr-12:03PM;Asr-3:17PM;Maghrib-5:42PM;Isha-7:12PM;",
       },
       {
-        date: "2024-10-27",
+        date: "2025-10-27",
         schedule:
           "Fazr-5:05AM;Zuhr-12:03PM;Asr-3:16PM;Maghrib-5:41PM;Isha-7:11PM;",
       },
       {
-        date: "2024-10-28",
+        date: "2025-10-28",
         schedule:
-          "Fazr-5:05AM;Zuhr-12:03PM;Asr-3:16PM;Maghrib-5:40PM;Isha-7:10PM;",
+          "Fazr-5:05AM;Zuhr-12:03PM;Asr-3:16PM;Maghrib-5:41PM;Isha-7:11PM;",
       },
       {
-        date: "2024-10-29",
+        date: "2025-10-29",
         schedule:
           "Fazr-5:06AM;Zuhr-12:02PM;Asr-3:15PM;Maghrib-5:40PM;Isha-7:10PM;",
       },
       {
-        date: "2024-10-30",
+        date: "2025-10-30",
         schedule:
-          "Fazr-5:06AM;Zuhr-12:02PM;Asr-3:15PM;Maghrib-5:39PM;Isha-7:09PM;",
+          "Fazr-5:06AM;Zuhr-11:48AM;Asr-3:03PM;Maghrib-5:27PM;Isha-7:09PM;",
       },
       {
-        date: "2024-10-31",
+        date: "2025-10-31",
+        schedule:
+          "Fazr-4:54AM;Zuhr-11:49AM;Asr-3:03PM;Maghrib-5:28PM;Isha-6:39PM;",
+      },
+      {
+        date: "2025-11-01",
         schedule:
           "Fazr-5:07AM;Zuhr-12:02PM;Asr-3:14PM;Maghrib-5:38PM;Isha-7:08PM;",
       },
       {
-        date: "2024-11-01",
-        schedule:
-          "Fazr-5:07AM;Zuhr-12:02PM;Asr-3:14PM;Maghrib-5:38PM;Isha-7:08PM;",
-      },
-      {
-        date: "2024-11-02",
+        date: "2025-11-02",
         schedule:
           "Fazr-5:08AM;Zuhr-12:02PM;Asr-3:13PM;Maghrib-5:37PM;Isha-7:07PM;",
       },
       {
-        date: "2024-11-03",
+        date: "2025-11-03",
         schedule:
           "Fazr-5:08AM;Zuhr-12:02PM;Asr-3:13PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-11-04",
+        date: "2025-11-04",
         schedule:
-          "Fazr-5:09AM;Zuhr-12:02PM;Asr-3:12PM;Maghrib-5:36PM;Isha-7:06PM;",
+          "Fazr-5:09AM;Zuhr-12:02PM;Asr-3:13PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-11-05",
+        date: "2025-11-05",
         schedule:
           "Fazr-5:09AM;Zuhr-12:02PM;Asr-3:12PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-11-06",
+        date: "2025-11-06",
         schedule:
           "Fazr-5:10AM;Zuhr-12:02PM;Asr-3:12PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-11-07",
+        date: "2025-11-07",
         schedule:
           "Fazr-5:10AM;Zuhr-12:02PM;Asr-3:11PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-11-08",
+        date: "2025-11-08",
+        schedule:
+          "Fazr-5:11AM;Zuhr-12:03PM;Asr-3:11PM;Maghrib-5:34PM;Isha-7:04PM;",
+      },
+      {
+        date: "2025-11-09",
         schedule:
           "Fazr-5:11AM;Zuhr-12:03PM;Asr-3:11PM;Maghrib-5:33PM;Isha-7:03PM;",
       },
       {
-        date: "2024-11-09",
+        date: "2025-11-10",
         schedule:
-          "Fazr-5:12AM;Zuhr-12:03PM;Asr-3:11PM;Maghrib-5:33PM;Isha-7:03PM;",
+          "Fazr-5:12AM;Zuhr-12:03PM;Asr-3:10PM;Maghrib-5:33PM;Isha-7:03PM;",
       },
       {
-        date: "2024-11-10",
-        schedule:
-          "Fazr-5:12AM;Zuhr-12:03PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
-      },
-      {
-        date: "2024-11-11",
+        date: "2025-11-11",
         schedule:
           "Fazr-5:13AM;Zuhr-12:03PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
       },
       {
-        date: "2024-11-12",
+        date: "2025-11-12",
         schedule:
           "Fazr-5:13AM;Zuhr-12:03PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
       },
       {
-        date: "2024-11-13",
+        date: "2025-11-13",
         schedule:
           "Fazr-5:14AM;Zuhr-12:03PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-11-14",
+        date: "2025-11-14",
         schedule:
           "Fazr-5:14AM;Zuhr-12:03PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-11-15",
+        date: "2025-11-15",
         schedule:
           "Fazr-5:15AM;Zuhr-12:03PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-11-16",
+        date: "2025-11-16",
         schedule:
-          "Fazr-5:16AM;Zuhr-12:04PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
+          "Fazr-5:15AM;Zuhr-12:04PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-11-17",
+        date: "2025-11-17",
         schedule:
           "Fazr-5:16AM;Zuhr-12:04PM;Asr-3:08PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-11-18",
+        date: "2025-11-18",
+        schedule:
+          "Fazr-5:17AM;Zuhr-12:04PM;Asr-3:08PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-11-19",
         schedule:
           "Fazr-5:17AM;Zuhr-12:04PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-19",
-        schedule:
-          "Fazr-5:17AM;Zuhr-12:04PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-11-20",
+        date: "2025-11-20",
         schedule:
           "Fazr-5:18AM;Zuhr-12:04PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-21",
+        date: "2025-11-21",
+        schedule:
+          "Fazr-5:18AM;Zuhr-12:05PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-11-22",
         schedule:
           "Fazr-5:19AM;Zuhr-12:05PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-22",
+        date: "2025-11-23",
         schedule:
-          "Fazr-5:19AM;Zuhr-12:05PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+          "Fazr-5:05AM;Zuhr-11:59AM;Asr-3:13PM;Maghrib-5:37PM;Isha-6:49PM;",
       },
       {
-        date: "2024-11-23",
+        date: "2025-11-24",
         schedule:
-          "Fazr-5:20AM;Zuhr-12:05PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+          "Fazr-5:06AM;Zuhr-12:00PM;Asr-3:14PM;Maghrib-5:38PM;Isha-6:50PM;",
       },
       {
-        date: "2024-11-24",
+        date: "2025-11-25",
         schedule:
-          "Fazr-5:20AM;Zuhr-12:06PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+          "Fazr-5:06AM;Zuhr-12:00PM;Asr-3:14PM;Maghrib-5:38PM;Isha-6:50PM;",
       },
       {
-        date: "2024-11-25",
-        schedule:
-          "Fazr-5:21AM;Zuhr-12:06PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
-      },
-      {
-        date: "2024-11-26",
-        schedule:
-          "Fazr-5:22AM;Zuhr-12:06PM;Asr-3:07PM;Maghrib-5:28PM;Isha-6:58PM;",
-      },
-      {
-        date: "2024-11-27",
+        date: "2025-11-26",
         schedule:
           "Fazr-5:22AM;Zuhr-12:06PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
       },
       {
-        date: "2024-11-28",
+        date: "2025-11-27",
+        schedule:
+          "Fazr-5:07AM;Zuhr-12:01PM;Asr-3:15PM;Maghrib-5:40PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-11-28",
         schedule:
           "Fazr-5:23AM;Zuhr-12:07PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
       },
       {
-        date: "2024-11-29",
+        date: "2025-11-29",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:07PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-11-30",
         schedule:
           "Fazr-5:24AM;Zuhr-12:07PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
       },
       {
-        date: "2024-11-30",
-        schedule:
-          "Fazr-5:24AM;Zuhr-12:08PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
-      },
-      {
-        date: "2024-12-01",
+        date: "2025-12-01",
         schedule:
           "Fazr-5:25AM;Zuhr-12:08PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
       },
       {
-        date: "2024-12-02",
+        date: "2025-12-02",
         schedule:
           "Fazr-5:25AM;Zuhr-12:08PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
       },
       {
-        date: "2024-12-03",
+        date: "2025-12-03",
         schedule:
           "Fazr-5:26AM;Zuhr-12:09PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
       },
       {
-        date: "2024-12-04",
+        date: "2025-12-04",
+        schedule:
+          "Fazr-5:26AM;Zuhr-12:09PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-12-05",
         schedule:
           "Fazr-5:27AM;Zuhr-12:09PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
       },
       {
-        date: "2024-12-05",
+        date: "2025-12-06",
         schedule:
-          "Fazr-5:27AM;Zuhr-12:10PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+          "Fazr-5:28AM;Zuhr-12:10PM;Asr-3:09PM;Maghrib-5:28PM;Isha-6:58PM;",
       },
       {
-        date: "2024-12-06",
-        schedule:
-          "Fazr-5:28AM;Zuhr-12:10PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-12-07",
+        date: "2025-12-07",
         schedule:
           "Fazr-5:28AM;Zuhr-12:10PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-08",
+        date: "2025-12-08",
         schedule:
           "Fazr-5:29AM;Zuhr-12:11PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-09",
+        date: "2025-12-09",
         schedule:
-          "Fazr-5:30AM;Zuhr-12:11PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
+          "Fazr-5:29AM;Zuhr-12:11PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-10",
+        date: "2025-12-10",
         schedule:
           "Fazr-5:30AM;Zuhr-12:12PM;Asr-3:10PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-11",
+        date: "2025-12-11",
         schedule:
           "Fazr-5:31AM;Zuhr-12:12PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-12-12",
+        date: "2025-12-12",
         schedule:
           "Fazr-5:31AM;Zuhr-12:13PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-12-13",
+        date: "2025-12-13",
         schedule:
           "Fazr-5:32AM;Zuhr-12:13PM;Asr-3:11PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-12-14",
+        date: "2025-12-14",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:13PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-12-15",
         schedule:
           "Fazr-5:33AM;Zuhr-12:14PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-12-15",
+        date: "2025-12-16",
         schedule:
-          "Fazr-5:33AM;Zuhr-12:14PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
+          "Fazr-5:34AM;Zuhr-12:14PM;Asr-3:12PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-12-16",
-        schedule:
-          "Fazr-5:34AM;Zuhr-12:15PM;Asr-3:12PM;Maghrib-5:31PM;Isha-7:01PM;",
-      },
-      {
-        date: "2024-12-17",
+        date: "2025-12-17",
         schedule:
           "Fazr-5:34AM;Zuhr-12:15PM;Asr-3:12PM;Maghrib-5:32PM;Isha-7:02PM;",
       },
       {
-        date: "2024-12-18",
+        date: "2025-12-18",
         schedule:
-          "Fazr-5:35AM;Zuhr-12:16PM;Asr-3:13PM;Maghrib-5:32PM;Isha-7:02PM;",
+          "Fazr-5:35AM;Zuhr-12:15PM;Asr-3:13PM;Maghrib-5:32PM;Isha-7:02PM;",
       },
       {
-        date: "2024-12-19",
+        date: "2025-12-19",
         schedule:
           "Fazr-5:35AM;Zuhr-12:16PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
       },
       {
-        date: "2024-12-20",
+        date: "2025-12-20",
         schedule:
           "Fazr-5:36AM;Zuhr-12:16PM;Asr-3:14PM;Maghrib-5:33PM;Isha-7:03PM;",
       },
       {
-        date: "2024-12-21",
+        date: "2025-12-21",
         schedule:
           "Fazr-5:36AM;Zuhr-12:17PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-12-22",
+        date: "2025-12-22",
         schedule:
           "Fazr-5:37AM;Zuhr-12:17PM;Asr-3:15PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-12-23",
+        date: "2025-12-23",
         schedule:
           "Fazr-5:37AM;Zuhr-12:18PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-12-24",
+        date: "2025-12-24",
         schedule:
           "Fazr-5:38AM;Zuhr-12:18PM;Asr-3:16PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-12-25",
+        date: "2025-12-25",
         schedule:
           "Fazr-5:38AM;Zuhr-12:19PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-12-26",
+        date: "2025-12-26",
         schedule:
-          "Fazr-5:39AM;Zuhr-12:19PM;Asr-3:17PM;Maghrib-5:36PM;Isha-7:06PM;",
+          "Fazr-5:38AM;Zuhr-12:19PM;Asr-3:17PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-12-27",
+        date: "2025-12-27",
         schedule:
           "Fazr-5:39AM;Zuhr-12:20PM;Asr-3:17PM;Maghrib-5:37PM;Isha-7:07PM;",
       },
       {
-        date: "2024-12-28",
+        date: "2025-12-28",
         schedule:
-          "Fazr-5:39AM;Zuhr-12:20PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
+          "Fazr-5:39AM;Zuhr-12:20PM;Asr-3:18PM;Maghrib-5:37PM;Isha-7:07PM;",
       },
       {
-        date: "2024-12-29",
+        date: "2025-12-29",
         schedule:
-          "Fazr-5:40AM;Zuhr-12:21PM;Asr-3:19PM;Maghrib-5:38PM;Isha-7:08PM;",
+          "Fazr-5:40AM;Zuhr-12:21PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
       },
       {
-        date: "2024-12-30",
+        date: "2025-12-30",
         schedule:
           "Fazr-5:40AM;Zuhr-12:21PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
       },
       {
-        date: "2024-12-31",
+        date: "2025-12-31",
         schedule:
           "Fazr-5:40AM;Zuhr-12:22PM;Asr-3:20PM;Maghrib-5:39PM;Isha-7:09PM;",
       },
     ],
     "al-ain": [
       {
-        date: "2024-09-01",
+        date: "2025-01-01",
         schedule:
-          "Fazr-4:40AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:35PM;Isha-8:05PM;",
+          "Fazr-5:38AM;Zuhr-12:21PM;Asr-3:21PM;Maghrib-5:41PM;Isha-7:11PM;",
       },
       {
-        date: "2024-09-02",
+        date: "2025-01-02",
         schedule:
-          "Fazr-4:40AM;Zuhr-12:17PM;Asr-3:45PM;Maghrib-6:34PM;Isha-8:04PM;",
+          "Fazr-5:38AM;Zuhr-12:22PM;Asr-3:22PM;Maghrib-5:42PM;Isha-7:12PM;",
       },
       {
-        date: "2024-09-03",
+        date: "2025-01-03",
         schedule:
-          "Fazr-4:41AM;Zuhr-12:17PM;Asr-3:45PM;Maghrib-6:33PM;Isha-8:03PM;",
+          "Fazr-5:38AM;Zuhr-12:22PM;Asr-3:23PM;Maghrib-5:43PM;Isha-7:13PM;",
       },
       {
-        date: "2024-09-04",
+        date: "2025-01-04",
         schedule:
-          "Fazr-4:41AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:32PM;Isha-8:02PM;",
+          "Fazr-5:39AM;Zuhr-12:22PM;Asr-3:23PM;Maghrib-5:43PM;Isha-7:13PM;",
       },
       {
-        date: "2024-09-05",
+        date: "2025-01-05",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:23PM;Asr-3:24PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-01-06",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:23PM;Asr-3:24PM;Maghrib-5:45PM;Isha-7:15PM;",
+      },
+      {
+        date: "2025-01-07",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:24PM;Asr-3:25PM;Maghrib-5:45PM;Isha-7:15PM;",
+      },
+      {
+        date: "2025-01-08",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:24PM;Asr-3:26PM;Maghrib-5:46PM;Isha-7:16PM;",
+      },
+      {
+        date: "2025-01-09",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:25PM;Asr-3:26PM;Maghrib-5:47PM;Isha-7:17PM;",
+      },
+      {
+        date: "2025-01-10",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:25PM;Asr-3:27PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-01-11",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:25PM;Asr-3:28PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-01-12",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:26PM;Asr-3:28PM;Maghrib-5:49PM;Isha-7:19PM;",
+      },
+      {
+        date: "2025-01-13",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:26PM;Asr-3:29PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-01-14",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:27PM;Asr-3:30PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-01-15",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:27PM;Asr-3:30PM;Maghrib-5:51PM;Isha-7:21PM;",
+      },
+      {
+        date: "2025-01-16",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:27PM;Asr-3:31PM;Maghrib-5:52PM;Isha-7:22PM;",
+      },
+      {
+        date: "2025-01-17",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:28PM;Asr-3:32PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-01-18",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:28PM;Asr-3:32PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-01-19",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:28PM;Asr-3:33PM;Maghrib-5:54PM;Isha-7:24PM;",
+      },
+      {
+        date: "2025-01-20",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:28PM;Asr-3:34PM;Maghrib-5:55PM;Isha-7:25PM;",
+      },
+      {
+        date: "2025-01-21",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:29PM;Asr-3:34PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-01-22",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:29PM;Asr-3:35PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-01-23",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:29PM;Asr-3:36PM;Maghrib-5:57PM;Isha-7:27PM;",
+      },
+      {
+        date: "2025-01-24",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:30PM;Asr-3:36PM;Maghrib-5:58PM;Isha-7:28PM;",
+      },
+      {
+        date: "2025-01-25",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:30PM;Asr-3:37PM;Maghrib-5:58PM;Isha-7:28PM;",
+      },
+      {
+        date: "2025-01-26",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:30PM;Asr-3:37PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-01-27",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:30PM;Asr-3:38PM;Maghrib-6:00PM;Isha-7:30PM;",
+      },
+      {
+        date: "2025-01-28",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:30PM;Asr-3:39PM;Maghrib-6:01PM;Isha-7:31PM;",
+      },
+      {
+        date: "2025-01-29",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:31PM;Asr-3:39PM;Maghrib-6:01PM;Isha-7:31PM;",
+      },
+      {
+        date: "2025-01-30",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:31PM;Asr-3:40PM;Maghrib-6:02PM;Isha-7:32PM;",
+      },
+      {
+        date: "2025-01-31",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:31PM;Asr-3:40PM;Maghrib-6:03PM;Isha-7:33PM;",
+      },
+      {
+        date: "2025-02-01",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:31PM;Asr-3:41PM;Maghrib-6:03PM;Isha-7:33PM;",
+      },
+      {
+        date: "2025-02-02",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:31PM;Asr-3:41PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-02-03",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:31PM;Asr-3:42PM;Maghrib-6:05PM;Isha-7:35PM;",
+      },
+      {
+        date: "2025-02-04",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:31PM;Asr-3:42PM;Maghrib-6:05PM;Isha-7:35PM;",
+      },
+      {
+        date: "2025-02-05",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:31PM;Asr-3:43PM;Maghrib-6:06PM;Isha-7:36PM;",
+      },
+      {
+        date: "2025-02-06",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:31PM;Asr-3:43PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-02-07",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:32PM;Asr-3:44PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-02-08",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:32PM;Asr-3:44PM;Maghrib-6:08PM;Isha-7:38PM;",
+      },
+      {
+        date: "2025-02-09",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:32PM;Asr-3:45PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-02-10",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:32PM;Asr-3:45PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-02-11",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:32PM;Asr-3:46PM;Maghrib-6:10PM;Isha-7:40PM;",
+      },
+      {
+        date: "2025-02-12",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:32PM;Asr-3:46PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-02-13",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:32PM;Asr-3:46PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-02-14",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:32PM;Asr-3:47PM;Maghrib-6:12PM;Isha-7:42PM;",
+      },
+      {
+        date: "2025-02-15",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:32PM;Asr-3:47PM;Maghrib-6:12PM;Isha-7:42PM;",
+      },
+      {
+        date: "2025-02-16",
+        schedule:
+          "Fazr-5:31AM;Zuhr-12:31PM;Asr-3:47PM;Maghrib-6:13PM;Isha-7:43PM;",
+      },
+      {
+        date: "2025-02-17",
+        schedule:
+          "Fazr-5:31AM;Zuhr-12:31PM;Asr-3:48PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-02-18",
+        schedule:
+          "Fazr-5:30AM;Zuhr-12:31PM;Asr-3:48PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-02-19",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:31PM;Asr-3:48PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-02-20",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:31PM;Asr-3:49PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-02-21",
+        schedule:
+          "Fazr-5:28AM;Zuhr-12:31PM;Asr-3:49PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-02-22",
+        schedule:
+          "Fazr-5:27AM;Zuhr-12:31PM;Asr-3:49PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-02-23",
+        schedule:
+          "Fazr-5:26AM;Zuhr-12:31PM;Asr-3:49PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-02-24",
+        schedule:
+          "Fazr-5:26AM;Zuhr-12:31PM;Asr-3:50PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-02-25",
+        schedule:
+          "Fazr-5:25AM;Zuhr-12:30PM;Asr-3:50PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-02-26",
+        schedule:
+          "Fazr-5:24AM;Zuhr-12:30PM;Asr-3:50PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-02-27",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:30PM;Asr-3:50PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-02-28",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:30PM;Asr-3:50PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-03-01",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:30PM;Asr-3:51PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-03-02",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:30PM;Asr-3:51PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-03-03",
+        schedule:
+          "Fazr-5:20AM;Zuhr-12:29PM;Asr-3:51PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-03-04",
+        schedule:
+          "Fazr-5:19AM;Zuhr-12:29PM;Asr-3:51PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-03-05",
+        schedule:
+          "Fazr-5:18AM;Zuhr-12:29PM;Asr-3:51PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-03-06",
+        schedule:
+          "Fazr-5:17AM;Zuhr-12:29PM;Asr-3:51PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-03-07",
+        schedule:
+          "Fazr-5:16AM;Zuhr-12:28PM;Asr-3:51PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-03-08",
+        schedule:
+          "Fazr-5:15AM;Zuhr-12:28PM;Asr-3:51PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-03-09",
+        schedule:
+          "Fazr-5:14AM;Zuhr-12:28PM;Asr-3:51PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-03-10",
+        schedule:
+          "Fazr-5:13AM;Zuhr-12:28PM;Asr-3:51PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-03-11",
+        schedule:
+          "Fazr-5:12AM;Zuhr-12:27PM;Asr-3:51PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-03-12",
+        schedule:
+          "Fazr-5:11AM;Zuhr-12:27PM;Asr-3:51PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-03-13",
+        schedule:
+          "Fazr-5:10AM;Zuhr-12:27PM;Asr-3:51PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-14",
+        schedule:
+          "Fazr-5:09AM;Zuhr-12:27PM;Asr-3:51PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-15",
+        schedule:
+          "Fazr-5:08AM;Zuhr-12:26PM;Asr-3:51PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-16",
+        schedule:
+          "Fazr-5:07AM;Zuhr-12:26PM;Asr-3:51PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-03-17",
+        schedule:
+          "Fazr-5:06AM;Zuhr-12:26PM;Asr-3:51PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-03-18",
+        schedule:
+          "Fazr-5:05AM;Zuhr-12:25PM;Asr-3:51PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-19",
+        schedule:
+          "Fazr-5:04AM;Zuhr-12:25PM;Asr-3:51PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-20",
+        schedule:
+          "Fazr-5:03AM;Zuhr-12:25PM;Asr-3:51PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-21",
+        schedule:
+          "Fazr-5:02AM;Zuhr-12:25PM;Asr-3:51PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-22",
+        schedule:
+          "Fazr-5:01AM;Zuhr-12:24PM;Asr-3:51PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-23",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:24PM;Asr-3:51PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-24",
+        schedule:
+          "Fazr-4:59AM;Zuhr-12:24PM;Asr-3:50PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-25",
+        schedule:
+          "Fazr-4:58AM;Zuhr-12:23PM;Asr-3:50PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-03-26",
+        schedule:
+          "Fazr-4:57AM;Zuhr-12:23PM;Asr-3:50PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-03-27",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:23PM;Asr-3:50PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-03-28",
+        schedule:
+          "Fazr-4:54AM;Zuhr-12:22PM;Asr-3:50PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-03-29",
+        schedule:
+          "Fazr-4:53AM;Zuhr-12:22PM;Asr-3:50PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-03-30",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-03-31",
+        schedule:
+          "Fazr-4:51AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-04-01",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-04-02",
+        schedule:
+          "Fazr-4:49AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-04-03",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-04-04",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-04-05",
+        schedule:
+          "Fazr-4:46AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-04-06",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-04-07",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-04-08",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:19PM;Asr-3:47PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-04-09",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:19PM;Asr-3:47PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-04-10",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:19PM;Asr-3:47PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-04-11",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-04-12",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:18PM;Asr-3:46PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-04-13",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:18PM;Asr-3:46PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-04-14",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:18PM;Asr-3:46PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-04-15",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-04-16",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:17PM;Asr-3:45PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-04-17",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:17PM;Asr-3:45PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-04-18",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:17PM;Asr-3:45PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-04-19",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:17PM;Asr-3:44PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-04-20",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-04-21",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-04-22",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-04-23",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:16PM;Asr-3:43PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-04-24",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:16PM;Asr-3:43PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-04-25",
+        schedule:
+          "Fazr-4:24AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-04-26",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-04-27",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-04-28",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-04-29",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-04-30",
+        schedule:
+          "Fazr-4:20AM;Zuhr-12:15PM;Asr-3:41PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-05-01",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:15PM;Asr-3:41PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-05-02",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:14PM;Asr-3:41PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-05-03",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:14PM;Asr-3:41PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-05-04",
+        schedule:
+          "Fazr-4:16AM;Zuhr-12:14PM;Asr-3:40PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-05-05",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:14PM;Asr-3:40PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-05-06",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:14PM;Asr-3:40PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-05-07",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:14PM;Asr-3:40PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-05-08",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-05-09",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-05-10",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-05-11",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-05-12",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-05-13",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:14PM;Asr-3:38PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-05-14",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:14PM;Asr-3:38PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-05-15",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:14PM;Asr-3:38PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-05-16",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:14PM;Asr-3:38PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-05-17",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:14PM;Asr-3:38PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-05-18",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-05-19",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-05-20",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-05-21",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-05-22",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-05-23",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-05-24",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-05-25",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-05-26",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-05-27",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:15PM;Asr-3:37PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-05-28",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:15PM;Asr-3:36PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-05-29",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:15PM;Asr-3:36PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-05-30",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:15PM;Asr-3:36PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-05-31",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:15PM;Asr-3:36PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-06-01",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:15PM;Asr-3:36PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-06-02",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:15PM;Asr-3:36PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-06-03",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:16PM;Asr-3:36PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-06-04",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:16PM;Asr-3:36PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-06-05",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:16PM;Asr-3:37PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-06-06",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:16PM;Asr-3:37PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-06-07",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:16PM;Asr-3:37PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-06-08",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:17PM;Asr-3:37PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-06-09",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:17PM;Asr-3:37PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-06-10",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:17PM;Asr-3:37PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-06-11",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:17PM;Asr-3:37PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-06-12",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:17PM;Asr-3:37PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-06-13",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:18PM;Asr-3:37PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-06-14",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:18PM;Asr-3:37PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-06-15",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:18PM;Asr-3:38PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-06-16",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:18PM;Asr-3:38PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-06-17",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:18PM;Asr-3:38PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-06-18",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:19PM;Asr-3:38PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-19",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:19PM;Asr-3:38PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-20",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:19PM;Asr-3:39PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-21",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:19PM;Asr-3:39PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-22",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:19PM;Asr-3:39PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-23",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:20PM;Asr-3:39PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-24",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:20PM;Asr-3:40PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-25",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:20PM;Asr-3:40PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-26",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:20PM;Asr-3:40PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-27",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:21PM;Asr-3:40PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-28",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:21PM;Asr-3:41PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-29",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:21PM;Asr-3:41PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-06-30",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:21PM;Asr-3:41PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-01",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:21PM;Asr-3:41PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-02",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:22PM;Asr-3:42PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-03",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:22PM;Asr-3:42PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-04",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:22PM;Asr-3:42PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-05",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:22PM;Asr-3:43PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-06",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:22PM;Asr-3:43PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-07",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:22PM;Asr-3:43PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-08",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:23PM;Asr-3:43PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-09",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:23PM;Asr-3:44PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-10",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:23PM;Asr-3:44PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-11",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:23PM;Asr-3:44PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-12",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:23PM;Asr-3:45PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-13",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:23PM;Asr-3:45PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-14",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:23PM;Asr-3:45PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-15",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:23PM;Asr-3:45PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-16",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:24PM;Asr-3:46PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-17",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:24PM;Asr-3:46PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-18",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:24PM;Asr-3:46PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-19",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:24PM;Asr-3:46PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-20",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:24PM;Asr-3:47PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-21",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:24PM;Asr-3:47PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-07-22",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:24PM;Asr-3:47PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-07-23",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:24PM;Asr-3:47PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-07-24",
+        schedule:
+          "Fazr-4:16AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-07-25",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-07-26",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-07-27",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-07-28",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-07-29",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-07-30",
+        schedule:
+          "Fazr-4:20AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-07-31",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-08-01",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-08-02",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-08-03",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-08-04",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-08-05",
+        schedule:
+          "Fazr-4:24AM;Zuhr-12:23PM;Asr-3:49PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-08-06",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:23PM;Asr-3:49PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-08-07",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:23PM;Asr-3:49PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-08-08",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:23PM;Asr-3:49PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-08-09",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:23PM;Asr-3:49PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-08-10",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:23PM;Asr-3:49PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-08-11",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:23PM;Asr-3:49PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-08-12",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-08-13",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-08-14",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-08-15",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-08-16",
+        schedule:
+          "Fazr-4:31AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-08-17",
+        schedule:
+          "Fazr-4:31AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-08-18",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-08-19",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-08-20",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-08-21",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:21PM;Asr-3:48PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-08-22",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-08-23",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-08-24",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-08-25",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-08-26",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:19PM;Asr-3:47PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-08-27",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:19PM;Asr-3:47PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-08-28",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:19PM;Asr-3:47PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-08-29",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-08-30",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:18PM;Asr-3:46PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-08-31",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:18PM;Asr-3:46PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-09-01",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-09-02",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:17PM;Asr-3:45PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-09-03",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:17PM;Asr-3:45PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-09-04",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-09-05",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-09-06",
         schedule:
           "Fazr-4:42AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:31PM;Isha-8:01PM;",
       },
       {
-        date: "2024-09-06",
+        date: "2025-09-07",
         schedule:
-          "Fazr-4:42AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:30PM;Isha-8:00PM;",
+          "Fazr-4:42AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:30PM;Isha-8:00PM;",
       },
       {
-        date: "2024-09-07",
+        date: "2025-09-08",
         schedule:
           "Fazr-4:43AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:29PM;Isha-7:59PM;",
       },
       {
-        date: "2024-09-08",
+        date: "2025-09-09",
         schedule:
-          "Fazr-4:43AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:28PM;Isha-7:58PM;",
+          "Fazr-4:43AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:27PM;Isha-7:57PM;",
       },
       {
-        date: "2024-09-09",
-        schedule:
-          "Fazr-4:43AM;Zuhr-12:15PM;Asr-3:42PM;Maghrib-6:27PM;Isha-7:57PM;",
-      },
-      {
-        date: "2024-09-10",
+        date: "2025-09-10",
         schedule:
           "Fazr-4:44AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:26PM;Isha-7:56PM;",
       },
       {
-        date: "2024-09-11",
+        date: "2025-09-11",
         schedule:
           "Fazr-4:44AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:25PM;Isha-7:55PM;",
       },
       {
-        date: "2024-09-12",
+        date: "2025-09-12",
         schedule:
           "Fazr-4:45AM;Zuhr-12:14PM;Asr-3:41PM;Maghrib-6:24PM;Isha-7:54PM;",
       },
       {
-        date: "2024-09-13",
+        date: "2025-09-13",
         schedule:
           "Fazr-4:45AM;Zuhr-12:13PM;Asr-3:41PM;Maghrib-6:23PM;Isha-7:53PM;",
       },
       {
-        date: "2024-09-14",
+        date: "2025-09-14",
         schedule:
-          "Fazr-4:46AM;Zuhr-12:13PM;Asr-3:40PM;Maghrib-6:22PM;Isha-7:52PM;",
+          "Fazr-4:45AM;Zuhr-12:13PM;Asr-3:40PM;Maghrib-6:22PM;Isha-7:52PM;",
       },
       {
-        date: "2024-09-15",
+        date: "2025-09-15",
         schedule:
           "Fazr-4:46AM;Zuhr-12:13PM;Asr-3:40PM;Maghrib-6:21PM;Isha-7:51PM;",
       },
       {
-        date: "2024-09-16",
+        date: "2025-09-16",
         schedule:
           "Fazr-4:46AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:20PM;Isha-7:50PM;",
       },
       {
-        date: "2024-09-17",
+        date: "2025-09-17",
         schedule:
           "Fazr-4:47AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:19PM;Isha-7:49PM;",
       },
       {
-        date: "2024-09-18",
+        date: "2025-09-18",
         schedule:
-          "Fazr-4:47AM;Zuhr-12:11PM;Asr-3:38PM;Maghrib-6:18PM;Isha-7:48PM;",
+          "Fazr-4:47AM;Zuhr-12:12PM;Asr-3:38PM;Maghrib-6:18PM;Isha-7:48PM;",
       },
       {
-        date: "2024-09-19",
+        date: "2025-09-19",
         schedule:
           "Fazr-4:48AM;Zuhr-12:11PM;Asr-3:38PM;Maghrib-6:17PM;Isha-7:47PM;",
       },
       {
-        date: "2024-09-20",
+        date: "2025-09-20",
         schedule:
           "Fazr-4:48AM;Zuhr-12:11PM;Asr-3:37PM;Maghrib-6:16PM;Isha-7:46PM;",
       },
       {
-        date: "2024-09-21",
+        date: "2025-09-21",
         schedule:
-          "Fazr-4:48AM;Zuhr-12:10PM;Asr-3:36PM;Maghrib-6:15PM;Isha-7:45PM;",
+          "Fazr-4:48AM;Zuhr-12:10PM;Asr-3:37PM;Maghrib-6:15PM;Isha-7:45PM;",
       },
       {
-        date: "2024-09-22",
+        date: "2025-09-22",
         schedule:
           "Fazr-4:49AM;Zuhr-12:10PM;Asr-3:36PM;Maghrib-6:14PM;Isha-7:44PM;",
       },
       {
-        date: "2024-09-23",
+        date: "2025-09-23",
         schedule:
-          "Fazr-4:49AM;Zuhr-12:10PM;Asr-3:35PM;Maghrib-6:12PM;Isha-7:42PM;",
+          "Fazr-4:49AM;Zuhr-12:10PM;Asr-3:36PM;Maghrib-6:13PM;Isha-7:43PM;",
       },
       {
-        date: "2024-09-24",
+        date: "2025-09-24",
         schedule:
-          "Fazr-4:50AM;Zuhr-12:09PM;Asr-3:35PM;Maghrib-6:11PM;Isha-7:41PM;",
+          "Fazr-4:50AM;Zuhr-12:09PM;Asr-3:35PM;Maghrib-6:12PM;Isha-7:42PM;",
       },
       {
-        date: "2024-09-25",
+        date: "2025-09-25",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:09PM;Asr-3:34PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-09-26",
         schedule:
           "Fazr-4:50AM;Zuhr-12:09PM;Asr-3:34PM;Maghrib-6:10PM;Isha-7:40PM;",
       },
       {
-        date: "2024-09-26",
+        date: "2025-09-27",
         schedule:
-          "Fazr-4:50AM;Zuhr-12:09PM;Asr-3:34PM;Maghrib-6:09PM;Isha-7:39PM;",
+          "Fazr-4:51AM;Zuhr-12:08PM;Asr-3:33PM;Maghrib-6:09PM;Isha-7:39PM;",
       },
       {
-        date: "2024-09-27",
+        date: "2025-09-28",
         schedule:
           "Fazr-4:51AM;Zuhr-12:08PM;Asr-3:33PM;Maghrib-6:08PM;Isha-7:38PM;",
       },
       {
-        date: "2024-09-28",
+        date: "2025-09-29",
         schedule:
-          "Fazr-4:51AM;Zuhr-12:08PM;Asr-3:33PM;Maghrib-6:07PM;Isha-7:37PM;",
+          "Fazr-4:51AM;Zuhr-12:08PM;Asr-3:32PM;Maghrib-6:07PM;Isha-7:37PM;",
       },
       {
-        date: "2024-09-29",
+        date: "2025-09-30",
         schedule:
-          "Fazr-4:52AM;Zuhr-12:08PM;Asr-3:32PM;Maghrib-6:06PM;Isha-7:36PM;",
+          "Fazr-4:52AM;Zuhr-12:07PM;Asr-3:32PM;Maghrib-6:06PM;Isha-7:36PM;",
       },
       {
-        date: "2024-09-30",
-        schedule:
-          "Fazr-4:52AM;Zuhr-12:07PM;Asr-3:31PM;Maghrib-6:05PM;Isha-7:35PM;",
-      },
-      {
-        date: "2024-10-01",
+        date: "2025-10-01",
         schedule:
           "Fazr-4:52AM;Zuhr-12:07PM;Asr-3:31PM;Maghrib-6:04PM;Isha-7:34PM;",
       },
       {
-        date: "2024-10-02",
+        date: "2025-10-02",
         schedule:
           "Fazr-4:53AM;Zuhr-12:07PM;Asr-3:30PM;Maghrib-6:03PM;Isha-7:33PM;",
       },
       {
-        date: "2024-10-03",
+        date: "2025-10-03",
         schedule:
           "Fazr-4:53AM;Zuhr-12:06PM;Asr-3:30PM;Maghrib-6:02PM;Isha-7:32PM;",
       },
       {
-        date: "2024-10-04",
+        date: "2025-10-04",
         schedule:
           "Fazr-4:53AM;Zuhr-12:06PM;Asr-3:29PM;Maghrib-6:01PM;Isha-7:31PM;",
       },
       {
-        date: "2024-10-05",
+        date: "2025-10-05",
         schedule:
-          "Fazr-4:54AM;Zuhr-12:06PM;Asr-3:28PM;Maghrib-6:00PM;Isha-7:30PM;",
+          "Fazr-4:54AM;Zuhr-12:06PM;Asr-3:29PM;Maghrib-6:00PM;Isha-7:30PM;",
       },
       {
-        date: "2024-10-06",
+        date: "2025-10-06",
         schedule:
-          "Fazr-4:54AM;Zuhr-12:05PM;Asr-3:28PM;Maghrib-5:59PM;Isha-7:29PM;",
+          "Fazr-4:54AM;Zuhr-12:06PM;Asr-3:28PM;Maghrib-5:59PM;Isha-7:29PM;",
       },
       {
-        date: "2024-10-07",
+        date: "2025-10-07",
         schedule:
           "Fazr-4:55AM;Zuhr-12:05PM;Asr-3:27PM;Maghrib-5:58PM;Isha-7:28PM;",
       },
       {
-        date: "2024-10-08",
+        date: "2025-10-08",
         schedule:
-          "Fazr-4:55AM;Zuhr-12:05PM;Asr-3:27PM;Maghrib-5:57PM;Isha-7:27PM;",
+          "Fazr-4:55AM;Zuhr-12:05PM;Asr-3:27PM;Maghrib-5:58PM;Isha-7:28PM;",
       },
       {
-        date: "2024-10-09",
+        date: "2025-10-09",
         schedule:
-          "Fazr-4:55AM;Zuhr-12:05PM;Asr-3:26PM;Maghrib-5:56PM;Isha-7:26PM;",
+          "Fazr-4:55AM;Zuhr-12:05PM;Asr-3:26PM;Maghrib-5:57PM;Isha-7:27PM;",
       },
       {
-        date: "2024-10-10",
+        date: "2025-10-10",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:04PM;Asr-3:26PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-10-11",
         schedule:
           "Fazr-4:56AM;Zuhr-12:04PM;Asr-3:25PM;Maghrib-5:55PM;Isha-7:25PM;",
       },
       {
-        date: "2024-10-11",
+        date: "2025-10-12",
         schedule:
-          "Fazr-4:56AM;Zuhr-12:04PM;Asr-3:25PM;Maghrib-5:54PM;Isha-7:24PM;",
+          "Fazr-4:56AM;Zuhr-12:04PM;Asr-3:24PM;Maghrib-5:54PM;Isha-7:24PM;",
       },
       {
-        date: "2024-10-12",
-        schedule:
-          "Fazr-4:57AM;Zuhr-12:04PM;Asr-3:24PM;Maghrib-5:53PM;Isha-7:23PM;",
-      },
-      {
-        date: "2024-10-13",
+        date: "2025-10-13",
         schedule:
           "Fazr-4:57AM;Zuhr-12:04PM;Asr-3:24PM;Maghrib-5:53PM;Isha-7:23PM;",
       },
       {
-        date: "2024-10-14",
+        date: "2025-10-14",
         schedule:
           "Fazr-4:57AM;Zuhr-12:03PM;Asr-3:23PM;Maghrib-5:52PM;Isha-7:22PM;",
       },
       {
-        date: "2024-10-15",
+        date: "2025-10-15",
         schedule:
-          "Fazr-4:58AM;Zuhr-12:03PM;Asr-3:22PM;Maghrib-5:51PM;Isha-7:21PM;",
+          "Fazr-4:58AM;Zuhr-12:03PM;Asr-3:23PM;Maghrib-5:51PM;Isha-7:21PM;",
       },
       {
-        date: "2024-10-16",
+        date: "2025-10-16",
         schedule:
           "Fazr-4:58AM;Zuhr-12:03PM;Asr-3:22PM;Maghrib-5:50PM;Isha-7:20PM;",
       },
       {
-        date: "2024-10-17",
+        date: "2025-10-17",
         schedule:
-          "Fazr-4:59AM;Zuhr-12:03PM;Asr-3:21PM;Maghrib-5:49PM;Isha-7:19PM;",
+          "Fazr-4:58AM;Zuhr-12:03PM;Asr-3:21PM;Maghrib-5:49PM;Isha-7:19PM;",
       },
       {
-        date: "2024-10-18",
+        date: "2025-10-18",
         schedule:
           "Fazr-4:59AM;Zuhr-12:03PM;Asr-3:21PM;Maghrib-5:48PM;Isha-7:18PM;",
       },
       {
-        date: "2024-10-19",
+        date: "2025-10-19",
         schedule:
-          "Fazr-4:59AM;Zuhr-12:02PM;Asr-3:20PM;Maghrib-5:47PM;Isha-7:17PM;",
+          "Fazr-4:59AM;Zuhr-12:02PM;Asr-3:20PM;Maghrib-5:48PM;Isha-7:18PM;",
       },
       {
-        date: "2024-10-20",
+        date: "2025-10-20",
         schedule:
-          "Fazr-5:00AM;Zuhr-12:02PM;Asr-3:20PM;Maghrib-5:46PM;Isha-7:16PM;",
+          "Fazr-5:00AM;Zuhr-12:02PM;Asr-3:20PM;Maghrib-5:47PM;Isha-7:17PM;",
       },
       {
-        date: "2024-10-21",
+        date: "2025-10-21",
         schedule:
           "Fazr-5:00AM;Zuhr-12:02PM;Asr-3:19PM;Maghrib-5:46PM;Isha-7:16PM;",
       },
       {
-        date: "2024-10-22",
+        date: "2025-10-22",
         schedule:
-          "Fazr-5:01AM;Zuhr-12:02PM;Asr-3:18PM;Maghrib-5:45PM;Isha-7:15PM;",
+          "Fazr-5:01AM;Zuhr-12:02PM;Asr-3:19PM;Maghrib-5:45PM;Isha-7:15PM;",
       },
       {
-        date: "2024-10-23",
+        date: "2025-10-23",
         schedule:
           "Fazr-5:01AM;Zuhr-12:02PM;Asr-3:18PM;Maghrib-5:44PM;Isha-7:14PM;",
       },
       {
-        date: "2024-10-24",
+        date: "2025-10-24",
         schedule:
-          "Fazr-5:01AM;Zuhr-12:02PM;Asr-3:17PM;Maghrib-5:43PM;Isha-7:13PM;",
+          "Fazr-5:01AM;Zuhr-12:02PM;Asr-3:18PM;Maghrib-5:43PM;Isha-7:13PM;",
       },
       {
-        date: "2024-10-25",
+        date: "2025-10-25",
         schedule:
-          "Fazr-5:02AM;Zuhr-12:01PM;Asr-3:17PM;Maghrib-5:43PM;Isha-7:13PM;",
+          "Fazr-5:02AM;Zuhr-12:02PM;Asr-3:17PM;Maghrib-5:43PM;Isha-7:13PM;",
       },
       {
-        date: "2024-10-26",
+        date: "2025-10-26",
         schedule:
-          "Fazr-5:02AM;Zuhr-12:01PM;Asr-3:16PM;Maghrib-5:42PM;Isha-7:12PM;",
+          "Fazr-5:02AM;Zuhr-12:01PM;Asr-3:17PM;Maghrib-5:42PM;Isha-7:12PM;",
       },
       {
-        date: "2024-10-27",
+        date: "2025-10-27",
         schedule:
           "Fazr-5:03AM;Zuhr-12:01PM;Asr-3:16PM;Maghrib-5:41PM;Isha-7:11PM;",
       },
       {
-        date: "2024-10-28",
+        date: "2025-10-28",
         schedule:
-          "Fazr-5:03AM;Zuhr-12:01PM;Asr-3:15PM;Maghrib-5:40PM;Isha-7:10PM;",
+          "Fazr-5:03AM;Zuhr-12:01PM;Asr-3:16PM;Maghrib-5:41PM;Isha-7:11PM;",
       },
       {
-        date: "2024-10-29",
+        date: "2025-10-29",
         schedule:
           "Fazr-5:04AM;Zuhr-12:01PM;Asr-3:15PM;Maghrib-5:40PM;Isha-7:10PM;",
       },
       {
-        date: "2024-10-30",
+        date: "2025-10-30",
         schedule:
           "Fazr-5:04AM;Zuhr-12:01PM;Asr-3:15PM;Maghrib-5:39PM;Isha-7:09PM;",
       },
       {
-        date: "2024-10-31",
+        date: "2025-10-31",
+        schedule:
+          "Fazr-5:05AM;Zuhr-12:01PM;Asr-3:14PM;Maghrib-5:39PM;Isha-7:09PM;",
+      },
+      {
+        date: "2025-11-01",
         schedule:
           "Fazr-5:05AM;Zuhr-12:01PM;Asr-3:14PM;Maghrib-5:38PM;Isha-7:08PM;",
       },
       {
-        date: "2024-11-01",
+        date: "2025-11-02",
         schedule:
-          "Fazr-5:05AM;Zuhr-6:23AM;Asr-12:01PM;Maghrib-3:14PM;Isha-5:38PM;",
+          "Fazr-5:06AM;Zuhr-12:01PM;Asr-3:13PM;Maghrib-5:37PM;Isha-7:07PM;",
       },
       {
-        date: "2024-11-02",
+        date: "2025-11-03",
         schedule:
-          "Fazr-5:06AM;Zuhr-6:24AM;Asr-12:01PM;Maghrib-3:13PM;Isha-5:37PM;",
+          "Fazr-5:06AM;Zuhr-12:01PM;Asr-3:13PM;Maghrib-5:37PM;Isha-7:07PM;",
       },
       {
-        date: "2024-11-03",
+        date: "2025-11-04",
         schedule:
-          "Fazr-5:06AM;Zuhr-6:24AM;Asr-12:01PM;Maghrib-3:13PM;Isha-5:37PM;",
+          "Fazr-5:07AM;Zuhr-12:01PM;Asr-3:13PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-11-04",
+        date: "2025-11-05",
         schedule:
-          "Fazr-5:07AM;Zuhr-6:25AM;Asr-12:01PM;Maghrib-3:12PM;Isha-5:36PM;",
+          "Fazr-5:07AM;Zuhr-12:01PM;Asr-3:12PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-11-05",
+        date: "2025-11-06",
         schedule:
-          "Fazr-5:07AM;Zuhr-6:25AM;Asr-12:01PM;Maghrib-3:12PM;Isha-5:35PM;",
+          "Fazr-5:08AM;Zuhr-12:01PM;Asr-3:12PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-11-06",
+        date: "2025-11-07",
         schedule:
-          "Fazr-5:08AM;Zuhr-6:26AM;Asr-12:01PM;Maghrib-3:12PM;Isha-5:35PM;",
+          "Fazr-5:08AM;Zuhr-12:01PM;Asr-3:11PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-11-07",
+        date: "2025-11-08",
         schedule:
-          "Fazr-5:08AM;Zuhr-6:27AM;Asr-12:01PM;Maghrib-3:11PM;Isha-5:34PM;",
+          "Fazr-5:09AM;Zuhr-12:01PM;Asr-3:11PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-11-08",
+        date: "2025-11-09",
         schedule:
-          "Fazr-5:09AM;Zuhr-6:27AM;Asr-12:01PM;Maghrib-3:11PM;Isha-5:34PM;",
+          "Fazr-5:09AM;Zuhr-12:01PM;Asr-3:11PM;Maghrib-5:33PM;Isha-7:03PM;",
       },
       {
-        date: "2024-11-09",
+        date: "2025-11-10",
         schedule:
-          "Fazr-5:09AM;Zuhr-6:28AM;Asr-12:01PM;Maghrib-3:11PM;Isha-5:33PM;",
+          "Fazr-5:10AM;Zuhr-12:01PM;Asr-3:10PM;Maghrib-5:33PM;Isha-7:03PM;",
       },
       {
-        date: "2024-11-10",
+        date: "2025-11-11",
         schedule:
-          "Fazr-5:10AM;Zuhr-6:29AM;Asr-12:01PM;Maghrib-3:10PM;Isha-5:33PM;",
+          "Fazr-5:10AM;Zuhr-12:01PM;Asr-3:10PM;Maghrib-5:33PM;Isha-7:03PM;",
       },
       {
-        date: "2024-11-11",
+        date: "2025-11-12",
         schedule:
-          "Fazr-5:10AM;Zuhr-6:29AM;Asr-12:01PM;Maghrib-3:10PM;Isha-5:32PM;",
+          "Fazr-5:11AM;Zuhr-12:02PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
       },
       {
-        date: "2024-11-12",
+        date: "2025-11-13",
         schedule:
-          "Fazr-5:11AM;Zuhr-6:30AM;Asr-12:02PM;Maghrib-3:10PM;Isha-5:32PM;",
+          "Fazr-5:11AM;Zuhr-12:02PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
       },
       {
-        date: "2024-11-13",
+        date: "2025-11-14",
         schedule:
-          "Fazr-5:11AM;Zuhr-6:31AM;Asr-12:02PM;Maghrib-3:10PM;Isha-5:32PM;",
+          "Fazr-5:12AM;Zuhr-12:02PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-11-14",
+        date: "2025-11-15",
         schedule:
-          "Fazr-5:12AM;Zuhr-6:31AM;Asr-12:02PM;Maghrib-3:09PM;Isha-5:31PM;",
+          "Fazr-5:12AM;Zuhr-12:02PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-11-15",
+        date: "2025-11-16",
         schedule:
-          "Fazr-5:12AM;Zuhr-6:32AM;Asr-12:02PM;Maghrib-3:09PM;Isha-5:31PM;",
+          "Fazr-5:13AM;Zuhr-12:02PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-11-16",
+        date: "2025-11-17",
         schedule:
-          "Fazr-5:13AM;Zuhr-6:33AM;Asr-12:02PM;Maghrib-3:09PM;Isha-5:31PM;",
+          "Fazr-5:13AM;Zuhr-12:02PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-11-17",
+        date: "2025-11-18",
         schedule:
-          "Fazr-5:14AM;Zuhr-6:33AM;Asr-12:02PM;Maghrib-3:09PM;Isha-5:30PM;",
+          "Fazr-5:14AM;Zuhr-12:03PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-11-18",
+        date: "2025-11-19",
         schedule:
-          "Fazr-5:14AM;Zuhr-6:34AM;Asr-12:03PM;Maghrib-3:09PM;Isha-5:30PM;",
+          "Fazr-5:15AM;Zuhr-12:03PM;Asr-3:08PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-11-19",
+        date: "2025-11-20",
         schedule:
-          "Fazr-5:15AM;Zuhr-6:35AM;Asr-12:03PM;Maghrib-3:08PM;Isha-5:30PM;",
+          "Fazr-5:15AM;Zuhr-12:03PM;Asr-3:08PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-11-20",
+        date: "2025-11-21",
         schedule:
-          "Fazr-5:15AM;Zuhr-6:35AM;Asr-12:03PM;Maghrib-3:08PM;Isha-5:30PM;",
+          "Fazr-5:16AM;Zuhr-12:03PM;Asr-3:08PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-11-21",
+        date: "2025-11-22",
         schedule:
-          "Fazr-5:16AM;Zuhr-6:36AM;Asr-12:03PM;Maghrib-3:08PM;Isha-5:29PM;",
+          "Fazr-5:16AM;Zuhr-12:04PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-22",
+        date: "2025-11-23",
         schedule:
-          "Fazr-5:17AM;Zuhr-6:37AM;Asr-12:04PM;Maghrib-3:08PM;Isha-5:29PM;",
+          "Fazr-5:17AM;Zuhr-12:04PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-23",
+        date: "2025-11-24",
         schedule:
-          "Fazr-5:17AM;Zuhr-6:37AM;Asr-12:04PM;Maghrib-3:08PM;Isha-5:29PM;",
+          "Fazr-5:18AM;Zuhr-12:04PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-24",
+        date: "2025-11-25",
         schedule:
-          "Fazr-5:18AM;Zuhr-6:38AM;Asr-12:04PM;Maghrib-3:08PM;Isha-5:29PM;",
+          "Fazr-5:18AM;Zuhr-12:04PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-25",
+        date: "2025-11-26",
         schedule:
-          "Fazr-5:18AM;Zuhr-6:39AM;Asr-12:05PM;Maghrib-3:08PM;Isha-5:29PM;",
+          "Fazr-5:19AM;Zuhr-12:05PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-26",
+        date: "2025-11-27",
         schedule:
-          "Fazr-5:19AM;Zuhr-6:40AM;Asr-12:05PM;Maghrib-3:08PM;Isha-5:29PM;",
+          "Fazr-5:19AM;Zuhr-12:05PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-27",
-        schedule:
-          "Fazr-5:19AM;Zuhr-6:40AM;Asr-12:05PM;Maghrib-3:08PM;Isha-5:29PM;",
-      },
-      {
-        date: "2024-11-28",
-        schedule:
-          "Fazr-5:20AM;Zuhr-6:41AM;Asr-12:05PM;Maghrib-3:08PM;Isha-5:29PM;",
-      },
-      {
-        date: "2024-11-29",
-        schedule:
-          "Fazr-5:21AM;Zuhr-6:42AM;Asr-12:06PM;Maghrib-3:08PM;Isha-5:29PM;",
-      },
-      {
-        date: "2024-11-30",
-        schedule:
-          "Fazr-5:21AM;Zuhr-6:42AM;Asr-12:06PM;Maghrib-3:08PM;Isha-5:29PM;",
-      },
-      {
-        date: "2024-12-01",
-        schedule:
-          "Fazr-5:22AM;Zuhr-12:07PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-12-02",
-        schedule:
-          "Fazr-5:22AM;Zuhr-12:07PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-12-03",
-        schedule:
-          "Fazr-5:23AM;Zuhr-12:07PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-12-04",
-        schedule:
-          "Fazr-5:24AM;Zuhr-12:08PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-12-05",
-        schedule:
-          "Fazr-5:24AM;Zuhr-12:08PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-12-06",
-        schedule:
-          "Fazr-5:25AM;Zuhr-12:09PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-12-07",
-        schedule:
-          "Fazr-5:25AM;Zuhr-12:09PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-12-08",
-        schedule:
-          "Fazr-5:26AM;Zuhr-12:09PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-12-09",
-        schedule:
-          "Fazr-5:27AM;Zuhr-12:10PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-12-10",
-        schedule:
-          "Fazr-5:27AM;Zuhr-12:10PM;Asr-3:10PM;Maghrib-5:31PM;Isha-7:01PM;",
-      },
-      {
-        date: "2024-12-11",
-        schedule:
-          "Fazr-5:28AM;Zuhr-12:11PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
-      },
-      {
-        date: "2024-12-12",
-        schedule:
-          "Fazr-5:28AM;Zuhr-12:11PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
-      },
-      {
-        date: "2024-12-13",
-        schedule:
-          "Fazr-5:29AM;Zuhr-12:12PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
-      },
-      {
-        date: "2024-12-14",
-        schedule:
-          "Fazr-5:30AM;Zuhr-12:12PM;Asr-3:12PM;Maghrib-5:32PM;Isha-7:02PM;",
-      },
-      {
-        date: "2024-12-15",
-        schedule:
-          "Fazr-5:30AM;Zuhr-12:13PM;Asr-3:12PM;Maghrib-5:32PM;Isha-7:02PM;",
-      },
-      {
-        date: "2024-12-16",
-        schedule:
-          "Fazr-5:31AM;Zuhr-12:13PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
-      },
-      {
-        date: "2024-12-17",
-        schedule:
-          "Fazr-5:31AM;Zuhr-12:14PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
-      },
-      {
-        date: "2024-12-18",
-        schedule:
-          "Fazr-5:32AM;Zuhr-12:14PM;Asr-3:14PM;Maghrib-5:33PM;Isha-7:03PM;",
-      },
-      {
-        date: "2024-12-19",
-        schedule:
-          "Fazr-5:32AM;Zuhr-12:15PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
-      },
-      {
-        date: "2024-12-20",
-        schedule:
-          "Fazr-5:33AM;Zuhr-12:15PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
-      },
-      {
-        date: "2024-12-21",
-        schedule:
-          "Fazr-5:33AM;Zuhr-12:16PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
-      },
-      {
-        date: "2024-12-22",
-        schedule:
-          "Fazr-5:34AM;Zuhr-12:16PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
-      },
-      {
-        date: "2024-12-23",
-        schedule:
-          "Fazr-5:34AM;Zuhr-12:17PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
-      },
-      {
-        date: "2024-12-24",
-        schedule:
-          "Fazr-5:35AM;Zuhr-12:17PM;Asr-3:17PM;Maghrib-5:36PM;Isha-7:06PM;",
-      },
-      {
-        date: "2024-12-25",
-        schedule:
-          "Fazr-5:35AM;Zuhr-12:18PM;Asr-3:17PM;Maghrib-5:37PM;Isha-7:07PM;",
-      },
-      {
-        date: "2024-12-26",
-        schedule:
-          "Fazr-5:36AM;Zuhr-12:18PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
-      },
-      {
-        date: "2024-12-27",
-        schedule:
-          "Fazr-5:36AM;Zuhr-12:19PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
-      },
-      {
-        date: "2024-12-28",
-        schedule:
-          "Fazr-5:36AM;Zuhr-12:19PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
-      },
-      {
-        date: "2024-12-29",
-        schedule:
-          "Fazr-5:37AM;Zuhr-12:20PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
-      },
-      {
-        date: "2024-12-30",
-        schedule:
-          "Fazr-5:37AM;Zuhr-12:20PM;Asr-3:20PM;Maghrib-5:40PM;Isha-7:10PM;",
-      },
-      {
-        date: "2024-12-31",
-        schedule:
-          "Fazr-5:37AM;Zuhr-12:21PM;Asr-3:21PM;Maghrib-5:41PM;Isha-7:11PM;",
-      },
-    ],
-    dubai: [
-      {
-        date: "2024-09-01",
-        schedule:
-          "Fazr-4:40AM;Zuhr-12:19PM;Asr-3:49PM;Maghrib-6:38PM;Isha-8:08PM;",
-      },
-      {
-        date: "2024-09-02",
-        schedule:
-          "Fazr-4:41AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:37PM;Isha-8:07PM;",
-      },
-      {
-        date: "2024-09-03",
-        schedule:
-          "Fazr-4:41AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:36PM;Isha-8:06PM;",
-      },
-      {
-        date: "2024-09-04",
-        schedule:
-          "Fazr-4:42AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:35PM;Isha-8:05PM;",
-      },
-      {
-        date: "2024-09-05",
-        schedule:
-          "Fazr-4:42AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:34PM;Isha-8:04PM;",
-      },
-      {
-        date: "2024-09-06",
-        schedule:
-          "Fazr-4:43AM;Zuhr-12:18PM;Asr-3:46PM;Maghrib-6:33PM;Isha-8:03PM;",
-      },
-      {
-        date: "2024-09-07",
-        schedule:
-          "Fazr-4:43AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:32PM;Isha-8:02PM;",
-      },
-      {
-        date: "2024-09-08",
-        schedule:
-          "Fazr-4:44AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:31PM;Isha-8:01PM;",
-      },
-      {
-        date: "2024-09-09",
-        schedule:
-          "Fazr-4:44AM;Zuhr-12:17PM;Asr-3:45PM;Maghrib-6:30PM;Isha-8:00PM;",
-      },
-      {
-        date: "2024-09-10",
-        schedule:
-          "Fazr-4:45AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:28PM;Isha-7:58PM;",
-      },
-      {
-        date: "2024-09-11",
-        schedule:
-          "Fazr-4:45AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:27PM;Isha-7:57PM;",
-      },
-      {
-        date: "2024-09-12",
-        schedule:
-          "Fazr-4:45AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:26PM;Isha-7:56PM;",
-      },
-      {
-        date: "2024-09-13",
-        schedule:
-          "Fazr-4:46AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:25PM;Isha-7:55PM;",
-      },
-      {
-        date: "2024-09-14",
-        schedule:
-          "Fazr-4:46AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:24PM;Isha-7:54PM;",
-      },
-      {
-        date: "2024-09-15",
-        schedule:
-          "Fazr-4:47AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:23PM;Isha-7:53PM;",
-      },
-      {
-        date: "2024-09-16",
-        schedule:
-          "Fazr-4:47AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:22PM;Isha-7:52PM;",
-      },
-      {
-        date: "2024-09-17",
-        schedule:
-          "Fazr-4:48AM;Zuhr-12:14PM;Asr-3:41PM;Maghrib-6:21PM;Isha-7:51PM;",
-      },
-      {
-        date: "2024-09-18",
-        schedule:
-          "Fazr-4:48AM;Zuhr-12:13PM;Asr-3:40PM;Maghrib-6:20PM;Isha-7:50PM;",
-      },
-      {
-        date: "2024-09-19",
-        schedule:
-          "Fazr-4:49AM;Zuhr-12:13PM;Asr-3:40PM;Maghrib-6:19PM;Isha-7:49PM;",
-      },
-      {
-        date: "2024-09-20",
-        schedule:
-          "Fazr-4:49AM;Zuhr-12:13PM;Asr-3:39PM;Maghrib-6:18PM;Isha-7:48PM;",
-      },
-      {
-        date: "2024-09-21",
-        schedule:
-          "Fazr-4:50AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:17PM;Isha-7:47PM;",
-      },
-      {
-        date: "2024-09-22",
-        schedule:
-          "Fazr-4:50AM;Zuhr-12:12PM;Asr-3:38PM;Maghrib-6:15PM;Isha-7:45PM;",
-      },
-      {
-        date: "2024-09-23",
-        schedule:
-          "Fazr-4:50AM;Zuhr-12:12PM;Asr-3:38PM;Maghrib-6:14PM;Isha-7:44PM;",
-      },
-      {
-        date: "2024-09-24",
-        schedule:
-          "Fazr-4:51AM;Zuhr-12:11PM;Asr-3:37PM;Maghrib-6:13PM;Isha-7:43PM;",
-      },
-      {
-        date: "2024-09-25",
-        schedule:
-          "Fazr-4:51AM;Zuhr-12:11PM;Asr-3:36PM;Maghrib-6:12PM;Isha-7:42PM;",
-      },
-      {
-        date: "2024-09-26",
-        schedule:
-          "Fazr-4:52AM;Zuhr-12:10PM;Asr-3:36PM;Maghrib-6:11PM;Isha-7:41PM;",
-      },
-      {
-        date: "2024-09-27",
-        schedule:
-          "Fazr-4:52AM;Zuhr-12:10PM;Asr-3:35PM;Maghrib-6:10PM;Isha-7:40PM;",
-      },
-      {
-        date: "2024-09-28",
-        schedule:
-          "Fazr-4:53AM;Zuhr-12:10PM;Asr-3:34PM;Maghrib-6:09PM;Isha-7:39PM;",
-      },
-      {
-        date: "2024-09-29",
-        schedule:
-          "Fazr-4:53AM;Zuhr-12:09PM;Asr-3:34PM;Maghrib-6:08PM;Isha-7:38PM;",
-      },
-      {
-        date: "2024-09-30",
-        schedule:
-          "Fazr-4:53AM;Zuhr-12:09PM;Asr-3:33PM;Maghrib-6:07PM;Isha-7:37PM;",
-      },
-      {
-        date: "2024-10-01",
-        schedule:
-          "Fazr-4:54AM;Zuhr-12:09PM;Asr-3:33PM;Maghrib-6:06PM;Isha-7:36PM;",
-      },
-      {
-        date: "2024-10-02",
-        schedule:
-          "Fazr-4:54AM;Zuhr-12:09PM;Asr-3:32PM;Maghrib-6:05PM;Isha-7:35PM;",
-      },
-      {
-        date: "2024-10-03",
-        schedule:
-          "Fazr-4:55AM;Zuhr-12:08PM;Asr-3:31PM;Maghrib-6:04PM;Isha-7:34PM;",
-      },
-      {
-        date: "2024-10-04",
-        schedule:
-          "Fazr-4:55AM;Zuhr-12:08PM;Asr-3:31PM;Maghrib-6:03PM;Isha-7:33PM;",
-      },
-      {
-        date: "2024-10-05",
-        schedule:
-          "Fazr-4:55AM;Zuhr-12:08PM;Asr-3:30PM;Maghrib-6:02PM;Isha-7:32PM;",
-      },
-      {
-        date: "2024-10-06",
-        schedule:
-          "Fazr-4:56AM;Zuhr-12:07PM;Asr-3:29PM;Maghrib-6:01PM;Isha-7:31PM;",
-      },
-      {
-        date: "2024-10-07",
-        schedule:
-          "Fazr-4:56AM;Zuhr-12:07PM;Asr-3:29PM;Maghrib-6:00PM;Isha-7:30PM;",
-      },
-      {
-        date: "2024-10-08",
-        schedule:
-          "Fazr-4:57AM;Zuhr-12:07PM;Asr-3:28PM;Maghrib-5:59PM;Isha-7:29PM;",
-      },
-      {
-        date: "2024-10-09",
-        schedule:
-          "Fazr-4:57AM;Zuhr-12:06PM;Asr-3:28PM;Maghrib-5:58PM;Isha-7:28PM;",
-      },
-      {
-        date: "2024-10-10",
-        schedule:
-          "Fazr-4:58AM;Zuhr-12:06PM;Asr-3:27PM;Maghrib-5:57PM;Isha-7:27PM;",
-      },
-      {
-        date: "2024-10-11",
-        schedule:
-          "Fazr-4:58AM;Zuhr-12:06PM;Asr-3:26PM;Maghrib-5:56PM;Isha-7:26PM;",
-      },
-      {
-        date: "2024-10-12",
-        schedule:
-          "Fazr-4:58AM;Zuhr-12:06PM;Asr-3:26PM;Maghrib-5:55PM;Isha-7:25PM;",
-      },
-      {
-        date: "2024-10-13",
-        schedule:
-          "Fazr-4:59AM;Zuhr-12:05PM;Asr-3:25PM;Maghrib-5:54PM;Isha-7:24PM;",
-      },
-      {
-        date: "2024-10-14",
-        schedule:
-          "Fazr-4:59AM;Zuhr-12:05PM;Asr-3:24PM;Maghrib-5:53PM;Isha-7:23PM;",
-      },
-      {
-        date: "2024-10-15",
-        schedule:
-          "Fazr-5:00AM;Zuhr-12:05PM;Asr-3:24PM;Maghrib-5:52PM;Isha-7:22PM;",
-      },
-      {
-        date: "2024-10-16",
-        schedule:
-          "Fazr-5:00AM;Zuhr-12:05PM;Asr-3:23PM;Maghrib-5:51PM;Isha-7:21PM;",
-      },
-      {
-        date: "2024-10-17",
-        schedule:
-          "Fazr-5:01AM;Zuhr-12:05PM;Asr-3:23PM;Maghrib-5:50PM;Isha-7:20PM;",
-      },
-      {
-        date: "2024-10-18",
-        schedule:
-          "Fazr-5:01AM;Zuhr-12:04PM;Asr-3:22PM;Maghrib-5:49PM;Isha-7:19PM;",
-      },
-      {
-        date: "2024-10-19",
-        schedule:
-          "Fazr-5:01AM;Zuhr-12:04PM;Asr-3:21PM;Maghrib-5:48PM;Isha-7:18PM;",
-      },
-      {
-        date: "2024-10-20",
-        schedule:
-          "Fazr-5:02AM;Zuhr-12:04PM;Asr-3:21PM;Maghrib-5:47PM;Isha-7:17PM;",
-      },
-      {
-        date: "2024-10-21",
-        schedule:
-          "Fazr-5:02AM;Zuhr-12:04PM;Asr-3:20PM;Maghrib-5:47PM;Isha-7:17PM;",
-      },
-      {
-        date: "2024-10-22",
-        schedule:
-          "Fazr-5:03AM;Zuhr-12:04PM;Asr-3:20PM;Maghrib-5:46PM;Isha-7:16PM;",
-      },
-      {
-        date: "2024-10-23",
-        schedule:
-          "Fazr-5:03AM;Zuhr-12:04PM;Asr-3:19PM;Maghrib-5:45PM;Isha-7:15PM;",
-      },
-      {
-        date: "2024-10-24",
-        schedule:
-          "Fazr-5:04AM;Zuhr-12:03PM;Asr-3:18PM;Maghrib-5:44PM;Isha-7:14PM;",
-      },
-      {
-        date: "2024-10-25",
-        schedule:
-          "Fazr-5:04AM;Zuhr-12:03PM;Asr-3:18PM;Maghrib-5:43PM;Isha-7:13PM;",
-      },
-      {
-        date: "2024-10-26",
-        schedule:
-          "Fazr-5:05AM;Zuhr-12:03PM;Asr-3:17PM;Maghrib-5:43PM;Isha-7:13PM;",
-      },
-      {
-        date: "2024-10-27",
-        schedule:
-          "Fazr-5:05AM;Zuhr-12:03PM;Asr-3:17PM;Maghrib-5:42PM;Isha-7:12PM;",
-      },
-      {
-        date: "2024-10-28",
-        schedule:
-          "Fazr-5:06AM;Zuhr-12:03PM;Asr-3:16PM;Maghrib-5:41PM;Isha-7:11PM;",
-      },
-      {
-        date: "2024-10-29",
-        schedule:
-          "Fazr-5:06AM;Zuhr-12:03PM;Asr-3:16PM;Maghrib-5:40PM;Isha-7:10PM;",
-      },
-      {
-        date: "2024-10-30",
-        schedule:
-          "Fazr-5:07AM;Zuhr-12:03PM;Asr-3:15PM;Maghrib-5:40PM;Isha-7:10PM;",
-      },
-      {
-        date: "2024-10-31",
-        schedule:
-          "Fazr-5:07AM;Zuhr-12:03PM;Asr-3:15PM;Maghrib-5:39PM;Isha-7:09PM;",
-      },
-      {
-        date: "2024-11-01",
-        schedule:
-          "Fazr-5:08AM;Zuhr-12:03PM;Asr-3:14PM;Maghrib-5:38PM;Isha-7:08PM;",
-      },
-      {
-        date: "2024-11-02",
-        schedule:
-          "Fazr-5:08AM;Zuhr-12:03PM;Asr-3:14PM;Maghrib-5:38PM;Isha-7:08PM;",
-      },
-      {
-        date: "2024-11-03",
-        schedule:
-          "Fazr-5:09AM;Zuhr-12:03PM;Asr-3:14PM;Maghrib-5:37PM;Isha-7:07PM;",
-      },
-      {
-        date: "2024-11-04",
-        schedule:
-          "Fazr-5:09AM;Zuhr-12:03PM;Asr-3:13PM;Maghrib-5:36PM;Isha-7:06PM;",
-      },
-      {
-        date: "2024-11-05",
-        schedule:
-          "Fazr-5:10AM;Zuhr-12:03PM;Asr-3:13PM;Maghrib-5:36PM;Isha-7:06PM;",
-      },
-      {
-        date: "2024-11-06",
-        schedule:
-          "Fazr-5:10AM;Zuhr-12:03PM;Asr-3:12PM;Maghrib-5:35PM;Isha-7:05PM;",
-      },
-      {
-        date: "2024-11-07",
-        schedule:
-          "Fazr-5:11AM;Zuhr-12:03PM;Asr-3:12PM;Maghrib-5:35PM;Isha-7:05PM;",
-      },
-      {
-        date: "2024-11-08",
-        schedule:
-          "Fazr-5:11AM;Zuhr-12:03PM;Asr-3:12PM;Maghrib-5:34PM;Isha-7:04PM;",
-      },
-      {
-        date: "2024-11-09",
-        schedule:
-          "Fazr-5:12AM;Zuhr-12:03PM;Asr-3:11PM;Maghrib-5:34PM;Isha-7:04PM;",
-      },
-      {
-        date: "2024-11-10",
-        schedule:
-          "Fazr-5:13AM;Zuhr-12:03PM;Asr-3:11PM;Maghrib-5:33PM;Isha-7:03PM;",
-      },
-      {
-        date: "2024-11-11",
-        schedule:
-          "Fazr-5:13AM;Zuhr-12:03PM;Asr-3:11PM;Maghrib-5:33PM;Isha-7:03PM;",
-      },
-      {
-        date: "2024-11-12",
-        schedule:
-          "Fazr-5:14AM;Zuhr-12:03PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
-      },
-      {
-        date: "2024-11-13",
-        schedule:
-          "Fazr-5:14AM;Zuhr-12:04PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
-      },
-      {
-        date: "2024-11-14",
-        schedule:
-          "Fazr-5:15AM;Zuhr-12:04PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
-      },
-      {
-        date: "2024-11-15",
-        schedule:
-          "Fazr-5:15AM;Zuhr-12:04PM;Asr-3:10PM;Maghrib-5:31PM;Isha-7:01PM;",
-      },
-      {
-        date: "2024-11-16",
-        schedule:
-          "Fazr-5:16AM;Zuhr-12:04PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
-      },
-      {
-        date: "2024-11-17",
-        schedule:
-          "Fazr-5:17AM;Zuhr-12:04PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
-      },
-      {
-        date: "2024-11-18",
-        schedule:
-          "Fazr-5:17AM;Zuhr-12:05PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-11-19",
-        schedule:
-          "Fazr-5:18AM;Zuhr-12:05PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-11-20",
-        schedule:
-          "Fazr-5:18AM;Zuhr-12:05PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-11-21",
-        schedule:
-          "Fazr-5:19AM;Zuhr-12:05PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-11-22",
+        date: "2025-11-28",
         schedule:
           "Fazr-5:20AM;Zuhr-12:05PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-23",
-        schedule:
-          "Fazr-5:20AM;Zuhr-12:06PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-11-24",
+        date: "2025-11-29",
         schedule:
           "Fazr-5:21AM;Zuhr-12:06PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-25",
+        date: "2025-11-30",
         schedule:
           "Fazr-5:21AM;Zuhr-12:06PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-26",
+        date: "2025-12-01",
         schedule:
           "Fazr-5:22AM;Zuhr-12:07PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-27",
+        date: "2025-12-02",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:07PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-12-03",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:07PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-12-04",
+        schedule:
+          "Fazr-5:24AM;Zuhr-12:08PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-12-05",
+        schedule:
+          "Fazr-5:24AM;Zuhr-12:08PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-12-06",
+        schedule:
+          "Fazr-5:25AM;Zuhr-12:08PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-12-07",
+        schedule:
+          "Fazr-5:25AM;Zuhr-12:09PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-12-08",
+        schedule:
+          "Fazr-5:26AM;Zuhr-12:09PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-12-09",
+        schedule:
+          "Fazr-5:27AM;Zuhr-12:10PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-12-10",
+        schedule:
+          "Fazr-5:27AM;Zuhr-12:10PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-12-11",
+        schedule:
+          "Fazr-5:28AM;Zuhr-12:11PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-12-12",
+        schedule:
+          "Fazr-5:28AM;Zuhr-12:11PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-12-13",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:12PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-12-14",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:12PM;Asr-3:12PM;Maghrib-5:32PM;Isha-7:02PM;",
+      },
+      {
+        date: "2025-12-15",
+        schedule:
+          "Fazr-5:30AM;Zuhr-12:13PM;Asr-3:12PM;Maghrib-5:32PM;Isha-7:02PM;",
+      },
+      {
+        date: "2025-12-16",
+        schedule:
+          "Fazr-5:30AM;Zuhr-12:13PM;Asr-3:13PM;Maghrib-5:32PM;Isha-7:02PM;",
+      },
+      {
+        date: "2025-12-17",
+        schedule:
+          "Fazr-5:31AM;Zuhr-12:14PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
+      },
+      {
+        date: "2025-12-18",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:14PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
+      },
+      {
+        date: "2025-12-19",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:15PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
+      },
+      {
+        date: "2025-12-20",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:15PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
+      },
+      {
+        date: "2025-12-21",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:16PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
+      },
+      {
+        date: "2025-12-22",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:16PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
+      },
+      {
+        date: "2025-12-23",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:17PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
+      },
+      {
+        date: "2025-12-24",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:17PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
+      },
+      {
+        date: "2025-12-25",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:18PM;Asr-3:17PM;Maghrib-5:37PM;Isha-7:07PM;",
+      },
+      {
+        date: "2025-12-26",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:18PM;Asr-3:18PM;Maghrib-5:37PM;Isha-7:07PM;",
+      },
+      {
+        date: "2025-12-27",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:19PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
+      },
+      {
+        date: "2025-12-28",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:19PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
+      },
+      {
+        date: "2025-12-29",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:20PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
+      },
+      {
+        date: "2025-12-30",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:20PM;Asr-3:20PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+      {
+        date: "2025-12-31",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:20PM;Asr-3:20PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+    ],
+    dubai: [
+      {
+        date: "2025-01-01",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:23PM;Asr-3:21PM;Maghrib-5:41PM;Isha-7:11PM;",
+      },
+      {
+        date: "2025-01-02",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:23PM;Asr-3:22PM;Maghrib-5:42PM;Isha-7:12PM;",
+      },
+      {
+        date: "2025-01-03",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:24PM;Asr-3:23PM;Maghrib-5:42PM;Isha-7:12PM;",
+      },
+      {
+        date: "2025-01-04",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:24PM;Asr-3:23PM;Maghrib-5:43PM;Isha-7:13PM;",
+      },
+      {
+        date: "2025-01-05",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:25PM;Asr-3:24PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-01-06",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:25PM;Asr-3:25PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-01-07",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:26PM;Asr-3:25PM;Maghrib-5:45PM;Isha-7:15PM;",
+      },
+      {
+        date: "2025-01-08",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:26PM;Asr-3:26PM;Maghrib-5:46PM;Isha-7:16PM;",
+      },
+      {
+        date: "2025-01-09",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:26PM;Asr-3:27PM;Maghrib-5:47PM;Isha-7:17PM;",
+      },
+      {
+        date: "2025-01-10",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:27PM;Asr-3:27PM;Maghrib-5:47PM;Isha-7:17PM;",
+      },
+      {
+        date: "2025-01-11",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:27PM;Asr-3:28PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-01-12",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:28PM;Asr-3:29PM;Maghrib-5:49PM;Isha-7:19PM;",
+      },
+      {
+        date: "2025-01-13",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:28PM;Asr-3:29PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-01-14",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:28PM;Asr-3:30PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-01-15",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:29PM;Asr-3:31PM;Maghrib-5:51PM;Isha-7:21PM;",
+      },
+      {
+        date: "2025-01-16",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:29PM;Asr-3:31PM;Maghrib-5:52PM;Isha-7:22PM;",
+      },
+      {
+        date: "2025-01-17",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:29PM;Asr-3:32PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-01-18",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:30PM;Asr-3:33PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-01-19",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:30PM;Asr-3:33PM;Maghrib-5:54PM;Isha-7:24PM;",
+      },
+      {
+        date: "2025-01-20",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:30PM;Asr-3:34PM;Maghrib-5:55PM;Isha-7:25PM;",
+      },
+      {
+        date: "2025-01-21",
+        schedule:
+          "Fazr-5:44AM;Zuhr-12:31PM;Asr-3:35PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-01-22",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:31PM;Asr-3:35PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-01-23",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:31PM;Asr-3:36PM;Maghrib-5:57PM;Isha-7:27PM;",
+      },
+      {
+        date: "2025-01-24",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:31PM;Asr-3:37PM;Maghrib-5:58PM;Isha-7:28PM;",
+      },
+      {
+        date: "2025-01-25",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:32PM;Asr-3:37PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-01-26",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:32PM;Asr-3:38PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-01-27",
+        schedule:
+          "Fazr-5:43AM;Zuhr-12:32PM;Asr-3:38PM;Maghrib-6:00PM;Isha-7:30PM;",
+      },
+      {
+        date: "2025-01-28",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:32PM;Asr-3:39PM;Maghrib-6:01PM;Isha-7:31PM;",
+      },
+      {
+        date: "2025-01-29",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:32PM;Asr-3:40PM;Maghrib-6:02PM;Isha-7:32PM;",
+      },
+      {
+        date: "2025-01-30",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:33PM;Asr-3:40PM;Maghrib-6:02PM;Isha-7:32PM;",
+      },
+      {
+        date: "2025-01-31",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:33PM;Asr-3:41PM;Maghrib-6:03PM;Isha-7:33PM;",
+      },
+      {
+        date: "2025-02-01",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:33PM;Asr-3:41PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-02-02",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:33PM;Asr-3:42PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-02-03",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:33PM;Asr-3:43PM;Maghrib-6:05PM;Isha-7:35PM;",
+      },
+      {
+        date: "2025-02-04",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:33PM;Asr-3:43PM;Maghrib-6:06PM;Isha-7:36PM;",
+      },
+      {
+        date: "2025-02-05",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:33PM;Asr-3:44PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-02-06",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:33PM;Asr-3:44PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-02-07",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:33PM;Asr-3:45PM;Maghrib-6:08PM;Isha-7:38PM;",
+      },
+      {
+        date: "2025-02-08",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:33PM;Asr-3:45PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-02-09",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:33PM;Asr-3:46PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-02-10",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:33PM;Asr-3:46PM;Maghrib-6:10PM;Isha-7:40PM;",
+      },
+      {
+        date: "2025-02-11",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:33PM;Asr-3:46PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-02-12",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:33PM;Asr-3:47PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-02-13",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:33PM;Asr-3:47PM;Maghrib-6:12PM;Isha-7:42PM;",
+      },
+      {
+        date: "2025-02-14",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:33PM;Asr-3:48PM;Maghrib-6:13PM;Isha-7:43PM;",
+      },
+      {
+        date: "2025-02-15",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:33PM;Asr-3:48PM;Maghrib-6:13PM;Isha-7:43PM;",
+      },
+      {
+        date: "2025-02-16",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:33PM;Asr-3:49PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-02-17",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:33PM;Asr-3:49PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-02-18",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:33PM;Asr-3:49PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-02-19",
+        schedule:
+          "Fazr-5:31AM;Zuhr-12:33PM;Asr-3:50PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-02-20",
+        schedule:
+          "Fazr-5:31AM;Zuhr-12:33PM;Asr-3:50PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-02-21",
+        schedule:
+          "Fazr-5:30AM;Zuhr-12:33PM;Asr-3:50PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-02-22",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:33PM;Asr-3:50PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-02-23",
+        schedule:
+          "Fazr-5:28AM;Zuhr-12:33PM;Asr-3:51PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-02-24",
+        schedule:
+          "Fazr-5:28AM;Zuhr-12:32PM;Asr-3:51PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-02-25",
+        schedule:
+          "Fazr-5:27AM;Zuhr-12:32PM;Asr-3:51PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-02-26",
+        schedule:
+          "Fazr-5:26AM;Zuhr-12:32PM;Asr-3:51PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-02-27",
+        schedule:
+          "Fazr-5:25AM;Zuhr-12:32PM;Asr-3:52PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-02-28",
+        schedule:
+          "Fazr-5:24AM;Zuhr-12:32PM;Asr-3:52PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-03-01",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:32PM;Asr-3:52PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-03-02",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:31PM;Asr-3:52PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-03-03",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:31PM;Asr-3:52PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-03-04",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:31PM;Asr-3:53PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-03-05",
+        schedule:
+          "Fazr-5:20AM;Zuhr-12:31PM;Asr-3:53PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-03-06",
+        schedule:
+          "Fazr-5:19AM;Zuhr-12:30PM;Asr-3:53PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-03-07",
+        schedule:
+          "Fazr-5:18AM;Zuhr-12:30PM;Asr-3:53PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-03-08",
+        schedule:
+          "Fazr-5:17AM;Zuhr-12:30PM;Asr-3:53PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-03-09",
+        schedule:
+          "Fazr-5:16AM;Zuhr-12:30PM;Asr-3:53PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-03-10",
+        schedule:
+          "Fazr-5:15AM;Zuhr-12:30PM;Asr-3:53PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-11",
+        schedule:
+          "Fazr-5:14AM;Zuhr-12:29PM;Asr-3:53PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-12",
+        schedule:
+          "Fazr-5:13AM;Zuhr-12:29PM;Asr-3:53PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-03-13",
+        schedule:
+          "Fazr-5:12AM;Zuhr-12:29PM;Asr-3:53PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-03-14",
+        schedule:
+          "Fazr-5:11AM;Zuhr-12:28PM;Asr-3:53PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-15",
+        schedule:
+          "Fazr-5:10AM;Zuhr-12:28PM;Asr-3:53PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-16",
+        schedule:
+          "Fazr-5:08AM;Zuhr-12:28PM;Asr-3:53PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-17",
+        schedule:
+          "Fazr-5:07AM;Zuhr-12:28PM;Asr-3:53PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-18",
+        schedule:
+          "Fazr-5:06AM;Zuhr-12:27PM;Asr-3:53PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-19",
+        schedule:
+          "Fazr-5:05AM;Zuhr-12:27PM;Asr-3:53PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-20",
+        schedule:
+          "Fazr-5:04AM;Zuhr-12:27PM;Asr-3:53PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-21",
+        schedule:
+          "Fazr-5:03AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-03-22",
+        schedule:
+          "Fazr-5:02AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-03-23",
+        schedule:
+          "Fazr-5:01AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-03-24",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-03-25",
+        schedule:
+          "Fazr-4:59AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-03-26",
+        schedule:
+          "Fazr-4:58AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-03-27",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:25PM;Asr-3:52PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-03-28",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:24PM;Asr-3:52PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-03-29",
+        schedule:
+          "Fazr-4:54AM;Zuhr-12:24PM;Asr-3:52PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-03-30",
+        schedule:
+          "Fazr-4:53AM;Zuhr-12:24PM;Asr-3:52PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-03-31",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-04-01",
+        schedule:
+          "Fazr-4:51AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-04-02",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-04-03",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-04-04",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-04-05",
+        schedule:
+          "Fazr-4:46AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-04-06",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-04-07",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:21PM;Asr-3:51PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-04-08",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-04-09",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-04-10",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-04-11",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:20PM;Asr-3:50PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-04-12",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-04-13",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-04-14",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-04-15",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:19PM;Asr-3:49PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-04-16",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:19PM;Asr-3:49PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-04-17",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-04-18",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-04-19",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:18PM;Asr-3:48PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-04-20",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:18PM;Asr-3:48PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-04-21",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-04-22",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-04-23",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-04-24",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:17PM;Asr-3:47PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-04-25",
+        schedule:
+          "Fazr-4:24AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-04-26",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-04-27",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-04-28",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-04-29",
+        schedule:
+          "Fazr-4:20AM;Zuhr-12:17PM;Asr-3:45PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-04-30",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-05-01",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-05-02",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-05-03",
+        schedule:
+          "Fazr-4:16AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-05-04",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-05-05",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-05-06",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-05-07",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-05-08",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:16PM;Asr-3:43PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-05-09",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:16PM;Asr-3:43PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-05-10",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:16PM;Asr-3:43PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-05-11",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:16PM;Asr-3:43PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-05-12",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:16PM;Asr-3:43PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-05-13",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:16PM;Asr-3:43PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-05-14",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:16PM;Asr-3:42PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-05-15",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:16PM;Asr-3:42PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-05-16",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:16PM;Asr-3:42PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-05-17",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:16PM;Asr-3:42PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-05-18",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:16PM;Asr-3:42PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-05-19",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:16PM;Asr-3:42PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-05-20",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:16PM;Asr-3:42PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-05-21",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-05-22",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-05-23",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-05-24",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-05-25",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-05-26",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-05-27",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:16PM;Asr-3:41PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-05-28",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-05-29",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-05-30",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-05-31",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-06-01",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-06-02",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-06-03",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:17PM;Asr-3:41PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-06-04",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:18PM;Asr-3:41PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-06-05",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:18PM;Asr-3:41PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-06-06",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:18PM;Asr-3:41PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-07",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:18PM;Asr-3:41PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-08",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:18PM;Asr-3:42PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-09",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:19PM;Asr-3:42PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-10",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:19PM;Asr-3:42PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-11",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:19PM;Asr-3:42PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-06-12",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:19PM;Asr-3:42PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-06-13",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:19PM;Asr-3:42PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-06-14",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:20PM;Asr-3:42PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-06-15",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:20PM;Asr-3:42PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-06-16",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-06-17",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-06-18",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-06-19",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:21PM;Asr-3:43PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-06-20",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:21PM;Asr-3:43PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-06-21",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:21PM;Asr-3:44PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-06-22",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:21PM;Asr-3:44PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-23",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:22PM;Asr-3:44PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-24",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:22PM;Asr-3:44PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-25",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:22PM;Asr-3:45PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-26",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:22PM;Asr-3:45PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-27",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:22PM;Asr-3:45PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-06-28",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:23PM;Asr-3:45PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-06-29",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:23PM;Asr-3:46PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-06-30",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:23PM;Asr-3:46PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-01",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:23PM;Asr-3:46PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-02",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:23PM;Asr-3:46PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-03",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:24PM;Asr-3:47PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-04",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:24PM;Asr-3:47PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-05",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:24PM;Asr-3:47PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-06",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:14PM;Isha-8:44PM;",
+      },
+      {
+        date: "2025-07-07",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-08",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-09",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:25PM;Asr-3:48PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-10",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:25PM;Asr-3:49PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-11",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:25PM;Asr-3:49PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-12",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:25PM;Asr-3:49PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-13",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:25PM;Asr-3:49PM;Maghrib-7:13PM;Isha-8:43PM;",
+      },
+      {
+        date: "2025-07-14",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:25PM;Asr-3:50PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-07-15",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:25PM;Asr-3:50PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-07-16",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:25PM;Asr-3:50PM;Maghrib-7:12PM;Isha-8:42PM;",
+      },
+      {
+        date: "2025-07-17",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:25PM;Asr-3:50PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-07-18",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:26PM;Asr-3:51PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-07-19",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:26PM;Asr-3:51PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-07-20",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:26PM;Asr-3:51PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-21",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:26PM;Asr-3:51PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-22",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:26PM;Asr-3:52PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-23",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:26PM;Asr-3:52PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-24",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:26PM;Asr-3:52PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-25",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:26PM;Asr-3:52PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-26",
+        schedule:
+          "Fazr-4:16AM;Zuhr-12:26PM;Asr-3:52PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-27",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:26PM;Asr-3:52PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-28",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-29",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-07-30",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-07-31",
+        schedule:
+          "Fazr-4:20AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-08-01",
+        schedule:
+          "Fazr-4:20AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-08-02",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-08-03",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:26PM;Asr-3:53PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-08-04",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-08-05",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-08-06",
+        schedule:
+          "Fazr-4:24AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-08-07",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-08-08",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-08-09",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-08-10",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-08-11",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:25PM;Asr-3:53PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-08-12",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-08-13",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-08-14",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-08-15",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-08-16",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:24PM;Asr-3:53PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-08-17",
+        schedule:
+          "Fazr-4:31AM;Zuhr-12:23PM;Asr-3:53PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-08-18",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-08-19",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-08-20",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:23PM;Asr-3:52PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-08-21",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:22PM;Asr-3:52PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-08-22",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:22PM;Asr-3:52PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-08-23",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-08-24",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-08-25",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:21PM;Asr-3:51PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-08-26",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:21PM;Asr-3:51PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-08-27",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-08-28",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-08-29",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:20PM;Asr-3:50PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-08-30",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-08-31",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-09-01",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:19PM;Asr-3:49PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-09-02",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-09-03",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-09-04",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-09-05",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-09-06",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-09-07",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-09-08",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-09-09",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:17PM;Asr-3:45PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-09-10",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-09-11",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-09-12",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-09-13",
+        schedule:
+          "Fazr-4:46AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-09-14",
+        schedule:
+          "Fazr-4:46AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-09-15",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-09-16",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-09-17",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:14PM;Asr-3:41PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-09-18",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:13PM;Asr-3:41PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-09-19",
+        schedule:
+          "Fazr-4:49AM;Zuhr-12:13PM;Asr-3:40PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-09-20",
+        schedule:
+          "Fazr-4:49AM;Zuhr-12:13PM;Asr-3:39PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-09-21",
+        schedule:
+          "Fazr-4:49AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-09-22",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:12PM;Asr-3:38PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-09-23",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:12PM;Asr-3:38PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-09-24",
+        schedule:
+          "Fazr-4:51AM;Zuhr-12:11PM;Asr-3:37PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-09-25",
+        schedule:
+          "Fazr-4:51AM;Zuhr-12:11PM;Asr-3:37PM;Maghrib-6:12PM;Isha-7:42PM;",
+      },
+      {
+        date: "2025-09-26",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:11PM;Asr-3:36PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-09-27",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:10PM;Asr-3:35PM;Maghrib-6:10PM;Isha-7:40PM;",
+      },
+      {
+        date: "2025-09-28",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:10PM;Asr-3:35PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-09-29",
+        schedule:
+          "Fazr-4:53AM;Zuhr-12:10PM;Asr-3:34PM;Maghrib-6:08PM;Isha-7:38PM;",
+      },
+      {
+        date: "2025-09-30",
+        schedule:
+          "Fazr-4:53AM;Zuhr-12:09PM;Asr-3:33PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-10-01",
+        schedule:
+          "Fazr-4:54AM;Zuhr-12:09PM;Asr-3:33PM;Maghrib-6:06PM;Isha-7:36PM;",
+      },
+      {
+        date: "2025-10-02",
+        schedule:
+          "Fazr-4:54AM;Zuhr-12:09PM;Asr-3:32PM;Maghrib-6:05PM;Isha-7:35PM;",
+      },
+      {
+        date: "2025-10-03",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:08PM;Asr-3:32PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-10-04",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:08PM;Asr-3:31PM;Maghrib-6:03PM;Isha-7:33PM;",
+      },
+      {
+        date: "2025-10-05",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:08PM;Asr-3:30PM;Maghrib-6:02PM;Isha-7:32PM;",
+      },
+      {
+        date: "2025-10-06",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:07PM;Asr-3:30PM;Maghrib-6:01PM;Isha-7:31PM;",
+      },
+      {
+        date: "2025-10-07",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:07PM;Asr-3:29PM;Maghrib-6:00PM;Isha-7:30PM;",
+      },
+      {
+        date: "2025-10-08",
+        schedule:
+          "Fazr-4:57AM;Zuhr-12:07PM;Asr-3:28PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-10-09",
+        schedule:
+          "Fazr-4:57AM;Zuhr-12:07PM;Asr-3:28PM;Maghrib-5:58PM;Isha-7:28PM;",
+      },
+      {
+        date: "2025-10-10",
+        schedule:
+          "Fazr-4:57AM;Zuhr-12:06PM;Asr-3:27PM;Maghrib-5:57PM;Isha-7:27PM;",
+      },
+      {
+        date: "2025-10-11",
+        schedule:
+          "Fazr-4:58AM;Zuhr-12:06PM;Asr-3:26PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-10-12",
+        schedule:
+          "Fazr-4:58AM;Zuhr-12:06PM;Asr-3:26PM;Maghrib-5:55PM;Isha-7:25PM;",
+      },
+      {
+        date: "2025-10-13",
+        schedule:
+          "Fazr-4:59AM;Zuhr-12:06PM;Asr-3:25PM;Maghrib-5:54PM;Isha-7:24PM;",
+      },
+      {
+        date: "2025-10-14",
+        schedule:
+          "Fazr-4:59AM;Zuhr-12:05PM;Asr-3:25PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-10-15",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:05PM;Asr-3:24PM;Maghrib-5:52PM;Isha-7:22PM;",
+      },
+      {
+        date: "2025-10-16",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:05PM;Asr-3:23PM;Maghrib-5:51PM;Isha-7:21PM;",
+      },
+      {
+        date: "2025-10-17",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:05PM;Asr-3:23PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-10-18",
+        schedule:
+          "Fazr-5:01AM;Zuhr-12:04PM;Asr-3:22PM;Maghrib-5:49PM;Isha-7:19PM;",
+      },
+      {
+        date: "2025-10-19",
+        schedule:
+          "Fazr-5:01AM;Zuhr-12:04PM;Asr-3:22PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-10-20",
+        schedule:
+          "Fazr-5:02AM;Zuhr-12:04PM;Asr-3:21PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-10-21",
+        schedule:
+          "Fazr-5:02AM;Zuhr-12:04PM;Asr-3:20PM;Maghrib-5:47PM;Isha-7:17PM;",
+      },
+      {
+        date: "2025-10-22",
+        schedule:
+          "Fazr-5:03AM;Zuhr-12:04PM;Asr-3:20PM;Maghrib-5:46PM;Isha-7:16PM;",
+      },
+      {
+        date: "2025-10-23",
+        schedule:
+          "Fazr-5:03AM;Zuhr-12:04PM;Asr-3:19PM;Maghrib-5:45PM;Isha-7:15PM;",
+      },
+      {
+        date: "2025-10-24",
+        schedule:
+          "Fazr-5:04AM;Zuhr-12:03PM;Asr-3:19PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-10-25",
+        schedule:
+          "Fazr-5:04AM;Zuhr-12:03PM;Asr-3:18PM;Maghrib-5:43PM;Isha-7:13PM;",
+      },
+      {
+        date: "2025-10-26",
+        schedule:
+          "Fazr-5:05AM;Zuhr-12:03PM;Asr-3:18PM;Maghrib-5:43PM;Isha-7:13PM;",
+      },
+      {
+        date: "2025-10-27",
+        schedule:
+          "Fazr-5:05AM;Zuhr-12:03PM;Asr-3:17PM;Maghrib-5:42PM;Isha-7:12PM;",
+      },
+      {
+        date: "2025-10-28",
+        schedule:
+          "Fazr-5:06AM;Zuhr-12:03PM;Asr-3:17PM;Maghrib-5:41PM;Isha-7:11PM;",
+      },
+      {
+        date: "2025-10-29",
+        schedule:
+          "Fazr-5:06AM;Zuhr-12:03PM;Asr-3:16PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+      {
+        date: "2025-10-30",
+        schedule:
+          "Fazr-5:07AM;Zuhr-12:03PM;Asr-3:16PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+      {
+        date: "2025-10-31",
+        schedule:
+          "Fazr-5:07AM;Zuhr-12:03PM;Asr-3:15PM;Maghrib-5:39PM;Isha-7:09PM;",
+      },
+      {
+        date: "2025-11-01",
+        schedule:
+          "Fazr-5:08AM;Zuhr-12:03PM;Asr-3:15PM;Maghrib-5:38PM;Isha-7:08PM;",
+      },
+      {
+        date: "2025-11-02",
+        schedule:
+          "Fazr-5:08AM;Zuhr-12:03PM;Asr-3:14PM;Maghrib-5:38PM;Isha-7:08PM;",
+      },
+      {
+        date: "2025-11-03",
+        schedule:
+          "Fazr-5:09AM;Zuhr-12:03PM;Asr-3:14PM;Maghrib-5:37PM;Isha-7:07PM;",
+      },
+      {
+        date: "2025-11-04",
+        schedule:
+          "Fazr-5:09AM;Zuhr-12:03PM;Asr-3:13PM;Maghrib-5:37PM;Isha-7:07PM;",
+      },
+      {
+        date: "2025-11-05",
+        schedule:
+          "Fazr-5:10AM;Zuhr-12:03PM;Asr-3:13PM;Maghrib-5:36PM;Isha-7:06PM;",
+      },
+      {
+        date: "2025-11-06",
+        schedule:
+          "Fazr-5:10AM;Zuhr-12:03PM;Asr-3:12PM;Maghrib-5:35PM;Isha-7:05PM;",
+      },
+      {
+        date: "2025-11-07",
+        schedule:
+          "Fazr-5:11AM;Zuhr-12:03PM;Asr-3:12PM;Maghrib-5:35PM;Isha-7:05PM;",
+      },
+      {
+        date: "2025-11-08",
+        schedule:
+          "Fazr-5:11AM;Zuhr-12:03PM;Asr-3:12PM;Maghrib-5:34PM;Isha-7:04PM;",
+      },
+      {
+        date: "2025-11-09",
+        schedule:
+          "Fazr-5:12AM;Zuhr-12:03PM;Asr-3:11PM;Maghrib-5:34PM;Isha-7:04PM;",
+      },
+      {
+        date: "2025-11-10",
+        schedule:
+          "Fazr-5:12AM;Zuhr-12:03PM;Asr-3:11PM;Maghrib-5:33PM;Isha-7:03PM;",
+      },
+      {
+        date: "2025-11-11",
+        schedule:
+          "Fazr-5:13AM;Zuhr-12:03PM;Asr-3:11PM;Maghrib-5:33PM;Isha-7:03PM;",
+      },
+      {
+        date: "2025-11-12",
+        schedule:
+          "Fazr-5:14AM;Zuhr-12:03PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
+      },
+      {
+        date: "2025-11-13",
+        schedule:
+          "Fazr-5:14AM;Zuhr-12:04PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
+      },
+      {
+        date: "2025-11-14",
+        schedule:
+          "Fazr-5:15AM;Zuhr-12:04PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
+      },
+      {
+        date: "2025-11-15",
+        schedule:
+          "Fazr-5:15AM;Zuhr-12:04PM;Asr-3:10PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-11-16",
+        schedule:
+          "Fazr-5:16AM;Zuhr-12:04PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-11-17",
+        schedule:
+          "Fazr-5:16AM;Zuhr-12:04PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-11-18",
+        schedule:
+          "Fazr-5:17AM;Zuhr-12:04PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-11-19",
+        schedule:
+          "Fazr-5:18AM;Zuhr-12:05PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-11-20",
+        schedule:
+          "Fazr-5:18AM;Zuhr-12:05PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-11-21",
+        schedule:
+          "Fazr-5:19AM;Zuhr-12:05PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-11-22",
+        schedule:
+          "Fazr-5:19AM;Zuhr-12:05PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-11-23",
+        schedule:
+          "Fazr-5:20AM;Zuhr-12:06PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-11-24",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:06PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-11-25",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:06PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-11-26",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:07PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-11-27",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:07PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-11-28",
         schedule:
           "Fazr-5:23AM;Zuhr-12:07PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-28",
-        schedule:
-          "Fazr-5:23AM;Zuhr-12:07PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-11-29",
+        date: "2025-11-29",
         schedule:
           "Fazr-5:24AM;Zuhr-12:08PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-11-30",
+        date: "2025-11-30",
         schedule:
           "Fazr-5:24AM;Zuhr-12:08PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-01",
+        date: "2025-12-01",
         schedule:
           "Fazr-5:25AM;Zuhr-12:08PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-02",
+        date: "2025-12-02",
         schedule:
           "Fazr-5:26AM;Zuhr-12:09PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-03",
+        date: "2025-12-03",
         schedule:
           "Fazr-5:26AM;Zuhr-12:09PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-04",
+        date: "2025-12-04",
         schedule:
           "Fazr-5:27AM;Zuhr-12:10PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-05",
+        date: "2025-12-05",
+        schedule:
+          "Fazr-5:27AM;Zuhr-12:10PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-12-06",
         schedule:
           "Fazr-5:28AM;Zuhr-12:10PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-06",
+        date: "2025-12-07",
         schedule:
-          "Fazr-5:28AM;Zuhr-12:10PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
+          "Fazr-5:29AM;Zuhr-12:11PM;Asr-3:10PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-07",
-        schedule:
-          "Fazr-5:29AM;Zuhr-12:11PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-12-08",
+        date: "2025-12-08",
         schedule:
           "Fazr-5:29AM;Zuhr-12:11PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-12-09",
+        date: "2025-12-09",
         schedule:
           "Fazr-5:30AM;Zuhr-12:12PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-12-10",
+        date: "2025-12-10",
         schedule:
-          "Fazr-5:31AM;Zuhr-12:12PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
+          "Fazr-5:30AM;Zuhr-12:12PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-12-11",
+        date: "2025-12-11",
         schedule:
-          "Fazr-5:31AM;Zuhr-12:13PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
+          "Fazr-5:31AM;Zuhr-12:13PM;Asr-3:11PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-12-12",
+        date: "2025-12-12",
         schedule:
           "Fazr-5:32AM;Zuhr-12:13PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-12-13",
-        schedule:
-          "Fazr-5:32AM;Zuhr-12:14PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
-      },
-      {
-        date: "2024-12-14",
-        schedule:
-          "Fazr-5:33AM;Zuhr-12:14PM;Asr-3:12PM;Maghrib-5:31PM;Isha-7:01PM;",
-      },
-      {
-        date: "2024-12-15",
-        schedule:
-          "Fazr-5:33AM;Zuhr-12:15PM;Asr-3:12PM;Maghrib-5:32PM;Isha-7:02PM;",
-      },
-      {
-        date: "2024-12-16",
-        schedule:
-          "Fazr-5:34AM;Zuhr-12:15PM;Asr-3:13PM;Maghrib-5:32PM;Isha-7:02PM;",
-      },
-      {
-        date: "2024-12-17",
-        schedule:
-          "Fazr-5:34AM;Zuhr-12:16PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
-      },
-      {
-        date: "2024-12-18",
-        schedule:
-          "Fazr-5:35AM;Zuhr-12:16PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
-      },
-      {
-        date: "2024-12-19",
-        schedule:
-          "Fazr-5:36AM;Zuhr-12:17PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
-      },
-      {
-        date: "2024-12-20",
-        schedule:
-          "Fazr-5:36AM;Zuhr-12:17PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
-      },
-      {
-        date: "2024-12-21",
-        schedule:
-          "Fazr-5:37AM;Zuhr-12:18PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
-      },
-      {
-        date: "2024-12-22",
-        schedule:
-          "Fazr-5:37AM;Zuhr-12:18PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
-      },
-      {
-        date: "2024-12-23",
-        schedule:
-          "Fazr-5:37AM;Zuhr-12:19PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
-      },
-      {
-        date: "2024-12-24",
-        schedule:
-          "Fazr-5:38AM;Zuhr-12:19PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
-      },
-      {
-        date: "2024-12-25",
-        schedule:
-          "Fazr-5:38AM;Zuhr-12:20PM;Asr-3:17PM;Maghrib-5:37PM;Isha-7:07PM;",
-      },
-      {
-        date: "2024-12-26",
-        schedule:
-          "Fazr-5:39AM;Zuhr-12:20PM;Asr-3:18PM;Maghrib-5:37PM;Isha-7:07PM;",
-      },
-      {
-        date: "2024-12-27",
-        schedule:
-          "Fazr-5:39AM;Zuhr-12:20PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
-      },
-      {
-        date: "2024-12-28",
-        schedule:
-          "Fazr-5:40AM;Zuhr-12:21PM;Asr-3:19PM;Maghrib-5:38PM;Isha-7:08PM;",
-      },
-      {
-        date: "2024-12-29",
-        schedule:
-          "Fazr-5:40AM;Zuhr-12:21PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
-      },
-      {
-        date: "2024-12-30",
-        schedule:
-          "Fazr-5:40AM;Zuhr-12:22PM;Asr-3:20PM;Maghrib-5:40PM;Isha-7:10PM;",
-      },
-      {
-        date: "2024-12-31",
-        schedule:
-          "Fazr-5:41AM;Zuhr-12:22PM;Asr-3:21PM;Maghrib-5:40PM;Isha-7:10PM;",
-      },
-    ],
-    fujairah: [
-      {
-        date: "2024-09-01",
-        schedule:
-          "Fazr-4:36AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:34PM;Isha-8:04PM;",
-      },
-      {
-        date: "2024-09-02",
-        schedule:
-          "Fazr-4:37AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:33PM;Isha-8:03PM;",
-      },
-      {
-        date: "2024-09-03",
-        schedule:
-          "Fazr-4:37AM;Zuhr-12:14PM;Asr-3:43PM;Maghrib-6:32PM;Isha-8:02PM;",
-      },
-      {
-        date: "2024-09-04",
-        schedule:
-          "Fazr-4:38AM;Zuhr-12:14PM;Asr-3:43PM;Maghrib-6:31PM;Isha-8:01PM;",
-      },
-      {
-        date: "2024-09-05",
-        schedule:
-          "Fazr-4:38AM;Zuhr-12:14PM;Asr-3:43PM;Maghrib-6:30PM;Isha-8:00PM;",
-      },
-      {
-        date: "2024-09-06",
-        schedule:
-          "Fazr-4:39AM;Zuhr-12:13PM;Asr-3:42PM;Maghrib-6:29PM;Isha-7:59PM;",
-      },
-      {
-        date: "2024-09-07",
-        schedule:
-          "Fazr-4:39AM;Zuhr-12:13PM;Asr-3:42PM;Maghrib-6:27PM;Isha-7:57PM;",
-      },
-      {
-        date: "2024-09-08",
-        schedule:
-          "Fazr-4:40AM;Zuhr-12:13PM;Asr-3:41PM;Maghrib-6:26PM;Isha-7:56PM;",
-      },
-      {
-        date: "2024-09-09",
-        schedule:
-          "Fazr-4:40AM;Zuhr-12:12PM;Asr-3:41PM;Maghrib-6:25PM;Isha-7:55PM;",
-      },
-      {
-        date: "2024-09-10",
-        schedule:
-          "Fazr-4:41AM;Zuhr-12:12PM;Asr-3:40PM;Maghrib-6:24PM;Isha-7:54PM;",
-      },
-      {
-        date: "2024-09-11",
-        schedule:
-          "Fazr-4:41AM;Zuhr-12:12PM;Asr-3:40PM;Maghrib-6:23PM;Isha-7:53PM;",
-      },
-      {
-        date: "2024-09-12",
-        schedule:
-          "Fazr-4:42AM;Zuhr-12:11PM;Asr-3:39PM;Maghrib-6:22PM;Isha-7:52PM;",
-      },
-      {
-        date: "2024-09-13",
-        schedule:
-          "Fazr-4:42AM;Zuhr-12:11PM;Asr-3:39PM;Maghrib-6:21PM;Isha-7:51PM;",
-      },
-      {
-        date: "2024-09-14",
-        schedule:
-          "Fazr-4:42AM;Zuhr-12:11PM;Asr-3:38PM;Maghrib-6:20PM;Isha-7:50PM;",
-      },
-      {
-        date: "2024-09-15",
-        schedule:
-          "Fazr-4:43AM;Zuhr-12:10PM;Asr-3:38PM;Maghrib-6:19PM;Isha-7:49PM;",
-      },
-      {
-        date: "2024-09-16",
-        schedule:
-          "Fazr-4:43AM;Zuhr-12:10PM;Asr-3:37PM;Maghrib-6:18PM;Isha-7:48PM;",
-      },
-      {
-        date: "2024-09-17",
-        schedule:
-          "Fazr-4:44AM;Zuhr-12:10PM;Asr-3:37PM;Maghrib-6:17PM;Isha-7:47PM;",
-      },
-      {
-        date: "2024-09-18",
-        schedule:
-          "Fazr-4:44AM;Zuhr-12:09PM;Asr-3:36PM;Maghrib-6:16PM;Isha-7:46PM;",
-      },
-      {
-        date: "2024-09-19",
-        schedule:
-          "Fazr-4:45AM;Zuhr-12:09PM;Asr-3:36PM;Maghrib-6:15PM;Isha-7:45PM;",
-      },
-      {
-        date: "2024-09-20",
-        schedule:
-          "Fazr-4:45AM;Zuhr-12:08PM;Asr-3:35PM;Maghrib-6:13PM;Isha-7:43PM;",
-      },
-      {
-        date: "2024-09-21",
-        schedule:
-          "Fazr-4:45AM;Zuhr-12:08PM;Asr-3:35PM;Maghrib-6:12PM;Isha-7:42PM;",
-      },
-      {
-        date: "2024-09-22",
-        schedule:
-          "Fazr-4:46AM;Zuhr-12:08PM;Asr-3:34PM;Maghrib-6:11PM;Isha-7:41PM;",
-      },
-      {
-        date: "2024-09-23",
-        schedule:
-          "Fazr-4:46AM;Zuhr-12:07PM;Asr-3:33PM;Maghrib-6:10PM;Isha-7:40PM;",
-      },
-      {
-        date: "2024-09-24",
-        schedule:
-          "Fazr-4:47AM;Zuhr-12:07PM;Asr-3:33PM;Maghrib-6:09PM;Isha-7:39PM;",
-      },
-      {
-        date: "2024-09-25",
-        schedule:
-          "Fazr-4:47AM;Zuhr-12:07PM;Asr-3:32PM;Maghrib-6:08PM;Isha-7:38PM;",
-      },
-      {
-        date: "2024-09-26",
-        schedule:
-          "Fazr-4:48AM;Zuhr-12:06PM;Asr-3:32PM;Maghrib-6:07PM;Isha-7:37PM;",
-      },
-      {
-        date: "2024-09-27",
-        schedule:
-          "Fazr-4:48AM;Zuhr-12:06PM;Asr-3:31PM;Maghrib-6:06PM;Isha-7:36PM;",
-      },
-      {
-        date: "2024-09-28",
-        schedule:
-          "Fazr-4:48AM;Zuhr-12:06PM;Asr-3:30PM;Maghrib-6:05PM;Isha-7:35PM;",
-      },
-      {
-        date: "2024-09-29",
-        schedule:
-          "Fazr-4:49AM;Zuhr-12:05PM;Asr-3:30PM;Maghrib-6:04PM;Isha-7:34PM;",
-      },
-      {
-        date: "2024-09-30",
-        schedule:
-          "Fazr-4:49AM;Zuhr-12:05PM;Asr-3:29PM;Maghrib-6:03PM;Isha-7:33PM;",
-      },
-      {
-        date: "2024-10-01",
-        schedule:
-          "Fazr-4:50AM;Zuhr-12:05PM;Asr-3:28PM;Maghrib-6:02PM;Isha-7:32PM;",
-      },
-      {
-        date: "2024-10-02",
-        schedule:
-          "Fazr-4:50AM;Zuhr-12:04PM;Asr-3:28PM;Maghrib-6:01PM;Isha-7:31PM;",
-      },
-      {
-        date: "2024-10-03",
-        schedule:
-          "Fazr-4:51AM;Zuhr-12:04PM;Asr-3:27PM;Maghrib-6:00PM;Isha-7:30PM;",
-      },
-      {
-        date: "2024-10-04",
-        schedule:
-          "Fazr-4:51AM;Zuhr-12:04PM;Asr-3:27PM;Maghrib-5:59PM;Isha-7:29PM;",
-      },
-      {
-        date: "2024-10-05",
-        schedule:
-          "Fazr-4:51AM;Zuhr-12:03PM;Asr-3:26PM;Maghrib-5:58PM;Isha-7:28PM;",
-      },
-      {
-        date: "2024-10-06",
-        schedule:
-          "Fazr-4:52AM;Zuhr-12:03PM;Asr-3:25PM;Maghrib-5:57PM;Isha-7:27PM;",
-      },
-      {
-        date: "2024-10-07",
-        schedule:
-          "Fazr-4:52AM;Zuhr-12:03PM;Asr-3:25PM;Maghrib-5:56PM;Isha-7:26PM;",
-      },
-      {
-        date: "2024-10-08",
-        schedule:
-          "Fazr-4:53AM;Zuhr-12:03PM;Asr-3:24PM;Maghrib-5:55PM;Isha-7:25PM;",
-      },
-      {
-        date: "2024-10-09",
-        schedule:
-          "Fazr-4:53AM;Zuhr-12:02PM;Asr-3:23PM;Maghrib-5:54PM;Isha-7:24PM;",
-      },
-      {
-        date: "2024-10-10",
-        schedule:
-          "Fazr-4:53AM;Zuhr-12:02PM;Asr-3:23PM;Maghrib-5:53PM;Isha-7:23PM;",
-      },
-      {
-        date: "2024-10-11",
-        schedule:
-          "Fazr-4:54AM;Zuhr-12:02PM;Asr-3:22PM;Maghrib-5:52PM;Isha-7:22PM;",
-      },
-      {
-        date: "2024-10-12",
-        schedule:
-          "Fazr-4:54AM;Zuhr-12:02PM;Asr-3:22PM;Maghrib-5:51PM;Isha-7:21PM;",
-      },
-      {
-        date: "2024-10-13",
-        schedule:
-          "Fazr-4:55AM;Zuhr-12:01PM;Asr-3:21PM;Maghrib-5:50PM;Isha-7:20PM;",
-      },
-      {
-        date: "2024-10-14",
-        schedule:
-          "Fazr-4:55AM;Zuhr-12:01PM;Asr-3:20PM;Maghrib-5:49PM;Isha-7:19PM;",
-      },
-      {
-        date: "2024-10-15",
-        schedule:
-          "Fazr-4:56AM;Zuhr-12:01PM;Asr-3:20PM;Maghrib-5:48PM;Isha-7:18PM;",
-      },
-      {
-        date: "2024-10-16",
-        schedule:
-          "Fazr-4:56AM;Zuhr-12:01PM;Asr-3:19PM;Maghrib-5:47PM;Isha-7:17PM;",
-      },
-      {
-        date: "2024-10-17",
-        schedule:
-          "Fazr-4:56AM;Zuhr-12:00PM;Asr-3:18PM;Maghrib-5:46PM;Isha-7:16PM;",
-      },
-      {
-        date: "2024-10-18",
-        schedule:
-          "Fazr-4:57AM;Zuhr-12:00PM;Asr-3:18PM;Maghrib-5:45PM;Isha-7:15PM;",
-      },
-      {
-        date: "2024-10-19",
-        schedule:
-          "Fazr-4:57AM;Zuhr-12:00PM;Asr-3:17PM;Maghrib-5:44PM;Isha-7:14PM;",
-      },
-      {
-        date: "2024-10-20",
-        schedule:
-          "Fazr-4:58AM;Zuhr-12:00PM;Asr-3:17PM;Maghrib-5:43PM;Isha-7:13PM;",
-      },
-      {
-        date: "2024-10-21",
-        schedule:
-          "Fazr-4:58AM;Zuhr-12:00PM;Asr-3:16PM;Maghrib-5:43PM;Isha-7:13PM;",
-      },
-      {
-        date: "2024-10-22",
-        schedule:
-          "Fazr-4:59AM;Zuhr-12:00PM;Asr-3:16PM;Maghrib-5:42PM;Isha-7:12PM;",
-      },
-      {
-        date: "2024-10-23",
-        schedule:
-          "Fazr-4:59AM;Zuhr-11:59AM;Asr-3:15PM;Maghrib-5:41PM;Isha-7:11PM;",
-      },
-      {
-        date: "2024-10-24",
-        schedule:
-          "Fazr-5:00AM;Zuhr-11:59AM;Asr-3:14PM;Maghrib-5:40PM;Isha-7:10PM;",
-      },
-      {
-        date: "2024-10-25",
-        schedule:
-          "Fazr-5:00AM;Zuhr-11:59AM;Asr-3:14PM;Maghrib-5:39PM;Isha-7:09PM;",
-      },
-      {
-        date: "2024-10-26",
-        schedule:
-          "Fazr-5:01AM;Zuhr-11:59AM;Asr-3:13PM;Maghrib-5:39PM;Isha-7:09PM;",
-      },
-      {
-        date: "2024-10-27",
-        schedule:
-          "Fazr-5:01AM;Zuhr-11:59AM;Asr-3:13PM;Maghrib-5:38PM;Isha-7:08PM;",
-      },
-      {
-        date: "2024-10-28",
-        schedule:
-          "Fazr-5:01AM;Zuhr-11:59AM;Asr-3:12PM;Maghrib-5:37PM;Isha-7:07PM;",
-      },
-      {
-        date: "2024-10-29",
-        schedule:
-          "Fazr-5:02AM;Zuhr-11:59AM;Asr-3:12PM;Maghrib-5:36PM;Isha-7:06PM;",
-      },
-      {
-        date: "2024-10-30",
-        schedule:
-          "Fazr-5:02AM;Zuhr-11:59AM;Asr-3:11PM;Maghrib-5:36PM;Isha-7:06PM;",
-      },
-      {
-        date: "2024-10-31",
-        schedule:
-          "Fazr-5:03AM;Zuhr-11:59AM;Asr-3:11PM;Maghrib-5:35PM;Isha-7:05PM;",
-      },
-      {
-        date: "2024-11-01",
-        schedule:
-          "Fazr-5:03AM;Zuhr-11:59AM;Asr-3:10PM;Maghrib-5:34PM;Isha-7:04PM;",
-      },
-      {
-        date: "2024-11-02",
-        schedule:
-          "Fazr-5:04AM;Zuhr-11:59AM;Asr-3:10PM;Maghrib-5:34PM;Isha-7:04PM;",
-      },
-      {
-        date: "2024-11-03",
-        schedule:
-          "Fazr-5:04AM;Zuhr-11:59AM;Asr-3:10PM;Maghrib-5:33PM;Isha-7:03PM;",
-      },
-      {
-        date: "2024-11-04",
-        schedule:
-          "Fazr-5:05AM;Zuhr-11:59AM;Asr-3:09PM;Maghrib-5:32PM;Isha-7:02PM;",
-      },
-      {
-        date: "2024-11-05",
-        schedule:
-          "Fazr-5:06AM;Zuhr-11:59AM;Asr-3:09PM;Maghrib-5:32PM;Isha-7:02PM;",
-      },
-      {
-        date: "2024-11-06",
-        schedule:
-          "Fazr-5:06AM;Zuhr-11:59AM;Asr-3:08PM;Maghrib-5:31PM;Isha-7:01PM;",
-      },
-      {
-        date: "2024-11-07",
-        schedule:
-          "Fazr-5:07AM;Zuhr-11:59AM;Asr-3:08PM;Maghrib-5:31PM;Isha-7:01PM;",
-      },
-      {
-        date: "2024-11-08",
-        schedule:
-          "Fazr-5:07AM;Zuhr-11:59AM;Asr-3:08PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-11-09",
-        schedule:
-          "Fazr-5:08AM;Zuhr-11:59AM;Asr-3:07PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-11-10",
-        schedule:
-          "Fazr-5:08AM;Zuhr-11:59AM;Asr-3:07PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-11-11",
-        schedule:
-          "Fazr-5:09AM;Zuhr-11:59AM;Asr-3:07PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-11-12",
-        schedule:
-          "Fazr-5:09AM;Zuhr-11:59AM;Asr-3:06PM;Maghrib-5:28PM;Isha-6:58PM;",
-      },
-      {
-        date: "2024-11-13",
-        schedule:
-          "Fazr-5:10AM;Zuhr-11:59AM;Asr-3:06PM;Maghrib-5:28PM;Isha-6:58PM;",
-      },
-      {
-        date: "2024-11-14",
-        schedule:
-          "Fazr-5:11AM;Zuhr-12:00PM;Asr-3:06PM;Maghrib-5:28PM;Isha-6:58PM;",
-      },
-      {
-        date: "2024-11-15",
-        schedule:
-          "Fazr-5:11AM;Zuhr-12:00PM;Asr-3:06PM;Maghrib-5:27PM;Isha-6:57PM;",
-      },
-      {
-        date: "2024-11-16",
-        schedule:
-          "Fazr-5:12AM;Zuhr-12:00PM;Asr-3:05PM;Maghrib-5:27PM;Isha-6:57PM;",
-      },
-      {
-        date: "2024-11-17",
-        schedule:
-          "Fazr-5:12AM;Zuhr-12:00PM;Asr-3:05PM;Maghrib-5:27PM;Isha-6:57PM;",
-      },
-      {
-        date: "2024-11-18",
-        schedule:
-          "Fazr-5:13AM;Zuhr-12:00PM;Asr-3:05PM;Maghrib-5:26PM;Isha-6:56PM;",
-      },
-      {
-        date: "2024-11-19",
-        schedule:
-          "Fazr-5:13AM;Zuhr-12:01PM;Asr-3:05PM;Maghrib-5:26PM;Isha-6:56PM;",
-      },
-      {
-        date: "2024-11-20",
-        schedule:
-          "Fazr-5:14AM;Zuhr-12:01PM;Asr-3:05PM;Maghrib-5:26PM;Isha-6:56PM;",
-      },
-      {
-        date: "2024-11-21",
-        schedule:
-          "Fazr-5:15AM;Zuhr-12:01PM;Asr-3:05PM;Maghrib-5:26PM;Isha-6:56PM;",
-      },
-      {
-        date: "2024-11-22",
-        schedule:
-          "Fazr-5:15AM;Zuhr-12:01PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-11-23",
-        schedule:
-          "Fazr-5:16AM;Zuhr-12:02PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-11-24",
-        schedule:
-          "Fazr-5:16AM;Zuhr-12:02PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-11-25",
-        schedule:
-          "Fazr-5:17AM;Zuhr-12:02PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-11-26",
-        schedule:
-          "Fazr-5:18AM;Zuhr-12:03PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-11-27",
-        schedule:
-          "Fazr-5:18AM;Zuhr-12:03PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-11-28",
-        schedule:
-          "Fazr-5:19AM;Zuhr-12:03PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-11-29",
-        schedule:
-          "Fazr-5:20AM;Zuhr-12:04PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-11-30",
-        schedule:
-          "Fazr-5:20AM;Zuhr-12:04PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-12-01",
-        schedule:
-          "Fazr-5:21AM;Zuhr-12:04PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-12-02",
-        schedule:
-          "Fazr-5:21AM;Zuhr-12:05PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-12-03",
-        schedule:
-          "Fazr-5:22AM;Zuhr-12:05PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-12-04",
-        schedule:
-          "Fazr-5:23AM;Zuhr-12:05PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-12-05",
-        schedule:
-          "Fazr-5:23AM;Zuhr-12:06PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-12-06",
-        schedule:
-          "Fazr-5:24AM;Zuhr-12:06PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
-      },
-      {
-        date: "2024-12-07",
-        schedule:
-          "Fazr-5:24AM;Zuhr-12:07PM;Asr-3:06PM;Maghrib-5:26PM;Isha-6:56PM;",
-      },
-      {
-        date: "2024-12-08",
-        schedule:
-          "Fazr-5:25AM;Zuhr-12:07PM;Asr-3:06PM;Maghrib-5:26PM;Isha-6:56PM;",
-      },
-      {
-        date: "2024-12-09",
-        schedule:
-          "Fazr-5:26AM;Zuhr-12:08PM;Asr-3:06PM;Maghrib-5:26PM;Isha-6:56PM;",
-      },
-      {
-        date: "2024-12-10",
-        schedule:
-          "Fazr-5:26AM;Zuhr-12:08PM;Asr-3:07PM;Maghrib-5:26PM;Isha-6:56PM;",
-      },
-      {
-        date: "2024-12-11",
-        schedule:
-          "Fazr-5:27AM;Zuhr-12:09PM;Asr-3:07PM;Maghrib-5:27PM;Isha-6:57PM;",
-      },
-      {
-        date: "2024-12-12",
-        schedule:
-          "Fazr-5:27AM;Zuhr-12:09PM;Asr-3:07PM;Maghrib-5:27PM;Isha-6:57PM;",
-      },
-      {
-        date: "2024-12-13",
-        schedule:
-          "Fazr-5:28AM;Zuhr-12:09PM;Asr-3:08PM;Maghrib-5:27PM;Isha-6:57PM;",
-      },
-      {
-        date: "2024-12-14",
-        schedule:
-          "Fazr-5:28AM;Zuhr-12:10PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
-      },
-      {
-        date: "2024-12-15",
-        schedule:
-          "Fazr-5:29AM;Zuhr-12:10PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
-      },
-      {
-        date: "2024-12-16",
-        schedule:
-          "Fazr-5:30AM;Zuhr-12:11PM;Asr-3:09PM;Maghrib-5:28PM;Isha-6:58PM;",
-      },
-      {
-        date: "2024-12-17",
-        schedule:
-          "Fazr-5:30AM;Zuhr-12:11PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-12-18",
-        schedule:
-          "Fazr-5:31AM;Zuhr-12:12PM;Asr-3:10PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-12-19",
-        schedule:
-          "Fazr-5:31AM;Zuhr-12:12PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-12-20",
-        schedule:
-          "Fazr-5:32AM;Zuhr-12:13PM;Asr-3:11PM;Maghrib-5:30PM;Isha-7:00PM;",
-      },
-      {
-        date: "2024-12-21",
+        date: "2025-12-13",
         schedule:
           "Fazr-5:32AM;Zuhr-12:13PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-12-22",
+        date: "2025-12-14",
         schedule:
           "Fazr-5:33AM;Zuhr-12:14PM;Asr-3:12PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-12-23",
+        date: "2025-12-15",
         schedule:
           "Fazr-5:33AM;Zuhr-12:14PM;Asr-3:12PM;Maghrib-5:32PM;Isha-7:02PM;",
       },
       {
-        date: "2024-12-24",
+        date: "2025-12-16",
         schedule:
           "Fazr-5:34AM;Zuhr-12:15PM;Asr-3:13PM;Maghrib-5:32PM;Isha-7:02PM;",
       },
       {
-        date: "2024-12-25",
+        date: "2025-12-17",
         schedule:
           "Fazr-5:34AM;Zuhr-12:15PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
       },
       {
-        date: "2024-12-26",
+        date: "2025-12-18",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:16PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
+      },
+      {
+        date: "2025-12-19",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:16PM;Asr-3:14PM;Maghrib-5:33PM;Isha-7:03PM;",
+      },
+      {
+        date: "2025-12-20",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:17PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
+      },
+      {
+        date: "2025-12-21",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:17PM;Asr-3:15PM;Maghrib-5:34PM;Isha-7:04PM;",
+      },
+      {
+        date: "2025-12-22",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:18PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
+      },
+      {
+        date: "2025-12-23",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:18PM;Asr-3:16PM;Maghrib-5:35PM;Isha-7:05PM;",
+      },
+      {
+        date: "2025-12-24",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:19PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
+      },
+      {
+        date: "2025-12-25",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:19PM;Asr-3:17PM;Maghrib-5:37PM;Isha-7:07PM;",
+      },
+      {
+        date: "2025-12-26",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:20PM;Asr-3:17PM;Maghrib-5:37PM;Isha-7:07PM;",
+      },
+      {
+        date: "2025-12-27",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:20PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
+      },
+      {
+        date: "2025-12-28",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:21PM;Asr-3:19PM;Maghrib-5:38PM;Isha-7:08PM;",
+      },
+      {
+        date: "2025-12-29",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:21PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
+      },
+      {
+        date: "2025-12-30",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:22PM;Asr-3:20PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+      {
+        date: "2025-12-31",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:22PM;Asr-3:20PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+    ],
+    fujairah: [
+      {
+        date: "2025-01-01",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:19PM;Asr-3:17PM;Maghrib-5:37PM;Isha-7:07PM;",
+      },
+      {
+        date: "2025-01-02",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:19PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
+      },
+      {
+        date: "2025-01-03",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:20PM;Asr-3:19PM;Maghrib-5:38PM;Isha-7:08PM;",
+      },
+      {
+        date: "2025-01-04",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:20PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
+      },
+      {
+        date: "2025-01-05",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:21PM;Asr-3:20PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+      {
+        date: "2025-01-06",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:21PM;Asr-3:21PM;Maghrib-5:41PM;Isha-7:11PM;",
+      },
+      {
+        date: "2025-01-07",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:21PM;Asr-3:21PM;Maghrib-5:41PM;Isha-7:11PM;",
+      },
+      {
+        date: "2025-01-08",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:22PM;Asr-3:22PM;Maghrib-5:42PM;Isha-7:12PM;",
+      },
+      {
+        date: "2025-01-09",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:22PM;Asr-3:23PM;Maghrib-5:43PM;Isha-7:13PM;",
+      },
+      {
+        date: "2025-01-10",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:23PM;Asr-3:23PM;Maghrib-5:43PM;Isha-7:13PM;",
+      },
+      {
+        date: "2025-01-11",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:23PM;Asr-3:24PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-01-12",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:23PM;Asr-3:25PM;Maghrib-5:45PM;Isha-7:15PM;",
+      },
+      {
+        date: "2025-01-13",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:24PM;Asr-3:25PM;Maghrib-5:46PM;Isha-7:16PM;",
+      },
+      {
+        date: "2025-01-14",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:24PM;Asr-3:26PM;Maghrib-5:46PM;Isha-7:16PM;",
+      },
+      {
+        date: "2025-01-15",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:25PM;Asr-3:27PM;Maghrib-5:47PM;Isha-7:17PM;",
+      },
+      {
+        date: "2025-01-16",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:25PM;Asr-3:27PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-01-17",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:25PM;Asr-3:28PM;Maghrib-5:49PM;Isha-7:19PM;",
+      },
+      {
+        date: "2025-01-18",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:26PM;Asr-3:29PM;Maghrib-5:49PM;Isha-7:19PM;",
+      },
+      {
+        date: "2025-01-19",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:26PM;Asr-3:29PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-01-20",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:26PM;Asr-3:30PM;Maghrib-5:51PM;Isha-7:21PM;",
+      },
+      {
+        date: "2025-01-21",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:26PM;Asr-3:31PM;Maghrib-5:52PM;Isha-7:22PM;",
+      },
+      {
+        date: "2025-01-22",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:27PM;Asr-3:31PM;Maghrib-5:52PM;Isha-7:22PM;",
+      },
+      {
+        date: "2025-01-23",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:27PM;Asr-3:32PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-01-24",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:27PM;Asr-3:33PM;Maghrib-5:54PM;Isha-7:24PM;",
+      },
+      {
+        date: "2025-01-25",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:27PM;Asr-3:33PM;Maghrib-5:55PM;Isha-7:25PM;",
+      },
+      {
+        date: "2025-01-26",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:28PM;Asr-3:34PM;Maghrib-5:55PM;Isha-7:25PM;",
+      },
+      {
+        date: "2025-01-27",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:28PM;Asr-3:35PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-01-28",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:28PM;Asr-3:35PM;Maghrib-5:57PM;Isha-7:27PM;",
+      },
+      {
+        date: "2025-01-29",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:28PM;Asr-3:36PM;Maghrib-5:58PM;Isha-7:28PM;",
+      },
+      {
+        date: "2025-01-30",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:28PM;Asr-3:36PM;Maghrib-5:58PM;Isha-7:28PM;",
+      },
+      {
+        date: "2025-01-31",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:29PM;Asr-3:37PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-02-01",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:29PM;Asr-3:37PM;Maghrib-6:00PM;Isha-7:30PM;",
+      },
+      {
+        date: "2025-02-02",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:29PM;Asr-3:38PM;Maghrib-6:01PM;Isha-7:31PM;",
+      },
+      {
+        date: "2025-02-03",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:29PM;Asr-3:39PM;Maghrib-6:01PM;Isha-7:31PM;",
+      },
+      {
+        date: "2025-02-04",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:29PM;Asr-3:39PM;Maghrib-6:02PM;Isha-7:32PM;",
+      },
+      {
+        date: "2025-02-05",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:29PM;Asr-3:40PM;Maghrib-6:03PM;Isha-7:33PM;",
+      },
+      {
+        date: "2025-02-06",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:29PM;Asr-3:40PM;Maghrib-6:03PM;Isha-7:33PM;",
+      },
+      {
+        date: "2025-02-07",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:29PM;Asr-3:41PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-02-08",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:29PM;Asr-3:41PM;Maghrib-6:05PM;Isha-7:35PM;",
+      },
+      {
+        date: "2025-02-09",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:29PM;Asr-3:42PM;Maghrib-6:05PM;Isha-7:35PM;",
+      },
+      {
+        date: "2025-02-10",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:29PM;Asr-3:42PM;Maghrib-6:06PM;Isha-7:36PM;",
+      },
+      {
+        date: "2025-02-11",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:29PM;Asr-3:42PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-02-12",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:29PM;Asr-3:43PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-02-13",
+        schedule:
+          "Fazr-5:31AM;Zuhr-12:29PM;Asr-3:43PM;Maghrib-6:08PM;Isha-7:38PM;",
+      },
+      {
+        date: "2025-02-14",
+        schedule:
+          "Fazr-5:31AM;Zuhr-12:29PM;Asr-3:44PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-02-15",
+        schedule:
+          "Fazr-5:30AM;Zuhr-12:29PM;Asr-3:44PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-02-16",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:29PM;Asr-3:44PM;Maghrib-6:10PM;Isha-7:40PM;",
+      },
+      {
+        date: "2025-02-17",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:29PM;Asr-3:45PM;Maghrib-6:10PM;Isha-7:40PM;",
+      },
+      {
+        date: "2025-02-18",
+        schedule:
+          "Fazr-5:28AM;Zuhr-12:29PM;Asr-3:45PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-02-19",
+        schedule:
+          "Fazr-5:27AM;Zuhr-12:29PM;Asr-3:46PM;Maghrib-6:12PM;Isha-7:42PM;",
+      },
+      {
+        date: "2025-02-20",
+        schedule:
+          "Fazr-5:26AM;Zuhr-12:29PM;Asr-3:46PM;Maghrib-6:12PM;Isha-7:42PM;",
+      },
+      {
+        date: "2025-02-21",
+        schedule:
+          "Fazr-5:26AM;Zuhr-12:29PM;Asr-3:46PM;Maghrib-6:13PM;Isha-7:43PM;",
+      },
+      {
+        date: "2025-02-22",
+        schedule:
+          "Fazr-5:25AM;Zuhr-12:29PM;Asr-3:46PM;Maghrib-6:13PM;Isha-7:43PM;",
+      },
+      {
+        date: "2025-02-23",
+        schedule:
+          "Fazr-5:24AM;Zuhr-12:28PM;Asr-3:47PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-02-24",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:28PM;Asr-3:47PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-02-25",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:28PM;Asr-3:47PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-02-26",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:28PM;Asr-3:47PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-02-27",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:28PM;Asr-3:48PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-02-28",
+        schedule:
+          "Fazr-5:20AM;Zuhr-12:28PM;Asr-3:48PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-03-01",
+        schedule:
+          "Fazr-5:19AM;Zuhr-12:27PM;Asr-3:48PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-03-02",
+        schedule:
+          "Fazr-5:18AM;Zuhr-12:27PM;Asr-3:48PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-03-03",
+        schedule:
+          "Fazr-5:17AM;Zuhr-12:27PM;Asr-3:48PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-03-04",
+        schedule:
+          "Fazr-5:16AM;Zuhr-12:27PM;Asr-3:48PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-03-05",
+        schedule:
+          "Fazr-5:15AM;Zuhr-12:27PM;Asr-3:49PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-03-06",
+        schedule:
+          "Fazr-5:15AM;Zuhr-12:26PM;Asr-3:49PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-03-07",
+        schedule:
+          "Fazr-5:14AM;Zuhr-12:26PM;Asr-3:49PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-03-08",
+        schedule:
+          "Fazr-5:13AM;Zuhr-12:26PM;Asr-3:49PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-03-09",
+        schedule:
+          "Fazr-5:12AM;Zuhr-12:26PM;Asr-3:49PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-03-10",
+        schedule:
+          "Fazr-5:11AM;Zuhr-12:25PM;Asr-3:49PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-03-11",
+        schedule:
+          "Fazr-5:10AM;Zuhr-12:25PM;Asr-3:49PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-03-12",
+        schedule:
+          "Fazr-5:09AM;Zuhr-12:25PM;Asr-3:49PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-03-13",
+        schedule:
+          "Fazr-5:08AM;Zuhr-12:25PM;Asr-3:49PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-03-14",
+        schedule:
+          "Fazr-5:07AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-03-15",
+        schedule:
+          "Fazr-5:05AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-03-16",
+        schedule:
+          "Fazr-5:04AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-03-17",
+        schedule:
+          "Fazr-5:03AM;Zuhr-12:23PM;Asr-3:49PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-03-18",
+        schedule:
+          "Fazr-5:02AM;Zuhr-12:23PM;Asr-3:49PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-03-19",
+        schedule:
+          "Fazr-5:01AM;Zuhr-12:23PM;Asr-3:49PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-20",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:23PM;Asr-3:49PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-21",
+        schedule:
+          "Fazr-4:59AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-03-22",
+        schedule:
+          "Fazr-4:58AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-03-23",
+        schedule:
+          "Fazr-4:57AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-24",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-25",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:21PM;Asr-3:48PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-26",
+        schedule:
+          "Fazr-4:53AM;Zuhr-12:21PM;Asr-3:48PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-27",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-28",
+        schedule:
+          "Fazr-4:51AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-29",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-30",
+        schedule:
+          "Fazr-4:49AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-03-31",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-04-01",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:19PM;Asr-3:47PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-04-02",
+        schedule:
+          "Fazr-4:46AM;Zuhr-12:19PM;Asr-3:47PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-04-03",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-04-04",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-04-05",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-04-06",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-04-07",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-04-08",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-04-09",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-04-10",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:16PM;Asr-3:46PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-04-11",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-04-12",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-04-13",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-04-14",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:15PM;Asr-3:45PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-04-15",
+        schedule:
+          "Fazr-4:31AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-04-16",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-04-17",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-04-18",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:14PM;Asr-3:44PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-04-19",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:14PM;Asr-3:43PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-04-20",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:14PM;Asr-3:43PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-04-21",
+        schedule:
+          "Fazr-4:24AM;Zuhr-12:14PM;Asr-3:43PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-04-22",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:14PM;Asr-3:43PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-04-23",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:13PM;Asr-3:42PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-04-24",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:13PM;Asr-3:42PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-04-25",
+        schedule:
+          "Fazr-4:20AM;Zuhr-12:13PM;Asr-3:42PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-04-26",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:13PM;Asr-3:42PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-04-27",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:13PM;Asr-3:41PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-04-28",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:13PM;Asr-3:41PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-04-29",
+        schedule:
+          "Fazr-4:16AM;Zuhr-12:12PM;Asr-3:41PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-04-30",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:12PM;Asr-3:41PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-05-01",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:12PM;Asr-3:41PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-05-02",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:12PM;Asr-3:40PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-05-03",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:12PM;Asr-3:40PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-05-04",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:12PM;Asr-3:40PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-05-05",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:12PM;Asr-3:40PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-05-06",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-05-07",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-05-08",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-05-09",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-05-10",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-05-11",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:12PM;Asr-3:38PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-05-12",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:11PM;Asr-3:38PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-05-13",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:11PM;Asr-3:38PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-05-14",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:11PM;Asr-3:38PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-05-15",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:11PM;Asr-3:38PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-05-16",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:12PM;Asr-3:38PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-05-17",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:12PM;Asr-3:37PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-05-18",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:12PM;Asr-3:37PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-05-19",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:12PM;Asr-3:37PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-05-20",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:12PM;Asr-3:37PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-05-21",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:12PM;Asr-3:37PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-05-22",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:12PM;Asr-3:37PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-05-23",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:12PM;Asr-3:37PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-05-24",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:12PM;Asr-3:37PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-05-25",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:12PM;Asr-3:37PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-05-26",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:12PM;Asr-3:37PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-05-27",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:12PM;Asr-3:37PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-05-28",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:12PM;Asr-3:37PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-05-29",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:13PM;Asr-3:37PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-05-30",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:13PM;Asr-3:37PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-05-31",
+        schedule:
+          "Fazr-3:54AM;Zuhr-12:13PM;Asr-3:37PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-06-01",
+        schedule:
+          "Fazr-3:54AM;Zuhr-12:13PM;Asr-3:37PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-06-02",
+        schedule:
+          "Fazr-3:54AM;Zuhr-12:13PM;Asr-3:37PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-06-03",
+        schedule:
+          "Fazr-3:54AM;Zuhr-12:13PM;Asr-3:37PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-06-04",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-06-05",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-06-06",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-06-07",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-06-08",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-06-09",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:14PM;Asr-3:37PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-06-10",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:15PM;Asr-3:37PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-06-11",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:15PM;Asr-3:37PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-06-12",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:15PM;Asr-3:37PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-06-13",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:15PM;Asr-3:38PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-06-14",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:15PM;Asr-3:38PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-06-15",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:16PM;Asr-3:38PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-06-16",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:16PM;Asr-3:38PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-06-17",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:16PM;Asr-3:38PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-06-18",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:16PM;Asr-3:38PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-06-19",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:17PM;Asr-3:39PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-20",
+        schedule:
+          "Fazr-3:53AM;Zuhr-12:17PM;Asr-3:39PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-21",
+        schedule:
+          "Fazr-3:54AM;Zuhr-12:17PM;Asr-3:39PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-22",
+        schedule:
+          "Fazr-3:54AM;Zuhr-12:17PM;Asr-3:39PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-23",
+        schedule:
+          "Fazr-3:54AM;Zuhr-12:17PM;Asr-3:40PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-06-24",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:18PM;Asr-3:40PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-25",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:18PM;Asr-3:40PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-26",
+        schedule:
+          "Fazr-3:55AM;Zuhr-12:18PM;Asr-3:40PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-27",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:18PM;Asr-3:41PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-28",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:18PM;Asr-3:41PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-29",
+        schedule:
+          "Fazr-3:56AM;Zuhr-12:19PM;Asr-3:41PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-06-30",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:19PM;Asr-3:41PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-01",
+        schedule:
+          "Fazr-3:57AM;Zuhr-12:19PM;Asr-3:42PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-02",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:19PM;Asr-3:42PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-03",
+        schedule:
+          "Fazr-3:58AM;Zuhr-12:19PM;Asr-3:42PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-04",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-05",
+        schedule:
+          "Fazr-3:59AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-06",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-07",
+        schedule:
+          "Fazr-4:00AM;Zuhr-12:20PM;Asr-3:43PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-08",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:20PM;Asr-3:44PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-09",
+        schedule:
+          "Fazr-4:01AM;Zuhr-12:20PM;Asr-3:44PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-10",
+        schedule:
+          "Fazr-4:02AM;Zuhr-12:21PM;Asr-3:44PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-11",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:21PM;Asr-3:44PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-12",
+        schedule:
+          "Fazr-4:03AM;Zuhr-12:21PM;Asr-3:45PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-13",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:21PM;Asr-3:45PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-14",
+        schedule:
+          "Fazr-4:04AM;Zuhr-12:21PM;Asr-3:45PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-15",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:21PM;Asr-3:45PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-16",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:21PM;Asr-3:46PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-17",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:21PM;Asr-3:46PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-18",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:21PM;Asr-3:46PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-19",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:21PM;Asr-3:46PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-07-20",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:22PM;Asr-3:47PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-07-21",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:22PM;Asr-3:47PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-07-22",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:22PM;Asr-3:47PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-07-23",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:22PM;Asr-3:47PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-07-24",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:22PM;Asr-3:47PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-07-25",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:22PM;Asr-3:48PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-07-26",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:22PM;Asr-3:48PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-07-27",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:22PM;Asr-3:48PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-07-28",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:22PM;Asr-3:48PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-07-29",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:22PM;Asr-3:48PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-07-30",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:22PM;Asr-3:48PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-07-31",
+        schedule:
+          "Fazr-4:16AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-08-01",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:22PM;Asr-3:49PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-08-02",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-08-03",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-08-04",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-08-05",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-08-06",
+        schedule:
+          "Fazr-4:20AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-08-07",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-08-08",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-08-09",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-08-10",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-08-11",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-08-12",
+        schedule:
+          "Fazr-4:24AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-08-13",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-08-14",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-08-15",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:20PM;Asr-3:48PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-08-16",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-08-17",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-08-18",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-08-19",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-08-20",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-08-21",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-08-22",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-08-23",
+        schedule:
+          "Fazr-4:31AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-08-24",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-08-25",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:17PM;Asr-3:47PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-08-26",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-08-27",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-08-28",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:16PM;Asr-3:46PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-08-29",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-08-30",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-08-31",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:15PM;Asr-3:45PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-09-01",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-09-02",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-09-03",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:14PM;Asr-3:44PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-09-04",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:14PM;Asr-3:43PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-09-05",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:14PM;Asr-3:43PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-09-06",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:13PM;Asr-3:42PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-09-07",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:13PM;Asr-3:42PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-09-08",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:13PM;Asr-3:41PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-09-09",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:12PM;Asr-3:41PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-09-10",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:12PM;Asr-3:41PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-09-11",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:12PM;Asr-3:40PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-09-12",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:11PM;Asr-3:40PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-09-13",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:11PM;Asr-3:39PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-09-14",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:11PM;Asr-3:39PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-09-15",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:10PM;Asr-3:38PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-09-16",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:10PM;Asr-3:37PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-09-17",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:10PM;Asr-3:37PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-09-18",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:09PM;Asr-3:36PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-09-19",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:09PM;Asr-3:36PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-09-20",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:09PM;Asr-3:35PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-09-21",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:08PM;Asr-3:35PM;Maghrib-6:13PM;Isha-7:43PM;",
+      },
+      {
+        date: "2025-09-22",
+        schedule:
+          "Fazr-4:46AM;Zuhr-12:08PM;Asr-3:34PM;Maghrib-6:12PM;Isha-7:42PM;",
+      },
+      {
+        date: "2025-09-23",
+        schedule:
+          "Fazr-4:46AM;Zuhr-12:07PM;Asr-3:34PM;Maghrib-6:10PM;Isha-7:40PM;",
+      },
+      {
+        date: "2025-09-24",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:07PM;Asr-3:33PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-09-25",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:07PM;Asr-3:32PM;Maghrib-6:08PM;Isha-7:38PM;",
+      },
+      {
+        date: "2025-09-26",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:06PM;Asr-3:32PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-09-27",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:06PM;Asr-3:31PM;Maghrib-6:06PM;Isha-7:36PM;",
+      },
+      {
+        date: "2025-09-28",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:06PM;Asr-3:31PM;Maghrib-6:05PM;Isha-7:35PM;",
+      },
+      {
+        date: "2025-09-29",
+        schedule:
+          "Fazr-4:49AM;Zuhr-12:05PM;Asr-3:30PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-09-30",
+        schedule:
+          "Fazr-4:49AM;Zuhr-12:05PM;Asr-3:29PM;Maghrib-6:03PM;Isha-7:33PM;",
+      },
+      {
+        date: "2025-10-01",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:05PM;Asr-3:29PM;Maghrib-6:02PM;Isha-7:32PM;",
+      },
+      {
+        date: "2025-10-02",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:04PM;Asr-3:28PM;Maghrib-6:01PM;Isha-7:31PM;",
+      },
+      {
+        date: "2025-10-03",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:04PM;Asr-3:27PM;Maghrib-6:00PM;Isha-7:30PM;",
+      },
+      {
+        date: "2025-10-04",
+        schedule:
+          "Fazr-4:51AM;Zuhr-12:04PM;Asr-3:27PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-10-05",
+        schedule:
+          "Fazr-4:51AM;Zuhr-12:04PM;Asr-3:26PM;Maghrib-5:58PM;Isha-7:28PM;",
+      },
+      {
+        date: "2025-10-06",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:03PM;Asr-3:25PM;Maghrib-5:57PM;Isha-7:27PM;",
+      },
+      {
+        date: "2025-10-07",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:03PM;Asr-3:25PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-10-08",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:03PM;Asr-3:24PM;Maghrib-5:55PM;Isha-7:25PM;",
+      },
+      {
+        date: "2025-10-09",
+        schedule:
+          "Fazr-4:53AM;Zuhr-12:02PM;Asr-3:24PM;Maghrib-5:54PM;Isha-7:24PM;",
+      },
+      {
+        date: "2025-10-10",
+        schedule:
+          "Fazr-4:53AM;Zuhr-12:02PM;Asr-3:23PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-10-11",
+        schedule:
+          "Fazr-4:54AM;Zuhr-12:02PM;Asr-3:22PM;Maghrib-5:52PM;Isha-7:22PM;",
+      },
+      {
+        date: "2025-10-12",
+        schedule:
+          "Fazr-4:54AM;Zuhr-12:02PM;Asr-3:22PM;Maghrib-5:51PM;Isha-7:21PM;",
+      },
+      {
+        date: "2025-10-13",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:01PM;Asr-3:21PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-10-14",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:01PM;Asr-3:20PM;Maghrib-5:49PM;Isha-7:19PM;",
+      },
+      {
+        date: "2025-10-15",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:01PM;Asr-3:20PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-10-16",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:01PM;Asr-3:19PM;Maghrib-5:47PM;Isha-7:17PM;",
+      },
+      {
+        date: "2025-10-17",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:00PM;Asr-3:19PM;Maghrib-5:46PM;Isha-7:16PM;",
+      },
+      {
+        date: "2025-10-18",
+        schedule:
+          "Fazr-4:57AM;Zuhr-12:00PM;Asr-3:18PM;Maghrib-5:45PM;Isha-7:15PM;",
+      },
+      {
+        date: "2025-10-19",
+        schedule:
+          "Fazr-4:57AM;Zuhr-12:00PM;Asr-3:17PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-10-20",
+        schedule:
+          "Fazr-4:58AM;Zuhr-12:00PM;Asr-3:17PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-10-21",
+        schedule:
+          "Fazr-4:58AM;Zuhr-12:00PM;Asr-3:16PM;Maghrib-5:43PM;Isha-7:13PM;",
+      },
+      {
+        date: "2025-10-22",
+        schedule:
+          "Fazr-4:59AM;Zuhr-12:00PM;Asr-3:16PM;Maghrib-5:42PM;Isha-7:12PM;",
+      },
+      {
+        date: "2025-10-23",
+        schedule:
+          "Fazr-4:59AM;Zuhr-11:59AM;Asr-3:15PM;Maghrib-5:41PM;Isha-7:11PM;",
+      },
+      {
+        date: "2025-10-24",
+        schedule:
+          "Fazr-4:59AM;Zuhr-11:59AM;Asr-3:15PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+      {
+        date: "2025-10-25",
+        schedule:
+          "Fazr-5:00AM;Zuhr-11:59AM;Asr-3:14PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+      {
+        date: "2025-10-26",
+        schedule:
+          "Fazr-5:00AM;Zuhr-11:59AM;Asr-3:14PM;Maghrib-5:39PM;Isha-7:09PM;",
+      },
+      {
+        date: "2025-10-27",
+        schedule:
+          "Fazr-5:01AM;Zuhr-11:59AM;Asr-3:13PM;Maghrib-5:38PM;Isha-7:08PM;",
+      },
+      {
+        date: "2025-10-28",
+        schedule:
+          "Fazr-5:01AM;Zuhr-11:59AM;Asr-3:13PM;Maghrib-5:37PM;Isha-7:07PM;",
+      },
+      {
+        date: "2025-10-29",
+        schedule:
+          "Fazr-5:02AM;Zuhr-11:59AM;Asr-3:12PM;Maghrib-5:37PM;Isha-7:07PM;",
+      },
+      {
+        date: "2025-10-30",
+        schedule:
+          "Fazr-5:02AM;Zuhr-11:59AM;Asr-3:12PM;Maghrib-5:36PM;Isha-7:06PM;",
+      },
+      {
+        date: "2025-10-31",
+        schedule:
+          "Fazr-5:03AM;Zuhr-11:59AM;Asr-3:11PM;Maghrib-5:35PM;Isha-7:05PM;",
+      },
+      {
+        date: "2025-11-01",
+        schedule:
+          "Fazr-5:03AM;Zuhr-11:59AM;Asr-3:11PM;Maghrib-5:34PM;Isha-7:04PM;",
+      },
+      {
+        date: "2025-11-02",
+        schedule:
+          "Fazr-5:04AM;Zuhr-11:59AM;Asr-3:10PM;Maghrib-5:34PM;Isha-7:04PM;",
+      },
+      {
+        date: "2025-11-03",
+        schedule:
+          "Fazr-5:04AM;Zuhr-11:59AM;Asr-3:10PM;Maghrib-5:33PM;Isha-7:03PM;",
+      },
+      {
+        date: "2025-11-04",
+        schedule:
+          "Fazr-5:05AM;Zuhr-11:59AM;Asr-3:09PM;Maghrib-5:33PM;Isha-7:03PM;",
+      },
+      {
+        date: "2025-11-05",
+        schedule:
+          "Fazr-5:05AM;Zuhr-11:59AM;Asr-3:09PM;Maghrib-5:32PM;Isha-7:02PM;",
+      },
+      {
+        date: "2025-11-06",
+        schedule:
+          "Fazr-5:06AM;Zuhr-11:59AM;Asr-3:08PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-11-07",
+        schedule:
+          "Fazr-5:06AM;Zuhr-11:59AM;Asr-3:08PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-11-08",
+        schedule:
+          "Fazr-5:07AM;Zuhr-11:59AM;Asr-3:08PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-11-09",
+        schedule:
+          "Fazr-5:08AM;Zuhr-11:59AM;Asr-3:07PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-11-10",
+        schedule:
+          "Fazr-5:08AM;Zuhr-11:59AM;Asr-3:07PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-11-11",
+        schedule:
+          "Fazr-5:09AM;Zuhr-11:59AM;Asr-3:07PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-11-12",
+        schedule:
+          "Fazr-5:09AM;Zuhr-11:59AM;Asr-3:06PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-11-13",
+        schedule:
+          "Fazr-5:10AM;Zuhr-11:59AM;Asr-3:06PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-11-14",
+        schedule:
+          "Fazr-5:10AM;Zuhr-12:00PM;Asr-3:06PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-11-15",
+        schedule:
+          "Fazr-5:11AM;Zuhr-12:00PM;Asr-3:06PM;Maghrib-5:27PM;Isha-6:57PM;",
+      },
+      {
+        date: "2025-11-16",
+        schedule:
+          "Fazr-5:12AM;Zuhr-12:00PM;Asr-3:05PM;Maghrib-5:27PM;Isha-6:57PM;",
+      },
+      {
+        date: "2025-11-17",
+        schedule:
+          "Fazr-5:12AM;Zuhr-12:00PM;Asr-3:05PM;Maghrib-5:27PM;Isha-6:57PM;",
+      },
+      {
+        date: "2025-11-18",
+        schedule:
+          "Fazr-5:13AM;Zuhr-12:00PM;Asr-3:05PM;Maghrib-5:26PM;Isha-6:56PM;",
+      },
+      {
+        date: "2025-11-19",
+        schedule:
+          "Fazr-5:13AM;Zuhr-12:01PM;Asr-3:05PM;Maghrib-5:26PM;Isha-6:56PM;",
+      },
+      {
+        date: "2025-11-20",
+        schedule:
+          "Fazr-5:14AM;Zuhr-12:01PM;Asr-3:05PM;Maghrib-5:26PM;Isha-6:56PM;",
+      },
+      {
+        date: "2025-11-21",
+        schedule:
+          "Fazr-5:15AM;Zuhr-12:01PM;Asr-3:05PM;Maghrib-5:26PM;Isha-6:56PM;",
+      },
+      {
+        date: "2025-11-22",
+        schedule:
+          "Fazr-5:15AM;Zuhr-12:01PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-11-23",
+        schedule:
+          "Fazr-5:16AM;Zuhr-12:02PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-11-24",
+        schedule:
+          "Fazr-5:16AM;Zuhr-12:02PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-11-25",
+        schedule:
+          "Fazr-5:17AM;Zuhr-12:02PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-11-26",
+        schedule:
+          "Fazr-5:18AM;Zuhr-12:02PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-11-27",
+        schedule:
+          "Fazr-5:18AM;Zuhr-12:03PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-11-28",
+        schedule:
+          "Fazr-5:19AM;Zuhr-12:03PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-11-29",
+        schedule:
+          "Fazr-5:19AM;Zuhr-12:03PM;Asr-3:04PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-11-30",
+        schedule:
+          "Fazr-5:20AM;Zuhr-12:04PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-12-01",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:04PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-12-02",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:05PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-12-03",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:05PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-12-04",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:05PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-12-05",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:06PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-12-06",
+        schedule:
+          "Fazr-5:24AM;Zuhr-12:06PM;Asr-3:05PM;Maghrib-5:25PM;Isha-6:55PM;",
+      },
+      {
+        date: "2025-12-07",
+        schedule:
+          "Fazr-5:24AM;Zuhr-12:07PM;Asr-3:06PM;Maghrib-5:26PM;Isha-6:56PM;",
+      },
+      {
+        date: "2025-12-08",
+        schedule:
+          "Fazr-5:25AM;Zuhr-12:07PM;Asr-3:06PM;Maghrib-5:26PM;Isha-6:56PM;",
+      },
+      {
+        date: "2025-12-09",
+        schedule:
+          "Fazr-5:25AM;Zuhr-12:08PM;Asr-3:06PM;Maghrib-5:26PM;Isha-6:56PM;",
+      },
+      {
+        date: "2025-12-10",
+        schedule:
+          "Fazr-5:26AM;Zuhr-12:08PM;Asr-3:06PM;Maghrib-5:26PM;Isha-6:56PM;",
+      },
+      {
+        date: "2025-12-11",
+        schedule:
+          "Fazr-5:27AM;Zuhr-12:08PM;Asr-3:07PM;Maghrib-5:27PM;Isha-6:57PM;",
+      },
+      {
+        date: "2025-12-12",
+        schedule:
+          "Fazr-5:27AM;Zuhr-12:09PM;Asr-3:07PM;Maghrib-5:27PM;Isha-6:57PM;",
+      },
+      {
+        date: "2025-12-13",
+        schedule:
+          "Fazr-5:28AM;Zuhr-12:09PM;Asr-3:07PM;Maghrib-5:27PM;Isha-6:57PM;",
+      },
+      {
+        date: "2025-12-14",
+        schedule:
+          "Fazr-5:28AM;Zuhr-12:10PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-12-15",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:10PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-12-16",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:11PM;Asr-3:09PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-12-17",
+        schedule:
+          "Fazr-5:30AM;Zuhr-12:11PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-12-18",
+        schedule:
+          "Fazr-5:31AM;Zuhr-12:12PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-12-19",
+        schedule:
+          "Fazr-5:31AM;Zuhr-12:12PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-12-20",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:13PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-12-21",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:13PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-12-22",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:14PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-12-23",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:14PM;Asr-3:12PM;Maghrib-5:32PM;Isha-7:02PM;",
+      },
+      {
+        date: "2025-12-24",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:15PM;Asr-3:12PM;Maghrib-5:32PM;Isha-7:02PM;",
+      },
+      {
+        date: "2025-12-25",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:15PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
+      },
+      {
+        date: "2025-12-26",
         schedule:
           "Fazr-5:34AM;Zuhr-12:16PM;Asr-3:14PM;Maghrib-5:33PM;Isha-7:03PM;",
       },
       {
-        date: "2024-12-27",
+        date: "2025-12-27",
         schedule:
           "Fazr-5:35AM;Zuhr-12:16PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-12-28",
+        date: "2025-12-28",
         schedule:
-          "Fazr-5:35AM;Zuhr-12:17PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
+          "Fazr-5:35AM;Zuhr-12:17PM;Asr-3:15PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-12-29",
+        date: "2025-12-29",
         schedule:
-          "Fazr-5:36AM;Zuhr-12:17PM;Asr-3:16PM;Maghrib-5:35PM;Isha-7:05PM;",
+          "Fazr-5:36AM;Zuhr-12:17PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-12-30",
+        date: "2025-12-30",
         schedule:
           "Fazr-5:36AM;Zuhr-12:18PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-12-31",
+        date: "2025-12-31",
         schedule:
           "Fazr-5:36AM;Zuhr-12:18PM;Asr-3:17PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
     ],
     sharjah: [
       {
-        date: "2024-09-01",
+        date: "2025-01-01",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:21PM;Asr-3:20PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+      {
+        date: "2025-01-02",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:22PM;Asr-3:21PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+      {
+        date: "2025-01-03",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:22PM;Asr-3:21PM;Maghrib-5:41PM;Isha-7:11PM;",
+      },
+      {
+        date: "2025-01-04",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:23PM;Asr-3:22PM;Maghrib-5:42PM;Isha-7:12PM;",
+      },
+      {
+        date: "2025-01-05",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:23PM;Asr-3:23PM;Maghrib-5:42PM;Isha-7:12PM;",
+      },
+      {
+        date: "2025-01-06",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:23PM;Asr-3:23PM;Maghrib-5:43PM;Isha-7:13PM;",
+      },
+      {
+        date: "2025-01-07",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:24PM;Asr-3:24PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-01-08",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:24PM;Asr-3:25PM;Maghrib-5:45PM;Isha-7:15PM;",
+      },
+      {
+        date: "2025-01-09",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:25PM;Asr-3:25PM;Maghrib-5:45PM;Isha-7:15PM;",
+      },
+      {
+        date: "2025-01-10",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:25PM;Asr-3:26PM;Maghrib-5:46PM;Isha-7:16PM;",
+      },
+      {
+        date: "2025-01-11",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:25PM;Asr-3:27PM;Maghrib-5:47PM;Isha-7:17PM;",
+      },
+      {
+        date: "2025-01-12",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:26PM;Asr-3:27PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-01-13",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:26PM;Asr-3:28PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-01-14",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:27PM;Asr-3:29PM;Maghrib-5:49PM;Isha-7:19PM;",
+      },
+      {
+        date: "2025-01-15",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:27PM;Asr-3:29PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-01-16",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:27PM;Asr-3:30PM;Maghrib-5:51PM;Isha-7:21PM;",
+      },
+      {
+        date: "2025-01-17",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:28PM;Asr-3:31PM;Maghrib-5:51PM;Isha-7:21PM;",
+      },
+      {
+        date: "2025-01-18",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:28PM;Asr-3:31PM;Maghrib-5:52PM;Isha-7:22PM;",
+      },
+      {
+        date: "2025-01-19",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:28PM;Asr-3:32PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-01-20",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:29PM;Asr-3:33PM;Maghrib-5:54PM;Isha-7:24PM;",
+      },
+      {
+        date: "2025-01-21",
+        schedule:
+          "Fazr-5:42AM;Zuhr-12:29PM;Asr-3:33PM;Maghrib-5:54PM;Isha-7:24PM;",
+      },
+      {
+        date: "2025-01-22",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:29PM;Asr-3:34PM;Maghrib-5:55PM;Isha-7:25PM;",
+      },
+      {
+        date: "2025-01-23",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:29PM;Asr-3:35PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-01-24",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:30PM;Asr-3:35PM;Maghrib-5:57PM;Isha-7:27PM;",
+      },
+      {
+        date: "2025-01-25",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:30PM;Asr-3:36PM;Maghrib-5:57PM;Isha-7:27PM;",
+      },
+      {
+        date: "2025-01-26",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:30PM;Asr-3:36PM;Maghrib-5:58PM;Isha-7:28PM;",
+      },
+      {
+        date: "2025-01-27",
+        schedule:
+          "Fazr-5:41AM;Zuhr-12:30PM;Asr-3:37PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-01-28",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:30PM;Asr-3:38PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-01-29",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:31PM;Asr-3:38PM;Maghrib-6:00PM;Isha-7:30PM;",
+      },
+      {
+        date: "2025-01-30",
+        schedule:
+          "Fazr-5:40AM;Zuhr-12:31PM;Asr-3:39PM;Maghrib-6:01PM;Isha-7:31PM;",
+      },
+      {
+        date: "2025-01-31",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:31PM;Asr-3:39PM;Maghrib-6:02PM;Isha-7:32PM;",
+      },
+      {
+        date: "2025-02-01",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:31PM;Asr-3:40PM;Maghrib-6:02PM;Isha-7:32PM;",
+      },
+      {
+        date: "2025-02-02",
+        schedule:
+          "Fazr-5:39AM;Zuhr-12:31PM;Asr-3:41PM;Maghrib-6:03PM;Isha-7:33PM;",
+      },
+      {
+        date: "2025-02-03",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:31PM;Asr-3:41PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-02-04",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:31PM;Asr-3:42PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-02-05",
+        schedule:
+          "Fazr-5:38AM;Zuhr-12:31PM;Asr-3:42PM;Maghrib-6:05PM;Isha-7:35PM;",
+      },
+      {
+        date: "2025-02-06",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:32PM;Asr-3:43PM;Maghrib-6:06PM;Isha-7:36PM;",
+      },
+      {
+        date: "2025-02-07",
+        schedule:
+          "Fazr-5:37AM;Zuhr-12:32PM;Asr-3:43PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-02-08",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:32PM;Asr-3:44PM;Maghrib-6:07PM;Isha-7:37PM;",
+      },
+      {
+        date: "2025-02-09",
+        schedule:
+          "Fazr-5:36AM;Zuhr-12:32PM;Asr-3:44PM;Maghrib-6:08PM;Isha-7:38PM;",
+      },
+      {
+        date: "2025-02-10",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:32PM;Asr-3:45PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-02-11",
+        schedule:
+          "Fazr-5:35AM;Zuhr-12:32PM;Asr-3:45PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-02-12",
+        schedule:
+          "Fazr-5:34AM;Zuhr-12:32PM;Asr-3:45PM;Maghrib-6:10PM;Isha-7:40PM;",
+      },
+      {
+        date: "2025-02-13",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:32PM;Asr-3:46PM;Maghrib-6:10PM;Isha-7:40PM;",
+      },
+      {
+        date: "2025-02-14",
+        schedule:
+          "Fazr-5:33AM;Zuhr-12:32PM;Asr-3:46PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-02-15",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:32PM;Asr-3:47PM;Maghrib-6:12PM;Isha-7:42PM;",
+      },
+      {
+        date: "2025-02-16",
+        schedule:
+          "Fazr-5:32AM;Zuhr-12:32PM;Asr-3:47PM;Maghrib-6:12PM;Isha-7:42PM;",
+      },
+      {
+        date: "2025-02-17",
+        schedule:
+          "Fazr-5:31AM;Zuhr-12:31PM;Asr-3:47PM;Maghrib-6:13PM;Isha-7:43PM;",
+      },
+      {
+        date: "2025-02-18",
+        schedule:
+          "Fazr-5:30AM;Zuhr-12:31PM;Asr-3:48PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-02-19",
+        schedule:
+          "Fazr-5:30AM;Zuhr-12:31PM;Asr-3:48PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-02-20",
+        schedule:
+          "Fazr-5:29AM;Zuhr-12:31PM;Asr-3:48PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-02-21",
+        schedule:
+          "Fazr-5:28AM;Zuhr-12:31PM;Asr-3:49PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-02-22",
+        schedule:
+          "Fazr-5:27AM;Zuhr-12:31PM;Asr-3:49PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-02-23",
+        schedule:
+          "Fazr-5:27AM;Zuhr-12:31PM;Asr-3:49PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-02-24",
+        schedule:
+          "Fazr-5:26AM;Zuhr-12:31PM;Asr-3:49PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-02-25",
+        schedule:
+          "Fazr-5:25AM;Zuhr-12:30PM;Asr-3:50PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-02-26",
+        schedule:
+          "Fazr-5:24AM;Zuhr-12:30PM;Asr-3:50PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-02-27",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:30PM;Asr-3:50PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-02-28",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:30PM;Asr-3:50PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-03-01",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:30PM;Asr-3:50PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-03-02",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:30PM;Asr-3:51PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-03-03",
+        schedule:
+          "Fazr-5:20AM;Zuhr-12:29PM;Asr-3:51PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-03-04",
+        schedule:
+          "Fazr-5:19AM;Zuhr-12:29PM;Asr-3:51PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-03-05",
+        schedule:
+          "Fazr-5:18AM;Zuhr-12:29PM;Asr-3:51PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-03-06",
+        schedule:
+          "Fazr-5:17AM;Zuhr-12:29PM;Asr-3:51PM;Maghrib-6:22PM;Isha-7:52PM;",
+      },
+      {
+        date: "2025-03-07",
+        schedule:
+          "Fazr-5:16AM;Zuhr-12:28PM;Asr-3:51PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-03-08",
+        schedule:
+          "Fazr-5:15AM;Zuhr-12:28PM;Asr-3:51PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-03-09",
+        schedule:
+          "Fazr-5:14AM;Zuhr-12:28PM;Asr-3:51PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-03-10",
+        schedule:
+          "Fazr-5:13AM;Zuhr-12:28PM;Asr-3:51PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-03-11",
+        schedule:
+          "Fazr-5:12AM;Zuhr-12:27PM;Asr-3:51PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-03-12",
+        schedule:
+          "Fazr-5:11AM;Zuhr-12:27PM;Asr-3:51PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-03-13",
+        schedule:
+          "Fazr-5:10AM;Zuhr-12:27PM;Asr-3:51PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-14",
+        schedule:
+          "Fazr-5:09AM;Zuhr-12:27PM;Asr-3:51PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-15",
+        schedule:
+          "Fazr-5:08AM;Zuhr-12:26PM;Asr-3:51PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-03-16",
+        schedule:
+          "Fazr-5:07AM;Zuhr-12:26PM;Asr-3:51PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-03-17",
+        schedule:
+          "Fazr-5:06AM;Zuhr-12:26PM;Asr-3:51PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-03-18",
+        schedule:
+          "Fazr-5:05AM;Zuhr-12:26PM;Asr-3:51PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-19",
+        schedule:
+          "Fazr-5:04AM;Zuhr-12:25PM;Asr-3:51PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-03-20",
+        schedule:
+          "Fazr-5:03AM;Zuhr-12:25PM;Asr-3:51PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-21",
+        schedule:
+          "Fazr-5:01AM;Zuhr-12:25PM;Asr-3:51PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-03-22",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:24PM;Asr-3:51PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-23",
+        schedule:
+          "Fazr-4:59AM;Zuhr-12:24PM;Asr-3:51PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-24",
+        schedule:
+          "Fazr-4:58AM;Zuhr-12:24PM;Asr-3:51PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-03-25",
+        schedule:
+          "Fazr-4:57AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-03-26",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-03-27",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-03-28",
+        schedule:
+          "Fazr-4:54AM;Zuhr-12:23PM;Asr-3:50PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-03-29",
+        schedule:
+          "Fazr-4:53AM;Zuhr-12:22PM;Asr-3:50PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-03-30",
+        schedule:
+          "Fazr-4:51AM;Zuhr-12:22PM;Asr-3:50PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-03-31",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:22PM;Asr-3:50PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-04-01",
+        schedule:
+          "Fazr-4:49AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-04-02",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-04-03",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:21PM;Asr-3:49PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-04-04",
+        schedule:
+          "Fazr-4:46AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-04-05",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-04-06",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-04-07",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-04-08",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-04-09",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-04-10",
         schedule:
           "Fazr-4:39AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:38PM;Isha-8:08PM;",
       },
       {
-        date: "2024-09-02",
+        date: "2025-04-11",
         schedule:
-          "Fazr-4:40AM;Zuhr-12:18PM;Asr-3:48PM;Maghrib-6:37PM;Isha-8:07PM;",
+          "Fazr-4:38AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:38PM;Isha-8:08PM;",
       },
       {
-        date: "2024-09-03",
+        date: "2025-04-12",
         schedule:
-          "Fazr-4:41AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:36PM;Isha-8:06PM;",
+          "Fazr-4:37AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:39PM;Isha-8:09PM;",
       },
       {
-        date: "2024-09-04",
+        date: "2025-04-13",
         schedule:
-          "Fazr-4:41AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:34PM;Isha-8:04PM;",
+          "Fazr-4:36AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:39PM;Isha-8:09PM;",
       },
       {
-        date: "2024-09-05",
+        date: "2025-04-14",
         schedule:
-          "Fazr-4:42AM;Zuhr-12:17PM;Asr-3:47PM;Maghrib-6:33PM;Isha-8:03PM;",
+          "Fazr-4:35AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:40PM;Isha-8:10PM;",
       },
       {
-        date: "2024-09-06",
+        date: "2025-04-15",
         schedule:
-          "Fazr-4:42AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:32PM;Isha-8:02PM;",
+          "Fazr-4:33AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:40PM;Isha-8:10PM;",
       },
       {
-        date: "2024-09-07",
+        date: "2025-04-16",
         schedule:
-          "Fazr-4:43AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:31PM;Isha-8:01PM;",
+          "Fazr-4:32AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:41PM;Isha-8:11PM;",
       },
       {
-        date: "2024-09-08",
+        date: "2025-04-17",
         schedule:
-          "Fazr-4:43AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:30PM;Isha-8:00PM;",
+          "Fazr-4:31AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:41PM;Isha-8:11PM;",
       },
       {
-        date: "2024-09-09",
+        date: "2025-04-18",
         schedule:
-          "Fazr-4:44AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:29PM;Isha-7:59PM;",
+          "Fazr-4:30AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:41PM;Isha-8:11PM;",
       },
       {
-        date: "2024-09-10",
+        date: "2025-04-19",
         schedule:
-          "Fazr-4:44AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:28PM;Isha-7:58PM;",
+          "Fazr-4:29AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:42PM;Isha-8:12PM;",
       },
       {
-        date: "2024-09-11",
+        date: "2025-04-20",
         schedule:
-          "Fazr-4:45AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:27PM;Isha-7:57PM;",
+          "Fazr-4:28AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:42PM;Isha-8:12PM;",
       },
       {
-        date: "2024-09-12",
+        date: "2025-04-21",
         schedule:
-          "Fazr-4:45AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:26PM;Isha-7:56PM;",
+          "Fazr-4:27AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:43PM;Isha-8:13PM;",
       },
       {
-        date: "2024-09-13",
+        date: "2025-04-22",
         schedule:
-          "Fazr-4:45AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:25PM;Isha-7:55PM;",
+          "Fazr-4:26AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:43PM;Isha-8:13PM;",
       },
       {
-        date: "2024-09-14",
+        date: "2025-04-23",
         schedule:
-          "Fazr-4:46AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:24PM;Isha-7:54PM;",
+          "Fazr-4:25AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:44PM;Isha-8:14PM;",
       },
       {
-        date: "2024-09-15",
+        date: "2025-04-24",
         schedule:
-          "Fazr-4:46AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:23PM;Isha-7:53PM;",
+          "Fazr-4:24AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:44PM;Isha-8:14PM;",
       },
       {
-        date: "2024-09-16",
+        date: "2025-04-25",
         schedule:
-          "Fazr-4:47AM;Zuhr-12:14PM;Asr-3:41PM;Maghrib-6:22PM;Isha-7:52PM;",
+          "Fazr-4:23AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:45PM;Isha-8:15PM;",
       },
       {
-        date: "2024-09-17",
+        date: "2025-04-26",
         schedule:
-          "Fazr-4:47AM;Zuhr-12:13PM;Asr-3:41PM;Maghrib-6:20PM;Isha-7:50PM;",
+          "Fazr-4:22AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:45PM;Isha-8:15PM;",
       },
       {
-        date: "2024-09-18",
+        date: "2025-04-27",
         schedule:
-          "Fazr-4:48AM;Zuhr-12:13PM;Asr-3:40PM;Maghrib-6:19PM;Isha-7:49PM;",
+          "Fazr-4:21AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:46PM;Isha-8:16PM;",
       },
       {
-        date: "2024-09-19",
+        date: "2025-04-28",
         schedule:
-          "Fazr-4:48AM;Zuhr-12:13PM;Asr-3:40PM;Maghrib-6:18PM;Isha-7:48PM;",
+          "Fazr-4:20AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:46PM;Isha-8:16PM;",
       },
       {
-        date: "2024-09-20",
+        date: "2025-04-29",
         schedule:
-          "Fazr-4:49AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:17PM;Isha-7:47PM;",
+          "Fazr-4:19AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:47PM;Isha-8:17PM;",
       },
       {
-        date: "2024-09-21",
+        date: "2025-04-30",
         schedule:
-          "Fazr-4:49AM;Zuhr-12:12PM;Asr-3:38PM;Maghrib-6:16PM;Isha-7:46PM;",
+          "Fazr-4:18AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:47PM;Isha-8:17PM;",
       },
       {
-        date: "2024-09-22",
+        date: "2025-05-01",
         schedule:
-          "Fazr-4:49AM;Zuhr-12:11PM;Asr-3:38PM;Maghrib-6:15PM;Isha-7:45PM;",
+          "Fazr-4:17AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:48PM;Isha-8:18PM;",
       },
       {
-        date: "2024-09-23",
+        date: "2025-05-02",
         schedule:
-          "Fazr-4:50AM;Zuhr-12:11PM;Asr-3:37PM;Maghrib-6:14PM;Isha-7:44PM;",
+          "Fazr-4:16AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:48PM;Isha-8:18PM;",
       },
       {
-        date: "2024-09-24",
+        date: "2025-05-03",
         schedule:
-          "Fazr-4:50AM;Zuhr-12:11PM;Asr-3:37PM;Maghrib-6:13PM;Isha-7:43PM;",
+          "Fazr-4:15AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:49PM;Isha-8:19PM;",
       },
       {
-        date: "2024-09-25",
+        date: "2025-05-04",
         schedule:
-          "Fazr-4:51AM;Zuhr-12:10PM;Asr-3:36PM;Maghrib-6:12PM;Isha-7:42PM;",
+          "Fazr-4:14AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:49PM;Isha-8:19PM;",
       },
       {
-        date: "2024-09-26",
+        date: "2025-05-05",
         schedule:
-          "Fazr-4:51AM;Zuhr-12:10PM;Asr-3:35PM;Maghrib-6:11PM;Isha-7:41PM;",
+          "Fazr-4:13AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:50PM;Isha-8:20PM;",
       },
       {
-        date: "2024-09-27",
+        date: "2025-05-06",
         schedule:
-          "Fazr-4:52AM;Zuhr-12:10PM;Asr-3:35PM;Maghrib-6:10PM;Isha-7:40PM;",
+          "Fazr-4:12AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:50PM;Isha-8:20PM;",
       },
       {
-        date: "2024-09-28",
+        date: "2025-05-07",
         schedule:
-          "Fazr-4:52AM;Zuhr-12:09PM;Asr-3:34PM;Maghrib-6:09PM;Isha-7:39PM;",
+          "Fazr-4:12AM;Zuhr-12:14PM;Asr-3:41PM;Maghrib-6:51PM;Isha-8:21PM;",
       },
       {
-        date: "2024-09-29",
+        date: "2025-05-08",
         schedule:
-          "Fazr-4:52AM;Zuhr-12:09PM;Asr-3:33PM;Maghrib-6:07PM;Isha-7:37PM;",
+          "Fazr-4:11AM;Zuhr-12:14PM;Asr-3:41PM;Maghrib-6:51PM;Isha-8:21PM;",
       },
       {
-        date: "2024-09-30",
+        date: "2025-05-09",
         schedule:
-          "Fazr-4:53AM;Zuhr-12:09PM;Asr-3:33PM;Maghrib-6:06PM;Isha-7:36PM;",
+          "Fazr-4:10AM;Zuhr-12:14PM;Asr-3:41PM;Maghrib-6:52PM;Isha-8:22PM;",
       },
       {
-        date: "2024-10-01",
+        date: "2025-05-10",
         schedule:
-          "Fazr-4:53AM;Zuhr-12:08PM;Asr-3:32PM;Maghrib-6:05PM;Isha-7:35PM;",
+          "Fazr-4:09AM;Zuhr-12:14PM;Asr-3:41PM;Maghrib-6:52PM;Isha-8:22PM;",
       },
       {
-        date: "2024-10-02",
+        date: "2025-05-11",
         schedule:
-          "Fazr-4:54AM;Zuhr-12:08PM;Asr-3:32PM;Maghrib-6:04PM;Isha-7:34PM;",
+          "Fazr-4:08AM;Zuhr-12:14PM;Asr-3:41PM;Maghrib-6:53PM;Isha-8:23PM;",
       },
       {
-        date: "2024-10-03",
+        date: "2025-05-12",
         schedule:
-          "Fazr-4:54AM;Zuhr-12:08PM;Asr-3:31PM;Maghrib-6:03PM;Isha-7:33PM;",
+          "Fazr-4:08AM;Zuhr-12:14PM;Asr-3:40PM;Maghrib-6:53PM;Isha-8:23PM;",
       },
       {
-        date: "2024-10-04",
+        date: "2025-05-13",
         schedule:
-          "Fazr-4:55AM;Zuhr-12:08PM;Asr-3:30PM;Maghrib-6:02PM;Isha-7:32PM;",
+          "Fazr-4:07AM;Zuhr-12:14PM;Asr-3:40PM;Maghrib-6:54PM;Isha-8:24PM;",
       },
       {
-        date: "2024-10-05",
+        date: "2025-05-14",
         schedule:
-          "Fazr-4:55AM;Zuhr-12:07PM;Asr-3:30PM;Maghrib-6:01PM;Isha-7:31PM;",
+          "Fazr-4:06AM;Zuhr-12:14PM;Asr-3:40PM;Maghrib-6:54PM;Isha-8:24PM;",
       },
       {
-        date: "2024-10-06",
+        date: "2025-05-15",
         schedule:
-          "Fazr-4:55AM;Zuhr-12:07PM;Asr-3:29PM;Maghrib-6:00PM;Isha-7:30PM;",
+          "Fazr-4:05AM;Zuhr-12:14PM;Asr-3:40PM;Maghrib-6:55PM;Isha-8:25PM;",
       },
       {
-        date: "2024-10-07",
+        date: "2025-05-16",
         schedule:
-          "Fazr-4:56AM;Zuhr-12:07PM;Asr-3:28PM;Maghrib-5:59PM;Isha-7:29PM;",
+          "Fazr-4:05AM;Zuhr-12:14PM;Asr-3:40PM;Maghrib-6:55PM;Isha-8:25PM;",
       },
       {
-        date: "2024-10-08",
+        date: "2025-05-17",
         schedule:
-          "Fazr-4:56AM;Zuhr-12:06PM;Asr-3:28PM;Maghrib-5:58PM;Isha-7:28PM;",
+          "Fazr-4:04AM;Zuhr-12:14PM;Asr-3:40PM;Maghrib-6:56PM;Isha-8:26PM;",
       },
       {
-        date: "2024-10-09",
+        date: "2025-05-18",
         schedule:
-          "Fazr-4:57AM;Zuhr-12:06PM;Asr-3:27PM;Maghrib-5:57PM;Isha-7:27PM;",
+          "Fazr-4:03AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:56PM;Isha-8:26PM;",
       },
       {
-        date: "2024-10-10",
+        date: "2025-05-19",
         schedule:
-          "Fazr-4:57AM;Zuhr-12:06PM;Asr-3:26PM;Maghrib-5:56PM;Isha-7:26PM;",
+          "Fazr-4:03AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:57PM;Isha-8:27PM;",
       },
       {
-        date: "2024-10-11",
+        date: "2025-05-20",
         schedule:
-          "Fazr-4:58AM;Zuhr-12:06PM;Asr-3:26PM;Maghrib-5:55PM;Isha-7:25PM;",
+          "Fazr-4:02AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:57PM;Isha-8:27PM;",
       },
       {
-        date: "2024-10-12",
+        date: "2025-05-21",
         schedule:
-          "Fazr-4:58AM;Zuhr-12:05PM;Asr-3:25PM;Maghrib-5:54PM;Isha-7:24PM;",
+          "Fazr-4:02AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:58PM;Isha-8:28PM;",
       },
       {
-        date: "2024-10-13",
+        date: "2025-05-22",
         schedule:
-          "Fazr-4:58AM;Zuhr-12:05PM;Asr-3:25PM;Maghrib-5:53PM;Isha-7:23PM;",
+          "Fazr-4:01AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:58PM;Isha-8:28PM;",
       },
       {
-        date: "2024-10-14",
+        date: "2025-05-23",
         schedule:
-          "Fazr-4:59AM;Zuhr-12:05PM;Asr-3:24PM;Maghrib-5:52PM;Isha-7:22PM;",
+          "Fazr-4:01AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:59PM;Isha-8:29PM;",
       },
       {
-        date: "2024-10-15",
+        date: "2025-05-24",
         schedule:
-          "Fazr-4:59AM;Zuhr-12:05PM;Asr-3:23PM;Maghrib-5:51PM;Isha-7:21PM;",
+          "Fazr-4:00AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-6:59PM;Isha-8:29PM;",
       },
       {
-        date: "2024-10-16",
+        date: "2025-05-25",
         schedule:
-          "Fazr-5:00AM;Zuhr-12:04PM;Asr-3:23PM;Maghrib-5:50PM;Isha-7:20PM;",
+          "Fazr-4:00AM;Zuhr-12:14PM;Asr-3:39PM;Maghrib-7:00PM;Isha-8:30PM;",
       },
       {
-        date: "2024-10-17",
+        date: "2025-05-26",
         schedule:
-          "Fazr-5:00AM;Zuhr-12:04PM;Asr-3:22PM;Maghrib-5:50PM;Isha-7:20PM;",
+          "Fazr-3:59AM;Zuhr-12:15PM;Asr-3:39PM;Maghrib-7:00PM;Isha-8:30PM;",
       },
       {
-        date: "2024-10-18",
+        date: "2025-05-27",
         schedule:
-          "Fazr-5:01AM;Zuhr-12:04PM;Asr-3:22PM;Maghrib-5:49PM;Isha-7:19PM;",
+          "Fazr-3:59AM;Zuhr-12:15PM;Asr-3:39PM;Maghrib-7:01PM;Isha-8:31PM;",
       },
       {
-        date: "2024-10-19",
+        date: "2025-05-28",
         schedule:
-          "Fazr-5:01AM;Zuhr-12:04PM;Asr-3:21PM;Maghrib-5:48PM;Isha-7:18PM;",
+          "Fazr-3:58AM;Zuhr-12:15PM;Asr-3:39PM;Maghrib-7:01PM;Isha-8:31PM;",
       },
       {
-        date: "2024-10-20",
+        date: "2025-05-29",
         schedule:
-          "Fazr-5:02AM;Zuhr-12:04PM;Asr-3:20PM;Maghrib-5:47PM;Isha-7:17PM;",
+          "Fazr-3:58AM;Zuhr-12:15PM;Asr-3:39PM;Maghrib-7:02PM;Isha-8:32PM;",
       },
       {
-        date: "2024-10-21",
+        date: "2025-05-30",
         schedule:
-          "Fazr-5:02AM;Zuhr-12:03PM;Asr-3:20PM;Maghrib-5:46PM;Isha-7:16PM;",
+          "Fazr-3:58AM;Zuhr-12:15PM;Asr-3:39PM;Maghrib-7:02PM;Isha-8:32PM;",
       },
       {
-        date: "2024-10-22",
+        date: "2025-05-31",
         schedule:
-          "Fazr-5:02AM;Zuhr-12:03PM;Asr-3:19PM;Maghrib-5:45PM;Isha-7:15PM;",
+          "Fazr-3:57AM;Zuhr-12:15PM;Asr-3:39PM;Maghrib-7:03PM;Isha-8:33PM;",
       },
       {
-        date: "2024-10-23",
+        date: "2025-06-01",
         schedule:
-          "Fazr-5:03AM;Zuhr-12:03PM;Asr-3:19PM;Maghrib-5:44PM;Isha-7:14PM;",
+          "Fazr-3:57AM;Zuhr-12:15PM;Asr-3:39PM;Maghrib-7:03PM;Isha-8:33PM;",
       },
       {
-        date: "2024-10-24",
+        date: "2025-06-02",
         schedule:
-          "Fazr-5:03AM;Zuhr-12:03PM;Asr-3:18PM;Maghrib-5:44PM;Isha-7:14PM;",
+          "Fazr-3:57AM;Zuhr-12:16PM;Asr-3:39PM;Maghrib-7:04PM;Isha-8:34PM;",
       },
       {
-        date: "2024-10-25",
+        date: "2025-06-03",
         schedule:
-          "Fazr-5:04AM;Zuhr-12:03PM;Asr-3:17PM;Maghrib-5:43PM;Isha-7:13PM;",
+          "Fazr-3:56AM;Zuhr-12:16PM;Asr-3:39PM;Maghrib-7:04PM;Isha-8:34PM;",
       },
       {
-        date: "2024-10-26",
+        date: "2025-06-04",
         schedule:
-          "Fazr-5:04AM;Zuhr-12:03PM;Asr-3:17PM;Maghrib-5:42PM;Isha-7:12PM;",
+          "Fazr-3:56AM;Zuhr-12:16PM;Asr-3:39PM;Maghrib-7:05PM;Isha-8:35PM;",
       },
       {
-        date: "2024-10-27",
+        date: "2025-06-05",
         schedule:
-          "Fazr-5:05AM;Zuhr-12:03PM;Asr-3:16PM;Maghrib-5:41PM;Isha-7:11PM;",
+          "Fazr-3:56AM;Zuhr-12:16PM;Asr-3:39PM;Maghrib-7:05PM;Isha-8:35PM;",
       },
       {
-        date: "2024-10-28",
+        date: "2025-06-06",
         schedule:
-          "Fazr-5:05AM;Zuhr-12:03PM;Asr-3:16PM;Maghrib-5:41PM;Isha-7:11PM;",
+          "Fazr-3:56AM;Zuhr-12:16PM;Asr-3:39PM;Maghrib-7:05PM;Isha-8:35PM;",
       },
       {
-        date: "2024-10-29",
+        date: "2025-06-07",
         schedule:
-          "Fazr-5:06AM;Zuhr-12:03PM;Asr-3:15PM;Maghrib-5:40PM;Isha-7:10PM;",
+          "Fazr-3:56AM;Zuhr-12:16PM;Asr-3:39PM;Maghrib-7:06PM;Isha-8:36PM;",
       },
       {
-        date: "2024-10-30",
+        date: "2025-06-08",
         schedule:
-          "Fazr-5:06AM;Zuhr-12:03PM;Asr-3:15PM;Maghrib-5:39PM;Isha-7:09PM;",
+          "Fazr-3:56AM;Zuhr-12:17PM;Asr-3:39PM;Maghrib-7:06PM;Isha-8:36PM;",
       },
       {
-        date: "2024-10-31",
+        date: "2025-06-09",
         schedule:
-          "Fazr-5:07AM;Zuhr-12:02PM;Asr-3:14PM;Maghrib-5:38PM;Isha-7:08PM;",
+          "Fazr-3:55AM;Zuhr-12:17PM;Asr-3:39PM;Maghrib-7:07PM;Isha-8:37PM;",
       },
       {
-        date: "2024-11-01",
+        date: "2025-06-10",
         schedule:
-          "Fazr-5:07AM;Zuhr-12:02PM;Asr-3:14PM;Maghrib-5:38PM;Isha-7:08PM;",
+          "Fazr-3:55AM;Zuhr-12:17PM;Asr-3:39PM;Maghrib-7:07PM;Isha-8:37PM;",
       },
       {
-        date: "2024-11-02",
+        date: "2025-06-11",
         schedule:
-          "Fazr-5:08AM;Zuhr-12:02PM;Asr-3:13PM;Maghrib-5:37PM;Isha-7:07PM;",
+          "Fazr-3:55AM;Zuhr-12:17PM;Asr-3:39PM;Maghrib-7:07PM;Isha-8:37PM;",
       },
       {
-        date: "2024-11-03",
+        date: "2025-06-12",
         schedule:
-          "Fazr-5:08AM;Zuhr-12:02PM;Asr-3:13PM;Maghrib-5:36PM;Isha-7:06PM;",
+          "Fazr-3:55AM;Zuhr-12:17PM;Asr-3:40PM;Maghrib-7:08PM;Isha-8:38PM;",
       },
       {
-        date: "2024-11-04",
+        date: "2025-06-13",
         schedule:
-          "Fazr-5:09AM;Zuhr-12:02PM;Asr-3:13PM;Maghrib-5:36PM;Isha-7:06PM;",
+          "Fazr-3:55AM;Zuhr-12:18PM;Asr-3:40PM;Maghrib-7:08PM;Isha-8:38PM;",
       },
       {
-        date: "2024-11-05",
+        date: "2025-06-14",
         schedule:
-          "Fazr-5:09AM;Zuhr-12:02PM;Asr-3:12PM;Maghrib-5:35PM;Isha-7:05PM;",
+          "Fazr-3:55AM;Zuhr-12:18PM;Asr-3:40PM;Maghrib-7:08PM;Isha-8:38PM;",
       },
       {
-        date: "2024-11-06",
+        date: "2025-06-15",
         schedule:
-          "Fazr-5:10AM;Zuhr-12:03PM;Asr-3:12PM;Maghrib-5:35PM;Isha-7:05PM;",
+          "Fazr-3:56AM;Zuhr-12:18PM;Asr-3:40PM;Maghrib-7:09PM;Isha-8:39PM;",
       },
       {
-        date: "2024-11-07",
+        date: "2025-06-16",
         schedule:
-          "Fazr-5:11AM;Zuhr-12:03PM;Asr-3:11PM;Maghrib-5:34PM;Isha-7:04PM;",
+          "Fazr-3:56AM;Zuhr-12:18PM;Asr-3:40PM;Maghrib-7:09PM;Isha-8:39PM;",
       },
       {
-        date: "2024-11-08",
+        date: "2025-06-17",
         schedule:
-          "Fazr-5:11AM;Zuhr-12:03PM;Asr-3:11PM;Maghrib-5:34PM;Isha-7:04PM;",
+          "Fazr-3:56AM;Zuhr-12:18PM;Asr-3:40PM;Maghrib-7:09PM;Isha-8:39PM;",
       },
       {
-        date: "2024-11-09",
+        date: "2025-06-18",
         schedule:
-          "Fazr-5:12AM;Zuhr-12:03PM;Asr-3:11PM;Maghrib-5:33PM;Isha-7:03PM;",
+          "Fazr-3:56AM;Zuhr-12:19PM;Asr-3:41PM;Maghrib-7:09PM;Isha-8:39PM;",
       },
       {
-        date: "2024-11-10",
+        date: "2025-06-19",
         schedule:
-          "Fazr-5:12AM;Zuhr-12:03PM;Asr-3:10PM;Maghrib-5:33PM;Isha-7:03PM;",
+          "Fazr-3:56AM;Zuhr-12:19PM;Asr-3:41PM;Maghrib-7:10PM;Isha-8:40PM;",
       },
       {
-        date: "2024-11-11",
+        date: "2025-06-20",
         schedule:
-          "Fazr-5:13AM;Zuhr-12:03PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
+          "Fazr-3:56AM;Zuhr-12:19PM;Asr-3:41PM;Maghrib-7:10PM;Isha-8:40PM;",
       },
       {
-        date: "2024-11-12",
+        date: "2025-06-21",
         schedule:
-          "Fazr-5:13AM;Zuhr-12:03PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
+          "Fazr-3:56AM;Zuhr-12:19PM;Asr-3:41PM;Maghrib-7:10PM;Isha-8:40PM;",
       },
       {
-        date: "2024-11-13",
+        date: "2025-06-22",
         schedule:
-          "Fazr-5:14AM;Zuhr-12:03PM;Asr-3:10PM;Maghrib-5:31PM;Isha-7:01PM;",
+          "Fazr-3:57AM;Zuhr-12:20PM;Asr-3:41PM;Maghrib-7:10PM;Isha-8:40PM;",
       },
       {
-        date: "2024-11-14",
+        date: "2025-06-23",
         schedule:
-          "Fazr-5:14AM;Zuhr-12:03PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
+          "Fazr-3:57AM;Zuhr-12:20PM;Asr-3:42PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-15",
+        date: "2025-06-24",
         schedule:
-          "Fazr-5:15AM;Zuhr-12:04PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
+          "Fazr-3:57AM;Zuhr-12:20PM;Asr-3:42PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-16",
+        date: "2025-06-25",
         schedule:
-          "Fazr-5:16AM;Zuhr-12:04PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
+          "Fazr-3:58AM;Zuhr-12:20PM;Asr-3:42PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-17",
+        date: "2025-06-26",
         schedule:
-          "Fazr-5:16AM;Zuhr-12:04PM;Asr-3:09PM;Maghrib-5:30PM;Isha-7:00PM;",
+          "Fazr-3:58AM;Zuhr-12:20PM;Asr-3:42PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-18",
+        date: "2025-06-27",
         schedule:
-          "Fazr-5:17AM;Zuhr-12:04PM;Asr-3:08PM;Maghrib-5:30PM;Isha-7:00PM;",
+          "Fazr-3:58AM;Zuhr-12:21PM;Asr-3:43PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-19",
+        date: "2025-06-28",
         schedule:
-          "Fazr-5:17AM;Zuhr-12:04PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+          "Fazr-3:59AM;Zuhr-12:21PM;Asr-3:43PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-20",
+        date: "2025-06-29",
         schedule:
-          "Fazr-5:18AM;Zuhr-12:05PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+          "Fazr-3:59AM;Zuhr-12:21PM;Asr-3:43PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-21",
+        date: "2025-06-30",
         schedule:
-          "Fazr-5:19AM;Zuhr-12:05PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+          "Fazr-4:00AM;Zuhr-12:21PM;Asr-3:43PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-22",
+        date: "2025-07-01",
         schedule:
-          "Fazr-5:19AM;Zuhr-12:05PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+          "Fazr-4:00AM;Zuhr-12:21PM;Asr-3:44PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-23",
+        date: "2025-07-02",
         schedule:
-          "Fazr-5:20AM;Zuhr-12:05PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+          "Fazr-4:00AM;Zuhr-12:22PM;Asr-3:44PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-24",
+        date: "2025-07-03",
         schedule:
-          "Fazr-5:20AM;Zuhr-12:06PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+          "Fazr-4:01AM;Zuhr-12:22PM;Asr-3:44PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-25",
+        date: "2025-07-04",
         schedule:
-          "Fazr-5:21AM;Zuhr-12:06PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+          "Fazr-4:01AM;Zuhr-12:22PM;Asr-3:45PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-26",
+        date: "2025-07-05",
         schedule:
-          "Fazr-5:22AM;Zuhr-12:06PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+          "Fazr-4:02AM;Zuhr-12:22PM;Asr-3:45PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-27",
+        date: "2025-07-06",
         schedule:
-          "Fazr-5:22AM;Zuhr-12:07PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+          "Fazr-4:02AM;Zuhr-12:22PM;Asr-3:45PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-28",
+        date: "2025-07-07",
         schedule:
-          "Fazr-5:23AM;Zuhr-12:07PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+          "Fazr-4:03AM;Zuhr-12:22PM;Asr-3:45PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-29",
+        date: "2025-07-08",
         schedule:
-          "Fazr-5:24AM;Zuhr-12:07PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+          "Fazr-4:04AM;Zuhr-12:23PM;Asr-3:46PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-11-30",
+        date: "2025-07-09",
         schedule:
-          "Fazr-5:24AM;Zuhr-12:08PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+          "Fazr-4:04AM;Zuhr-12:23PM;Asr-3:46PM;Maghrib-7:11PM;Isha-8:41PM;",
       },
       {
-        date: "2024-12-01",
+        date: "2025-07-10",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:23PM;Asr-3:46PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-07-11",
+        schedule:
+          "Fazr-4:05AM;Zuhr-12:23PM;Asr-3:47PM;Maghrib-7:11PM;Isha-8:41PM;",
+      },
+      {
+        date: "2025-07-12",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:23PM;Asr-3:47PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-13",
+        schedule:
+          "Fazr-4:06AM;Zuhr-12:23PM;Asr-3:47PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-14",
+        schedule:
+          "Fazr-4:07AM;Zuhr-12:23PM;Asr-3:47PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-15",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:10PM;Isha-8:40PM;",
+      },
+      {
+        date: "2025-07-16",
+        schedule:
+          "Fazr-4:08AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-17",
+        schedule:
+          "Fazr-4:09AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-18",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:24PM;Asr-3:48PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-19",
+        schedule:
+          "Fazr-4:10AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:09PM;Isha-8:39PM;",
+      },
+      {
+        date: "2025-07-20",
+        schedule:
+          "Fazr-4:11AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-21",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:08PM;Isha-8:38PM;",
+      },
+      {
+        date: "2025-07-22",
+        schedule:
+          "Fazr-4:12AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-23",
+        schedule:
+          "Fazr-4:13AM;Zuhr-12:24PM;Asr-3:49PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-24",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:24PM;Asr-3:50PM;Maghrib-7:07PM;Isha-8:37PM;",
+      },
+      {
+        date: "2025-07-25",
+        schedule:
+          "Fazr-4:14AM;Zuhr-12:24PM;Asr-3:50PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-07-26",
+        schedule:
+          "Fazr-4:15AM;Zuhr-12:24PM;Asr-3:50PM;Maghrib-7:06PM;Isha-8:36PM;",
+      },
+      {
+        date: "2025-07-27",
+        schedule:
+          "Fazr-4:16AM;Zuhr-12:24PM;Asr-3:50PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-07-28",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:24PM;Asr-3:50PM;Maghrib-7:05PM;Isha-8:35PM;",
+      },
+      {
+        date: "2025-07-29",
+        schedule:
+          "Fazr-4:17AM;Zuhr-12:24PM;Asr-3:50PM;Maghrib-7:04PM;Isha-8:34PM;",
+      },
+      {
+        date: "2025-07-30",
+        schedule:
+          "Fazr-4:18AM;Zuhr-12:24PM;Asr-3:51PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-07-31",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:24PM;Asr-3:51PM;Maghrib-7:03PM;Isha-8:33PM;",
+      },
+      {
+        date: "2025-08-01",
+        schedule:
+          "Fazr-4:19AM;Zuhr-12:24PM;Asr-3:51PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-08-02",
+        schedule:
+          "Fazr-4:20AM;Zuhr-12:24PM;Asr-3:51PM;Maghrib-7:02PM;Isha-8:32PM;",
+      },
+      {
+        date: "2025-08-03",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:24PM;Asr-3:51PM;Maghrib-7:01PM;Isha-8:31PM;",
+      },
+      {
+        date: "2025-08-04",
+        schedule:
+          "Fazr-4:21AM;Zuhr-12:24PM;Asr-3:51PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-08-05",
+        schedule:
+          "Fazr-4:22AM;Zuhr-12:24PM;Asr-3:51PM;Maghrib-7:00PM;Isha-8:30PM;",
+      },
+      {
+        date: "2025-08-06",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:59PM;Isha-8:29PM;",
+      },
+      {
+        date: "2025-08-07",
+        schedule:
+          "Fazr-4:23AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-08-08",
+        schedule:
+          "Fazr-4:24AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:58PM;Isha-8:28PM;",
+      },
+      {
+        date: "2025-08-09",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:57PM;Isha-8:27PM;",
+      },
+      {
+        date: "2025-08-10",
+        schedule:
+          "Fazr-4:25AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:56PM;Isha-8:26PM;",
+      },
+      {
+        date: "2025-08-11",
+        schedule:
+          "Fazr-4:26AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-08-12",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:23PM;Asr-3:51PM;Maghrib-6:55PM;Isha-8:25PM;",
+      },
+      {
+        date: "2025-08-13",
+        schedule:
+          "Fazr-4:27AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:54PM;Isha-8:24PM;",
+      },
+      {
+        date: "2025-08-14",
+        schedule:
+          "Fazr-4:28AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:53PM;Isha-8:23PM;",
+      },
+      {
+        date: "2025-08-15",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:52PM;Isha-8:22PM;",
+      },
+      {
+        date: "2025-08-16",
+        schedule:
+          "Fazr-4:29AM;Zuhr-12:22PM;Asr-3:51PM;Maghrib-6:51PM;Isha-8:21PM;",
+      },
+      {
+        date: "2025-08-17",
+        schedule:
+          "Fazr-4:30AM;Zuhr-12:22PM;Asr-3:50PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-08-18",
+        schedule:
+          "Fazr-4:31AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:50PM;Isha-8:20PM;",
+      },
+      {
+        date: "2025-08-19",
+        schedule:
+          "Fazr-4:31AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:49PM;Isha-8:19PM;",
+      },
+      {
+        date: "2025-08-20",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:48PM;Isha-8:18PM;",
+      },
+      {
+        date: "2025-08-21",
+        schedule:
+          "Fazr-4:32AM;Zuhr-12:21PM;Asr-3:50PM;Maghrib-6:47PM;Isha-8:17PM;",
+      },
+      {
+        date: "2025-08-22",
+        schedule:
+          "Fazr-4:33AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:46PM;Isha-8:16PM;",
+      },
+      {
+        date: "2025-08-23",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:45PM;Isha-8:15PM;",
+      },
+      {
+        date: "2025-08-24",
+        schedule:
+          "Fazr-4:34AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:44PM;Isha-8:14PM;",
+      },
+      {
+        date: "2025-08-25",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:20PM;Asr-3:49PM;Maghrib-6:43PM;Isha-8:13PM;",
+      },
+      {
+        date: "2025-08-26",
+        schedule:
+          "Fazr-4:35AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:42PM;Isha-8:12PM;",
+      },
+      {
+        date: "2025-08-27",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:41PM;Isha-8:11PM;",
+      },
+      {
+        date: "2025-08-28",
+        schedule:
+          "Fazr-4:36AM;Zuhr-12:19PM;Asr-3:48PM;Maghrib-6:40PM;Isha-8:10PM;",
+      },
+      {
+        date: "2025-08-29",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:18PM;Asr-3:48PM;Maghrib-6:39PM;Isha-8:09PM;",
+      },
+      {
+        date: "2025-08-30",
+        schedule:
+          "Fazr-4:37AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:38PM;Isha-8:08PM;",
+      },
+      {
+        date: "2025-08-31",
+        schedule:
+          "Fazr-4:38AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:37PM;Isha-8:07PM;",
+      },
+      {
+        date: "2025-09-01",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:18PM;Asr-3:47PM;Maghrib-6:36PM;Isha-8:06PM;",
+      },
+      {
+        date: "2025-09-02",
+        schedule:
+          "Fazr-4:39AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:35PM;Isha-8:05PM;",
+      },
+      {
+        date: "2025-09-03",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:17PM;Asr-3:46PM;Maghrib-6:34PM;Isha-8:04PM;",
+      },
+      {
+        date: "2025-09-04",
+        schedule:
+          "Fazr-4:40AM;Zuhr-12:17PM;Asr-3:45PM;Maghrib-6:33PM;Isha-8:03PM;",
+      },
+      {
+        date: "2025-09-05",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:32PM;Isha-8:02PM;",
+      },
+      {
+        date: "2025-09-06",
+        schedule:
+          "Fazr-4:41AM;Zuhr-12:16PM;Asr-3:45PM;Maghrib-6:31PM;Isha-8:01PM;",
+      },
+      {
+        date: "2025-09-07",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:16PM;Asr-3:44PM;Maghrib-6:30PM;Isha-8:00PM;",
+      },
+      {
+        date: "2025-09-08",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:15PM;Asr-3:44PM;Maghrib-6:29PM;Isha-7:59PM;",
+      },
+      {
+        date: "2025-09-09",
+        schedule:
+          "Fazr-4:42AM;Zuhr-12:15PM;Asr-3:43PM;Maghrib-6:28PM;Isha-7:58PM;",
+      },
+      {
+        date: "2025-09-10",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:14PM;Asr-3:43PM;Maghrib-6:27PM;Isha-7:57PM;",
+      },
+      {
+        date: "2025-09-11",
+        schedule:
+          "Fazr-4:43AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:26PM;Isha-7:56PM;",
+      },
+      {
+        date: "2025-09-12",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:14PM;Asr-3:42PM;Maghrib-6:25PM;Isha-7:55PM;",
+      },
+      {
+        date: "2025-09-13",
+        schedule:
+          "Fazr-4:44AM;Zuhr-12:13PM;Asr-3:41PM;Maghrib-6:24PM;Isha-7:54PM;",
+      },
+      {
+        date: "2025-09-14",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:13PM;Asr-3:41PM;Maghrib-6:23PM;Isha-7:53PM;",
+      },
+      {
+        date: "2025-09-15",
+        schedule:
+          "Fazr-4:45AM;Zuhr-12:13PM;Asr-3:40PM;Maghrib-6:21PM;Isha-7:51PM;",
+      },
+      {
+        date: "2025-09-16",
+        schedule:
+          "Fazr-4:46AM;Zuhr-12:12PM;Asr-3:40PM;Maghrib-6:20PM;Isha-7:50PM;",
+      },
+      {
+        date: "2025-09-17",
+        schedule:
+          "Fazr-4:46AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:19PM;Isha-7:49PM;",
+      },
+      {
+        date: "2025-09-18",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:12PM;Asr-3:39PM;Maghrib-6:18PM;Isha-7:48PM;",
+      },
+      {
+        date: "2025-09-19",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:11PM;Asr-3:38PM;Maghrib-6:17PM;Isha-7:47PM;",
+      },
+      {
+        date: "2025-09-20",
+        schedule:
+          "Fazr-4:47AM;Zuhr-12:11PM;Asr-3:38PM;Maghrib-6:16PM;Isha-7:46PM;",
+      },
+      {
+        date: "2025-09-21",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:11PM;Asr-3:37PM;Maghrib-6:15PM;Isha-7:45PM;",
+      },
+      {
+        date: "2025-09-22",
+        schedule:
+          "Fazr-4:48AM;Zuhr-12:10PM;Asr-3:36PM;Maghrib-6:14PM;Isha-7:44PM;",
+      },
+      {
+        date: "2025-09-23",
+        schedule:
+          "Fazr-4:49AM;Zuhr-12:10PM;Asr-3:36PM;Maghrib-6:13PM;Isha-7:43PM;",
+      },
+      {
+        date: "2025-09-24",
+        schedule:
+          "Fazr-4:49AM;Zuhr-12:10PM;Asr-3:35PM;Maghrib-6:12PM;Isha-7:42PM;",
+      },
+      {
+        date: "2025-09-25",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:09PM;Asr-3:35PM;Maghrib-6:11PM;Isha-7:41PM;",
+      },
+      {
+        date: "2025-09-26",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:09PM;Asr-3:34PM;Maghrib-6:10PM;Isha-7:40PM;",
+      },
+      {
+        date: "2025-09-27",
+        schedule:
+          "Fazr-4:50AM;Zuhr-12:08PM;Asr-3:33PM;Maghrib-6:09PM;Isha-7:39PM;",
+      },
+      {
+        date: "2025-09-28",
+        schedule:
+          "Fazr-4:51AM;Zuhr-12:08PM;Asr-3:33PM;Maghrib-6:08PM;Isha-7:38PM;",
+      },
+      {
+        date: "2025-09-29",
+        schedule:
+          "Fazr-4:51AM;Zuhr-12:08PM;Asr-3:32PM;Maghrib-6:06PM;Isha-7:36PM;",
+      },
+      {
+        date: "2025-09-30",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:07PM;Asr-3:32PM;Maghrib-6:05PM;Isha-7:35PM;",
+      },
+      {
+        date: "2025-10-01",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:07PM;Asr-3:31PM;Maghrib-6:04PM;Isha-7:34PM;",
+      },
+      {
+        date: "2025-10-02",
+        schedule:
+          "Fazr-4:52AM;Zuhr-12:07PM;Asr-3:30PM;Maghrib-6:03PM;Isha-7:33PM;",
+      },
+      {
+        date: "2025-10-03",
+        schedule:
+          "Fazr-4:53AM;Zuhr-12:07PM;Asr-3:30PM;Maghrib-6:02PM;Isha-7:32PM;",
+      },
+      {
+        date: "2025-10-04",
+        schedule:
+          "Fazr-4:53AM;Zuhr-12:06PM;Asr-3:29PM;Maghrib-6:01PM;Isha-7:31PM;",
+      },
+      {
+        date: "2025-10-05",
+        schedule:
+          "Fazr-4:54AM;Zuhr-12:06PM;Asr-3:29PM;Maghrib-6:00PM;Isha-7:30PM;",
+      },
+      {
+        date: "2025-10-06",
+        schedule:
+          "Fazr-4:54AM;Zuhr-12:06PM;Asr-3:28PM;Maghrib-5:59PM;Isha-7:29PM;",
+      },
+      {
+        date: "2025-10-07",
+        schedule:
+          "Fazr-4:54AM;Zuhr-12:05PM;Asr-3:27PM;Maghrib-5:58PM;Isha-7:28PM;",
+      },
+      {
+        date: "2025-10-08",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:05PM;Asr-3:27PM;Maghrib-5:57PM;Isha-7:27PM;",
+      },
+      {
+        date: "2025-10-09",
+        schedule:
+          "Fazr-4:55AM;Zuhr-12:05PM;Asr-3:26PM;Maghrib-5:56PM;Isha-7:26PM;",
+      },
+      {
+        date: "2025-10-10",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:04PM;Asr-3:25PM;Maghrib-5:55PM;Isha-7:25PM;",
+      },
+      {
+        date: "2025-10-11",
+        schedule:
+          "Fazr-4:56AM;Zuhr-12:04PM;Asr-3:25PM;Maghrib-5:54PM;Isha-7:24PM;",
+      },
+      {
+        date: "2025-10-12",
+        schedule:
+          "Fazr-4:57AM;Zuhr-12:04PM;Asr-3:24PM;Maghrib-5:53PM;Isha-7:23PM;",
+      },
+      {
+        date: "2025-10-13",
+        schedule:
+          "Fazr-4:57AM;Zuhr-12:04PM;Asr-3:24PM;Maghrib-5:52PM;Isha-7:22PM;",
+      },
+      {
+        date: "2025-10-14",
+        schedule:
+          "Fazr-4:57AM;Zuhr-12:03PM;Asr-3:23PM;Maghrib-5:51PM;Isha-7:21PM;",
+      },
+      {
+        date: "2025-10-15",
+        schedule:
+          "Fazr-4:58AM;Zuhr-12:03PM;Asr-3:22PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-10-16",
+        schedule:
+          "Fazr-4:58AM;Zuhr-12:03PM;Asr-3:22PM;Maghrib-5:50PM;Isha-7:20PM;",
+      },
+      {
+        date: "2025-10-17",
+        schedule:
+          "Fazr-4:59AM;Zuhr-12:03PM;Asr-3:21PM;Maghrib-5:49PM;Isha-7:19PM;",
+      },
+      {
+        date: "2025-10-18",
+        schedule:
+          "Fazr-4:59AM;Zuhr-12:03PM;Asr-3:20PM;Maghrib-5:48PM;Isha-7:18PM;",
+      },
+      {
+        date: "2025-10-19",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:02PM;Asr-3:20PM;Maghrib-5:47PM;Isha-7:17PM;",
+      },
+      {
+        date: "2025-10-20",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:02PM;Asr-3:19PM;Maghrib-5:46PM;Isha-7:16PM;",
+      },
+      {
+        date: "2025-10-21",
+        schedule:
+          "Fazr-5:00AM;Zuhr-12:02PM;Asr-3:19PM;Maghrib-5:45PM;Isha-7:15PM;",
+      },
+      {
+        date: "2025-10-22",
+        schedule:
+          "Fazr-5:01AM;Zuhr-12:02PM;Asr-3:18PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-10-23",
+        schedule:
+          "Fazr-5:01AM;Zuhr-12:02PM;Asr-3:18PM;Maghrib-5:44PM;Isha-7:14PM;",
+      },
+      {
+        date: "2025-10-24",
+        schedule:
+          "Fazr-5:02AM;Zuhr-12:02PM;Asr-3:17PM;Maghrib-5:43PM;Isha-7:13PM;",
+      },
+      {
+        date: "2025-10-25",
+        schedule:
+          "Fazr-5:02AM;Zuhr-12:02PM;Asr-3:17PM;Maghrib-5:42PM;Isha-7:12PM;",
+      },
+      {
+        date: "2025-10-26",
+        schedule:
+          "Fazr-5:03AM;Zuhr-12:01PM;Asr-3:16PM;Maghrib-5:41PM;Isha-7:11PM;",
+      },
+      {
+        date: "2025-10-27",
+        schedule:
+          "Fazr-5:03AM;Zuhr-12:01PM;Asr-3:15PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+      {
+        date: "2025-10-28",
+        schedule:
+          "Fazr-5:04AM;Zuhr-12:01PM;Asr-3:15PM;Maghrib-5:40PM;Isha-7:10PM;",
+      },
+      {
+        date: "2025-10-29",
+        schedule:
+          "Fazr-5:04AM;Zuhr-12:01PM;Asr-3:14PM;Maghrib-5:39PM;Isha-7:09PM;",
+      },
+      {
+        date: "2025-10-30",
+        schedule:
+          "Fazr-5:05AM;Zuhr-12:01PM;Asr-3:14PM;Maghrib-5:38PM;Isha-7:08PM;",
+      },
+      {
+        date: "2025-10-31",
+        schedule:
+          "Fazr-5:05AM;Zuhr-12:01PM;Asr-3:14PM;Maghrib-5:38PM;Isha-7:08PM;",
+      },
+      {
+        date: "2025-11-01",
+        schedule:
+          "Fazr-5:06AM;Zuhr-12:01PM;Asr-3:13PM;Maghrib-5:37PM;Isha-7:07PM;",
+      },
+      {
+        date: "2025-11-02",
+        schedule:
+          "Fazr-5:06AM;Zuhr-12:01PM;Asr-3:13PM;Maghrib-5:36PM;Isha-7:06PM;",
+      },
+      {
+        date: "2025-11-03",
+        schedule:
+          "Fazr-5:07AM;Zuhr-12:01PM;Asr-3:12PM;Maghrib-5:36PM;Isha-7:06PM;",
+      },
+      {
+        date: "2025-11-04",
+        schedule:
+          "Fazr-5:07AM;Zuhr-12:01PM;Asr-3:12PM;Maghrib-5:35PM;Isha-7:05PM;",
+      },
+      {
+        date: "2025-11-05",
+        schedule:
+          "Fazr-5:08AM;Zuhr-12:01PM;Asr-3:11PM;Maghrib-5:35PM;Isha-7:05PM;",
+      },
+      {
+        date: "2025-11-06",
+        schedule:
+          "Fazr-5:08AM;Zuhr-12:01PM;Asr-3:11PM;Maghrib-5:34PM;Isha-7:04PM;",
+      },
+      {
+        date: "2025-11-07",
+        schedule:
+          "Fazr-5:09AM;Zuhr-12:01PM;Asr-3:11PM;Maghrib-5:33PM;Isha-7:03PM;",
+      },
+      {
+        date: "2025-11-08",
+        schedule:
+          "Fazr-5:09AM;Zuhr-12:01PM;Asr-3:10PM;Maghrib-5:33PM;Isha-7:03PM;",
+      },
+      {
+        date: "2025-11-09",
+        schedule:
+          "Fazr-5:10AM;Zuhr-12:01PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
+      },
+      {
+        date: "2025-11-10",
+        schedule:
+          "Fazr-5:10AM;Zuhr-12:01PM;Asr-3:10PM;Maghrib-5:32PM;Isha-7:02PM;",
+      },
+      {
+        date: "2025-11-11",
+        schedule:
+          "Fazr-5:11AM;Zuhr-12:02PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-11-12",
+        schedule:
+          "Fazr-5:11AM;Zuhr-12:02PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-11-13",
+        schedule:
+          "Fazr-5:12AM;Zuhr-12:02PM;Asr-3:09PM;Maghrib-5:31PM;Isha-7:01PM;",
+      },
+      {
+        date: "2025-11-14",
+        schedule:
+          "Fazr-5:13AM;Zuhr-12:02PM;Asr-3:08PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-11-15",
+        schedule:
+          "Fazr-5:13AM;Zuhr-12:02PM;Asr-3:08PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-11-16",
+        schedule:
+          "Fazr-5:14AM;Zuhr-12:02PM;Asr-3:08PM;Maghrib-5:30PM;Isha-7:00PM;",
+      },
+      {
+        date: "2025-11-17",
+        schedule:
+          "Fazr-5:14AM;Zuhr-12:02PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-11-18",
+        schedule:
+          "Fazr-5:15AM;Zuhr-12:03PM;Asr-3:08PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-11-19",
+        schedule:
+          "Fazr-5:16AM;Zuhr-12:03PM;Asr-3:07PM;Maghrib-5:29PM;Isha-6:59PM;",
+      },
+      {
+        date: "2025-11-20",
+        schedule:
+          "Fazr-5:16AM;Zuhr-12:03PM;Asr-3:07PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-11-21",
+        schedule:
+          "Fazr-5:17AM;Zuhr-12:03PM;Asr-3:07PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-11-22",
+        schedule:
+          "Fazr-5:17AM;Zuhr-12:04PM;Asr-3:07PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-11-23",
+        schedule:
+          "Fazr-5:18AM;Zuhr-12:04PM;Asr-3:07PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-11-24",
+        schedule:
+          "Fazr-5:19AM;Zuhr-12:04PM;Asr-3:07PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-11-25",
+        schedule:
+          "Fazr-5:19AM;Zuhr-12:05PM;Asr-3:07PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-11-26",
+        schedule:
+          "Fazr-5:20AM;Zuhr-12:05PM;Asr-3:07PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-11-27",
+        schedule:
+          "Fazr-5:20AM;Zuhr-12:05PM;Asr-3:07PM;Maghrib-5:27PM;Isha-6:57PM;",
+      },
+      {
+        date: "2025-11-28",
+        schedule:
+          "Fazr-5:21AM;Zuhr-12:05PM;Asr-3:07PM;Maghrib-5:27PM;Isha-6:57PM;",
+      },
+      {
+        date: "2025-11-29",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:06PM;Asr-3:07PM;Maghrib-5:27PM;Isha-6:57PM;",
+      },
+      {
+        date: "2025-11-30",
+        schedule:
+          "Fazr-5:22AM;Zuhr-12:06PM;Asr-3:07PM;Maghrib-5:27PM;Isha-6:57PM;",
+      },
+      {
+        date: "2025-12-01",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:07PM;Asr-3:07PM;Maghrib-5:27PM;Isha-6:57PM;",
+      },
+      {
+        date: "2025-12-02",
+        schedule:
+          "Fazr-5:23AM;Zuhr-12:07PM;Asr-3:07PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-12-03",
+        schedule:
+          "Fazr-5:24AM;Zuhr-12:07PM;Asr-3:07PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-12-04",
         schedule:
           "Fazr-5:25AM;Zuhr-12:08PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
       },
       {
-        date: "2024-12-02",
+        date: "2025-12-05",
         schedule:
           "Fazr-5:25AM;Zuhr-12:08PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
       },
       {
-        date: "2024-12-03",
+        date: "2025-12-06",
         schedule:
           "Fazr-5:26AM;Zuhr-12:09PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
       },
       {
-        date: "2024-12-04",
+        date: "2025-12-07",
+        schedule:
+          "Fazr-5:26AM;Zuhr-12:09PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
+      },
+      {
+        date: "2025-12-08",
         schedule:
           "Fazr-5:27AM;Zuhr-12:09PM;Asr-3:08PM;Maghrib-5:28PM;Isha-6:58PM;",
       },
       {
-        date: "2024-12-05",
-        schedule:
-          "Fazr-5:27AM;Zuhr-12:10PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
-      },
-      {
-        date: "2024-12-06",
+        date: "2025-12-09",
         schedule:
           "Fazr-5:28AM;Zuhr-12:10PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-07",
+        date: "2025-12-10",
         schedule:
           "Fazr-5:28AM;Zuhr-12:10PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-08",
+        date: "2025-12-11",
         schedule:
           "Fazr-5:29AM;Zuhr-12:11PM;Asr-3:09PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-09",
+        date: "2025-12-12",
         schedule:
-          "Fazr-5:30AM;Zuhr-12:11PM;Asr-3:10PM;Maghrib-5:29PM;Isha-6:59PM;",
+          "Fazr-5:29AM;Zuhr-12:11PM;Asr-3:10PM;Maghrib-5:29PM;Isha-6:59PM;",
       },
       {
-        date: "2024-12-10",
+        date: "2025-12-13",
         schedule:
           "Fazr-5:30AM;Zuhr-12:12PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-12-11",
+        date: "2025-12-14",
         schedule:
           "Fazr-5:31AM;Zuhr-12:12PM;Asr-3:10PM;Maghrib-5:30PM;Isha-7:00PM;",
       },
       {
-        date: "2024-12-12",
+        date: "2025-12-15",
         schedule:
-          "Fazr-5:31AM;Zuhr-12:13PM;Asr-3:11PM;Maghrib-5:30PM;Isha-7:00PM;",
+          "Fazr-5:31AM;Zuhr-12:13PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-12-13",
+        date: "2025-12-16",
         schedule:
           "Fazr-5:32AM;Zuhr-12:13PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-12-14",
+        date: "2025-12-17",
         schedule:
-          "Fazr-5:33AM;Zuhr-12:14PM;Asr-3:11PM;Maghrib-5:31PM;Isha-7:01PM;",
+          "Fazr-5:32AM;Zuhr-12:14PM;Asr-3:12PM;Maghrib-5:31PM;Isha-7:01PM;",
       },
       {
-        date: "2024-12-15",
+        date: "2025-12-18",
         schedule:
-          "Fazr-5:33AM;Zuhr-12:14PM;Asr-3:12PM;Maghrib-5:31PM;Isha-7:01PM;",
+          "Fazr-5:33AM;Zuhr-12:14PM;Asr-3:12PM;Maghrib-5:32PM;Isha-7:02PM;",
       },
       {
-        date: "2024-12-16",
+        date: "2025-12-19",
         schedule:
-          "Fazr-5:34AM;Zuhr-12:15PM;Asr-3:12PM;Maghrib-5:32PM;Isha-7:02PM;",
+          "Fazr-5:33AM;Zuhr-12:15PM;Asr-3:13PM;Maghrib-5:32PM;Isha-7:02PM;",
       },
       {
-        date: "2024-12-17",
+        date: "2025-12-20",
         schedule:
-          "Fazr-5:34AM;Zuhr-12:15PM;Asr-3:12PM;Maghrib-5:32PM;Isha-7:02PM;",
+          "Fazr-5:34AM;Zuhr-12:15PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
       },
       {
-        date: "2024-12-18",
+        date: "2025-12-21",
         schedule:
-          "Fazr-5:35AM;Zuhr-12:16PM;Asr-3:13PM;Maghrib-5:32PM;Isha-7:02PM;",
+          "Fazr-5:34AM;Zuhr-12:16PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
       },
       {
-        date: "2024-12-19",
+        date: "2025-12-22",
         schedule:
-          "Fazr-5:35AM;Zuhr-12:16PM;Asr-3:13PM;Maghrib-5:33PM;Isha-7:03PM;",
+          "Fazr-5:35AM;Zuhr-12:16PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-12-20",
+        date: "2025-12-23",
         schedule:
-          "Fazr-5:36AM;Zuhr-12:17PM;Asr-3:14PM;Maghrib-5:33PM;Isha-7:03PM;",
+          "Fazr-5:35AM;Zuhr-12:17PM;Asr-3:15PM;Maghrib-5:34PM;Isha-7:04PM;",
       },
       {
-        date: "2024-12-21",
+        date: "2025-12-24",
         schedule:
-          "Fazr-5:36AM;Zuhr-12:17PM;Asr-3:14PM;Maghrib-5:34PM;Isha-7:04PM;",
+          "Fazr-5:36AM;Zuhr-12:17PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-12-22",
+        date: "2025-12-25",
         schedule:
-          "Fazr-5:37AM;Zuhr-12:18PM;Asr-3:15PM;Maghrib-5:34PM;Isha-7:04PM;",
+          "Fazr-5:36AM;Zuhr-12:18PM;Asr-3:16PM;Maghrib-5:35PM;Isha-7:05PM;",
       },
       {
-        date: "2024-12-23",
+        date: "2025-12-26",
         schedule:
-          "Fazr-5:37AM;Zuhr-12:18PM;Asr-3:15PM;Maghrib-5:35PM;Isha-7:05PM;",
+          "Fazr-5:37AM;Zuhr-12:18PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-12-24",
+        date: "2025-12-27",
         schedule:
-          "Fazr-5:38AM;Zuhr-12:19PM;Asr-3:16PM;Maghrib-5:35PM;Isha-7:05PM;",
+          "Fazr-5:37AM;Zuhr-12:19PM;Asr-3:17PM;Maghrib-5:36PM;Isha-7:06PM;",
       },
       {
-        date: "2024-12-25",
+        date: "2025-12-28",
         schedule:
-          "Fazr-5:38AM;Zuhr-12:19PM;Asr-3:16PM;Maghrib-5:36PM;Isha-7:06PM;",
+          "Fazr-5:37AM;Zuhr-12:19PM;Asr-3:17PM;Maghrib-5:37PM;Isha-7:07PM;",
       },
       {
-        date: "2024-12-26",
+        date: "2025-12-29",
         schedule:
-          "Fazr-5:39AM;Zuhr-12:20PM;Asr-3:17PM;Maghrib-5:37PM;Isha-7:07PM;",
+          "Fazr-5:38AM;Zuhr-12:20PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
       },
       {
-        date: "2024-12-27",
+        date: "2025-12-30",
         schedule:
-          "Fazr-5:39AM;Zuhr-12:20PM;Asr-3:18PM;Maghrib-5:37PM;Isha-7:07PM;",
+          "Fazr-5:38AM;Zuhr-12:20PM;Asr-3:19PM;Maghrib-5:38PM;Isha-7:08PM;",
       },
       {
-        date: "2024-12-28",
+        date: "2025-12-31",
         schedule:
-          "Fazr-5:39AM;Zuhr-12:21PM;Asr-3:18PM;Maghrib-5:38PM;Isha-7:08PM;",
-      },
-      {
-        date: "2024-12-29",
-        schedule:
-          "Fazr-5:40AM;Zuhr-12:21PM;Asr-3:19PM;Maghrib-5:38PM;Isha-7:08PM;",
-      },
-      {
-        date: "2024-12-30",
-        schedule:
-          "Fazr-5:40AM;Zuhr-12:22PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
-      },
-      {
-        date: "2024-12-31",
-        schedule:
-          "Fazr-5:41AM;Zuhr-12:22PM;Asr-3:20PM;Maghrib-5:40PM;Isha-7:10PM;",
+          "Fazr-5:39AM;Zuhr-12:21PM;Asr-3:19PM;Maghrib-5:39PM;Isha-7:09PM;",
       },
     ],
   },
