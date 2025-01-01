@@ -94,8 +94,8 @@ export default function SalatPage() {
             Quranic Guidance on Salat
           </h3>
           <blockquote className="text-xl text-gray-700 italic max-w-4xl mx-auto mb-6">
-            "Indeed, the prayer has been decreed upon the believers a decree of
-            specified times."
+            Indeed, the prayer has been decreed upon the believers a decree of
+            specified times.
           </blockquote>
           <p className="text-gray-600 arabic-text text-2xl">
             إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا
