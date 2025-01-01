@@ -32,7 +32,7 @@ export default function SalatTimePage() {
             Divine Guidance on Prayer Timing
           </h2>
           <blockquote className="text-xl text-gray-700 italic max-w-4xl mx-auto mb-4">
-            "{quranicVerse.translation}"
+            {quranicVerse.translation}
           </blockquote>
           <p className="text-gray-600 arabic-text text-2xl mb-4">
             {quranicVerse.arabic}
@@ -65,8 +65,6 @@ export default function SalatTimePage() {
             </Link>
           ))}
         </div>
-
-        
 
         {/* Additional Information Section */}
         <div className="mt-16 bg-white rounded-xl shadow-lg p-8">
