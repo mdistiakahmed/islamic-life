@@ -8,12 +8,14 @@ export default async function HajjLayout({
   children: React.ReactNode;
 }>) {
   const lessons = await fetchLessons("hajj");
-  const navList = lessons.map((element: any) => {
-    return {
-      name: element.title,
-      path: element.slug.current,
-    };
-  });
+  const navList = lessons
+    ? lessons.map((element: any) => {
+        return {
+          name: element.title,
+          path: element.slug.current,
+        };
+      })
+    : [];
 
   return (
     <section>
