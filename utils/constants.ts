@@ -39,6 +39,11 @@ export const navOptions = [
     image: "",
     path: "/zakat",
   },
+  {
+    name: "Quran",
+    image: "",
+    path: "/quran",
+  },
 
   {
     name: "Dua",

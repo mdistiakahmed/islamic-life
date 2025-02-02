@@ -1,16 +1,25 @@
 import SecondaryHeader from "@/components/navbar/SecondaryHeader";
+import { fetchLessons } from "@/services/getLessons";
 import { categoryMap } from "@/utils/constants";
 
-export default function SawmLayout({
+export default async function SawmLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const subNavList = categoryMap.sawm;
+  const lessons = await fetchLessons("sawm");
+  const navList = lessons
+    ? lessons.map((element: any) => {
+        return {
+          name: element.title,
+          path: element.slug.current,
+        };
+      })
+    : [];
 
   return (
     <section>
-      <SecondaryHeader subNavList={subNavList} />
+      <SecondaryHeader subNavList={navList} />
       <div className="flex items-center justify-center w-full">
         <div className=" w-[95vw] md:w-[70vw] py-[20px]">{children}</div>
       </div>

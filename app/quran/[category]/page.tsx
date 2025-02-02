@@ -9,7 +9,7 @@ import { Metadata } from "next";
 export async function generateMetadata({
   params,
 }: any): Promise<Metadata | undefined> {
-  const courseName = "zakat";
+  const courseName = "quran";
   const { category } = params;
   const lesson: any = await fetchPostBySlug(courseName, category);
 
@@ -21,14 +21,14 @@ export async function generateMetadata({
       description: `${lesson?.excerpt}`,
       type: "article",
       locale: "en_US",
-      url: `https://www.islamictablig.com/zakat/${category}`,
+      url: `https://www.islamictablig.com/quran/${category}`,
       siteName: "islamictablig",
       images: [
         {
-          url: "/zakat_image.jpg",
+          url: "/quran_image.jpg",
           width: 1200,
           height: 630,
-          alt: "zakat image",
+          alt: "quran image",
         },
       ],
     },
@@ -36,7 +36,7 @@ export async function generateMetadata({
 }
 
 const HajjCategoryPage = async ({ params }: any) => {
-  const courseName = "zakat";
+  const courseName = "quran";
   const { category } = params;
   const lesson: any = await fetchPostBySlug(courseName, category);
   return (

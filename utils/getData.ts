@@ -74,6 +74,9 @@ export const getImportance = async (param: string) => {
       case "zakat":
         ({ importance } = await import("../data/importance/zakat-importance"));
         break;
+      case "quran":
+        ({ importance } = await import("../data/importance/quran-importance"));
+        break;
 
       default:
         throw new Error(`No data file found for param: ${param}`);

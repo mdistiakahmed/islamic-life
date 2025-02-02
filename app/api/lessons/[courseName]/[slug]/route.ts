@@ -3,14 +3,7 @@ import { client } from "@/sanity/lib/client";
 
 export async function GET(req: NextRequest, { params }: any) {
   const { courseName, slug } = params;
-  let type = "";
-  if (courseName === "hajj") {
-    type = "hajj";
-  } else if (courseName === "algorithms-and-data-structures") {
-    type = "algorithm";
-  } else if (courseName === "java") {
-    type = "java";
-  }
+  let type = courseName;
 
   const query = `
     *[_type == $type && slug.current == $slug][0]{

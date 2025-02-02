@@ -2,12 +2,12 @@ import SecondaryHeader from "@/components/navbar/SecondaryHeader";
 import { fetchLessons } from "@/services/getLessons";
 import { categoryMap } from "@/utils/constants";
 
-export default async function ZakatLayout({
+export default async function HajjLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const lessons = await fetchLessons("zakat");
+  const lessons = await fetchLessons("quran");
   const navList = lessons
     ? lessons.map((element: any) => {
         return {
