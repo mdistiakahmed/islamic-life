@@ -43,9 +43,10 @@ const Navbar = () => {
     },
     {
       item: "Quran",
-      subMenu: [
-        { name: "Surah", path: "/quran/surah" },
-      ],
+      path: "/quran",
+      // subMenu: [
+      //   { name: "Surah", path: "/quran/surah" },
+      // ],
     },
     // {
     //   item: "Dua",
