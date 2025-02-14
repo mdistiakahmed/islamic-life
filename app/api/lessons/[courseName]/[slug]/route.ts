@@ -5,7 +5,7 @@ export async function GET(req: NextRequest, { params }: any) {
   const { courseName, slug } = params;
   let type = courseName;
 
-  const query = `
+  let query = `
     *[_type == $type && slug.current == $slug][0]{
       title,
       body,
@@ -15,6 +15,7 @@ export async function GET(req: NextRequest, { params }: any) {
       "categories": categories[]->title
     }
   `;
+
 
   try {
     const post = await client.fetch(

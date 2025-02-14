@@ -1,59 +1,46 @@
-import QuoteCard from "@/components/cards/QuoteCard";
-import ShareWidget from "@/components/share/ShareWidget";
-import { getImportance } from "@/utils/getData";
-import Link from "next/link";
+import { fetchLessons } from "@/services/getLessons";
 
-const QuranPage = async () => {
-  const importance = await getImportance("quran");
-  const ImportanceOfSalat = async () => {
-    return (
-      <div>
-        <h1 className="text-2xl text-center pb-10">
-          Importance of Quran in Islam
-        </h1>
-
-        <div className="grid grid-cols-1 gap-16 sm:grid-cols-2">
-          {importance.slice(0, 5).map((q: any, index: any) => (
-            <QuoteCard
-              arabic={q.arabic}
-              english={q.english}
-              source={q.source}
-              img={"/quran.svg"}
-              key={index}
-            />
-          ))}
-        </div>
-
-        {/* <div className="sm:col-span-2 flex items-center justify-end p-5 mr-[60px] md:mr-[80px]">
-          <Link
-            href={`/hajj/importance-of-hajj`}
-            className="bg-[#004b49] hover:bg-[#f8c194] hover:text-black p-2 px-5 text-white font-bold relative custom-botton"
-          >
-            See More
-          </Link>
-        </div> */}
-      </div>
-    );
-  };
+const Page = async () => {
+  const lessons = await fetchLessons('quran');
 
   return (
-    <div className="flex flex-col gap-5">
-      <h1 className="text-2xl font-bold text-center">
-        Quran: A Divine Guidance for Humanity
+    <div className="p-6 mx-auto max-w-4xl">
+      <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">
+        Quran Learning Lessons
       </h1>
-      <p className="text-center text-lg leading-relaxed text-gray-800 mt-4">
-        Discover the profound wisdom and guidance of the Quran, the holy book of
-        Islam. Explore its teachings, significance, and impact on the lives of
-        millions. Whether you seek spiritual enlightenment, moral direction, or
-        a deeper understanding of faith, immerse yourself in the timeless words
-        of the Quran and uncover its transformative power.
+      <p className="text-lg text-gray-600 mb-8 text-center">
+        Explore comprehensive Quran lessons to deepen your understanding and spiritual growth.
       </p>
 
-      <ShareWidget />
-
-      <ImportanceOfSalat />
+      {lessons && lessons.length > 0 ? (
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {lessons.map((lesson: any, index: number) => (
+            <div
+              key={index}
+              className="bg-white p-4 border rounded-lg hover:shadow-xl transition-shadow duration-200"
+            >
+              <div className="mt-4">
+                <h2 className="text-xl font-semibold text-gray-800">
+                  {lesson.title}
+                </h2>
+                <p className="text-gray-600 mt-2">{lesson.description}</p>
+                <a 
+                  href={`/quran/${lesson.slug.current}`} 
+                  className="mt-4 inline-block text-blue-600 hover:text-blue-800 transition-colors"
+                >
+                  Start Lesson
+                </a>
+              </div>
+            </div>
+          ))}
+        </div>
+      ) : (
+        <div className="text-center text-gray-500">
+          No Quran lessons available at the moment.
+        </div>
+      )}
     </div>
   );
 };
 
-export default QuranPage;
+export default Page;

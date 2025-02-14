@@ -6,7 +6,7 @@ export async function GET(req: NextRequest, { params }: any) {
 
   let type = courseName;
 
-  const query = `
+  let query = `
     *[_type == $type]{
       title,
       slug,
@@ -14,6 +14,21 @@ export async function GET(req: NextRequest, { params }: any) {
       "category": category->title
     } | order(lesson asc)
   `;
+
+  if(courseName === "quran") {
+    query = `
+      *[_type == $type]{
+      title,
+      slug,
+      lesson,
+      pdfFile,
+      audioFile,
+      "category": category->title
+    } | order(lesson asc)
+    `;
+  }
+
+
 
   try {
     const data = await client.fetch(query, { type }, { cache: "no-cache" });

@@ -45,6 +45,24 @@ export const quran = defineType({
       validation: (Rule) =>
         Rule.max(200).warning("Excerpt should be 200 characters or fewer."),
     }),
+    defineField({
+      name: "pdfFile",
+      title: "PDF File",
+      type: "file",
+      options: {
+        accept: ".pdf"
+      },
+      description: "Upload a PDF file for this Quran lesson"
+    }),
+    defineField({
+      name: "audioFile",
+      title: "Audio File",
+      type: "file",
+      options: {
+        accept: ".mp3"
+      },
+      description: "Upload an MP3 audio file for this Quran lesson"
+    }),
   ],
   preview: {
     select: {

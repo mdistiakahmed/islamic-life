@@ -53,11 +53,9 @@ export default function RootLayout({
     <html lang="en">
       <GoogleAnalytics gaId="G-TM5M4Q7F83" />
       <body className={`${inter.className}  bg-[url('/snowflakes.png')]`}>
-        <NextUIProvider>
           <HeaderComponent />
-          <div>{children}</div>
+          {children}
           <Footer />
-        </NextUIProvider>
       </body>
     </html>
   );

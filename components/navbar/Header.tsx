@@ -1,96 +1,206 @@
 "use client";
 
-import React, { useEffect, useRef, useState } from "react";
-import { AcmeLogo } from "./AcmeLogo";
-import { usePathname } from "next/navigation";
-import { navOptions } from "@/utils/constants";
+import React, { useState } from "react";
 import Link from "next/link";
-import { IoAppsSharp } from "react-icons/io5";
-import { FaCompressArrowsAlt } from "react-icons/fa";
+import { FiChevronDown, FiPlus, FiX } from "react-icons/fi";
 
-const HeaderComponent = () => {
-  const [isMoreButtonClicked, setIsMoreButtonClicked] = useState(false);
-  const pathname = usePathname();
-  const headerRef = useRef<any>(null);
+const Navbar = () => {
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [activeMenu, setActiveMenu] = useState(null); // For desktop menu
+  const [activeMobileMenu, setActiveMobileMenu] = useState(null); // For mobile sub-menu
 
-  const checkIfActivepath = (name: any) => {
-    return pathname.includes(name);
+  const toggleMenu = (menu: any) => {
+    setActiveMenu(activeMenu === menu ? null : menu);
   };
 
-  // close expaneded more button, by clicking outside
-  const handleClickOutside = (event: any) => {
-    if (
-      headerRef.current &&
-      !headerRef.current.contains(event.target) &&
-      isMoreButtonClicked
-    ) {
-      setIsMoreButtonClicked(false);
-    }
+  const toggleMobileSubMenu = (menu: any) => {
+    setActiveMobileMenu(activeMobileMenu === menu ? null : menu);
   };
 
-  useEffect(() => {
-    if (isMoreButtonClicked) {
-      document.addEventListener("click", handleClickOutside);
-    }
-    return () => document.removeEventListener("click", handleClickOutside);
-  }, [isMoreButtonClicked]);
-
-  const toggleMoreButton = () => {
-    setIsMoreButtonClicked(!isMoreButtonClicked);
-  };
+  const menuList = [
+    {
+      item: "Home",
+      path: "/",
+    },
+    {
+      item: "Salat",
+      subMenu: [
+        { name: "Salat Home", path: "/salat" },
+        { name: "Prayer Time", path: "/salat/prayer-time" },
+      ],
+    },
+    {
+      item: "Sawm",
+      path: "/sawm",
+    },
+    {
+      item: "Hajj",
+      path: "/hajj",
+    },
+    {
+      item: "Zakat",
+      path: "/zakat",
+    },
+    {
+      item: "Quran",
+      subMenu: [
+        { name: "Surah", path: "/quran/surah" },
+      ],
+    },
+    // {
+    //   item: "Dua",
+    //   path: "/dua",
+    //   subMenu: [
+    //     { name: "Dua for parents", path: "/dua/parents" },
+    //     { name: "Dua for success", path: "/dua/success" },
+    //     { name: "Dua for earning", path: "/dua/earning" },
+    //     { name: "Dua for suffering", path: "/dua/suffering" },
+    //   ],
+    // },
+  ];
 
   return (
-    <header
-      className="bg-[#004b49] px-5 py-2  sm:px-[10vw] grid grid-cols-2"
-      ref={headerRef}
-    >
-      <Link href={`/`} className="text-white  flex items-center">
-        <AcmeLogo />
-        <p className="font-bold  whitespace-nowrap">Islamic Life</p>
-      </Link>
+    <header className={`relative z-20 bg-white border-b`}>
+      <nav className="flex justify-between items-center p-6 md:px-12 text-black bg-transparent">
+        {/* Logo */}
+        <div className={`text-xl font-semibold `}>
+          <Link href="/">Islamic Life</Link>
+        </div>
 
-      <div className="hidden sm:flex gap-5 justify-end items-center">
-        {navOptions.map((o: any, index: any) => (
-          <Link
-            href={`${o.path}`}
-            className={`text-white  p-2 rounded-lg ${
-              checkIfActivepath(o.path) ? "bg-[#052120]" : ""
-            }`}
-            key={index}
-          >
-            <p>{o.name}</p>
-          </Link>
-        ))}
-      </div>
-
-      <div className="sm:hidden flex items-center justify-end">
-        <button
-          className="flex gap-1 items-center text-white font-semibold bg-[#052120] p-2 rounded-lg w-[80px]"
-          onClick={toggleMoreButton}
-        >
-          {isMoreButtonClicked ? "Less" : "More"}
-          {isMoreButtonClicked ? <FaCompressArrowsAlt /> : <IoAppsSharp />}
-        </button>
-      </div>
-      {isMoreButtonClicked && (
-        <ul className="col-span-2 grid grid-cols-2 gap-4 my-6">
-          {navOptions.map((o: any, index: any) => (
-            <li className="flex items-center justify-center" key={index}>
-              <Link
-                href={`${o.path}`}
-                className="text-white"
-                onClick={() => setIsMoreButtonClicked(false)}
-              >
-                <p className="font-bold text-center p-2 bg-[#052120] rounded-lg w-[90px] ">
-                  {o.name}
-                </p>
-              </Link>
+        {/* Desktop Menu */}
+        <ul className="hidden md:flex space-x-8 font-semibold">
+          {menuList.map((menu, idx) => (
+            <li key={idx} className="">
+              {menu.subMenu ? (
+                // Menu item with sub-menu
+                <>
+                  <div
+                    className="flex items-center cursor-pointer hover:text-orange-400"
+                    onClick={() => toggleMenu(menu.item)}
+                  >
+                    <a className={``}>{menu.item}</a>
+                    <FiChevronDown className={`ml-1 w-4 h-4 `} />
+                  </div>
+                  {activeMenu === menu.item && (
+                    <div className="absolute left-0 top-full w-screen bg-white text-black py-6 shadow-lg z-10">
+                      <div className="relative px-6">
+                        <button
+                          className="absolute top-2 right-44 text-black"
+                          onClick={() => setActiveMenu(null)}
+                        >
+                          <FiX className="w-6 h-6" />
+                        </button>
+                        <h3 className="text-xl font-semibold px-36">
+                          {menu.item}
+                        </h3>
+                        <hr className="border-orange-400 my-4 mx-32" />
+                        <div className="grid grid-cols-3 gap-5 px-32 py-10">
+                          {menu.subMenu.map((sub, subIdx) => (
+                            <div key={subIdx}>
+                              <Link
+                                href={sub.path}
+                                className="block hover:text-orange-500 border-b-2 border-transparent hover:border-orange-500 py-2"
+                                onClick={() => setActiveMenu(null)}
+                              >
+                                {sub.name}
+                              </Link>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    </div>
+                  )}
+                </>
+              ) : (
+                // Menu item without sub-menu
+                <Link
+                  href={menu.path}
+                  className={`hover:text-orange-400 cursor-pointer `}
+                >
+                  {menu.item}
+                </Link>
+              )}
             </li>
           ))}
         </ul>
+
+        {/* Mobile Menu Button */}
+        <div className="md:hidden">
+          <button
+            className="text-black focus:outline-none"
+            onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+          >
+            {mobileMenuOpen ? (
+              <FiX className={`w-8 h-8 `} />
+            ) : (
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                className={`w-8 h-8 `}
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M4 6h16M4 12h16m-7 6h7"
+                />
+              </svg>
+            )}
+          </button>
+        </div>
+      </nav>
+
+      {/* Mobile Dropdown Menu */}
+      {mobileMenuOpen && (
+        <div className="md:hidden bg-white text-black py-4 space-y-4 shadow-lg">
+          {menuList.map((menu, idx) => (
+            <div key={idx}>
+              <div
+                className="flex justify-between items-center px-4 py-2"
+                onClick={() => toggleMobileSubMenu(menu.item)}
+              >
+                <Link
+                  href={menu.path || "#"}
+                  onClick={() => {
+                    if (!menu.subMenu) {
+                      setMobileMenuOpen(false);
+                    }
+                  }}
+                >
+                  {menu.item}
+                </Link>
+                {menu.subMenu && (
+                  <FiPlus
+                    className={`w-6 h-6 transition-transform transform ${
+                      activeMobileMenu === menu.item ? "rotate-45" : ""
+                    }`}
+                  />
+                )}
+              </div>
+              {menu.subMenu && activeMobileMenu === menu.item && (
+                <div className="px-6 space-y-2">
+                  {menu.subMenu.map((sub, subIdx) => (
+                    <Link
+                      key={subIdx}
+                      href={sub.path}
+                      className="block hover:text-orange-500"
+                      onClick={() => {
+                        setMobileMenuOpen(false);
+                      }}
+                    >
+                      {sub.name}
+                    </Link>
+                  ))}
+                </div>
+              )}
+            </div>
+          ))}
+        </div>
       )}
     </header>
   );
 };
 
-export default HeaderComponent;
+export default Navbar;
