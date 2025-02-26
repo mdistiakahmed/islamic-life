@@ -63,12 +63,12 @@ const Sidebar = ({ courseName }: any) => {
   };
 
   const openPDF = (pdfRef: string) => {
-    const pdfUrl = `https://cdn.sanity.io/files/mpnj6cr9/production/${pdfRef.replace('file-', '').replace('-pdf', '.pdf')}`;
-    window.open(pdfUrl, '_blank');
+    const pdfUrl = `https://cdn.sanity.io/files/mpnj6cr9/production/${pdfRef.replace("file-", "").replace("-pdf", ".pdf")}`;
+    window.open(pdfUrl, "_blank");
   };
 
   const getAudioUrl = (audioRef: string) => {
-    return `https://cdn.sanity.io/files/mpnj6cr9/production/${audioRef.replace('file-', '').replace('-mp3', '.mp3')}`;
+    return `https://cdn.sanity.io/files/mpnj6cr9/production/${audioRef.replace("file-", "").replace("-mp3", ".mp3")}`;
   };
 
   // Group lessons by category
@@ -127,12 +127,10 @@ const Sidebar = ({ courseName }: any) => {
                     <li
                       key={l.slug.current}
                       className={`flex items-center justify-between cursor-pointer hover:bg-[#555555] p-2 ${
-                        selectedLesson === l.slug.current
-                          ? "bg-[#777777]"
-                          : ""
+                        selectedLesson === l.slug.current ? "bg-[#777777]" : ""
                       }`}
                     >
-                      <span 
+                      <span
                         onClick={() => handleLessonSelect(l.slug.current)}
                         className="flex-grow"
                       >
@@ -141,23 +139,32 @@ const Sidebar = ({ courseName }: any) => {
                       <div className="flex items-center space-x-2">
                         {l.audioFile && l.audioFile.asset && (
                           <>
-                            <audio 
+                            <audio
                               ref={(el) => {
                                 if (el) audioRefs.current[l.slug.current] = el;
                               }}
-                              src={getAudioUrl(l.audioFile.asset._ref)} 
+                              src={getAudioUrl(l.audioFile.asset._ref)}
                               onEnded={() => setPlayingAudio(null)}
                             />
-                            <button 
-                              onClick={() => toggleAudio(getAudioUrl(l.audioFile.asset._ref), l.slug.current)}
+                            <button
+                              onClick={() =>
+                                toggleAudio(
+                                  getAudioUrl(l.audioFile.asset._ref),
+                                  l.slug.current
+                                )
+                              }
                               className="text-white hover:text-gray-300"
                             >
-                              {playingAudio === l.slug.current ? <FaPause /> : <FaPlay />}
+                              {playingAudio === l.slug.current ? (
+                                <FaPause />
+                              ) : (
+                                <FaPlay />
+                              )}
                             </button>
                           </>
                         )}
                         {l.pdfFile && l.pdfFile.asset && (
-                          <button 
+                          <button
                             onClick={() => openPDF(l.pdfFile.asset._ref)}
                             className="text-white hover:text-gray-300"
                           >

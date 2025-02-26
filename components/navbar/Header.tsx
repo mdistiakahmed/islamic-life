@@ -19,8 +19,8 @@ const Navbar = () => {
 
   const menuList = [
     {
-      item: "Home",
-      path: "/",
+      item: "Kalima",
+      path: "/kalima",
     },
     {
       item: "Salat",
@@ -43,7 +43,12 @@ const Navbar = () => {
     },
     {
       item: "Quran",
-      path: "/quran",
+      subMenu: [
+        { name: "Quran Home", path: "/quran" },
+        { name: "Surah", path: "/quran/surah" },
+        { name: "Juz", path: "/quran/juz" },
+      ],
+      //path: "/quran",
       // subMenu: [
       //   { name: "Surah", path: "/quran/surah" },
       // ],

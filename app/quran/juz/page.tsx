@@ -1,16 +1,20 @@
 import { fetchLessons } from "@/services/getLessons";
 
 const Page = async () => {
-  const lessons = await fetchLessons("quran");
+  let lessons = await fetchLessons("quran");
+  lessons = lessons.filter((l: any) => l.category === "Juz in Quran");
+
+  //console.log(lessons.slice(120));
 
   return (
     <div className="p-6 mx-auto max-w-4xl">
       <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">
-        Quran Learning Lessons
+        Quran Juz - 30 Sections of the Holy Quran
       </h1>
       <p className="text-lg text-gray-600 mb-8 text-center">
-        Explore comprehensive Quran lessons to deepen your understanding and
-        spiritual growth.
+        Discover the 30 Juz (parts) of the Holy Quran, each carefully divided
+        for ease of recitation and memorization. Learn about their significance,
+        themes, and translations for deeper understanding.
       </p>
 
       {lessons && lessons.length > 0 ? (

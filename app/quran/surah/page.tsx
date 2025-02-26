@@ -1,16 +1,20 @@
 import { fetchLessons } from "@/services/getLessons";
 
 const Page = async () => {
-  const lessons = await fetchLessons("quran");
+  let lessons = await fetchLessons("quran");
+  lessons = lessons.filter((l: any) => l.category === "Surah");
+
+  console.log(lessons);
 
   return (
     <div className="p-6 mx-auto max-w-4xl">
       <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">
-        Quran Learning Lessons
+        Surahs - Read and Understand the Chapters of the Holy Quran
       </h1>
       <p className="text-lg text-gray-600 mb-8 text-center">
-        Explore comprehensive Quran lessons to deepen your understanding and
-        spiritual growth.
+        Explore all Surahs of the Holy Quran with meanings, translations, and
+        insights. Understand the divine messages, themes, and significance of
+        each chapter in Islam.
       </p>
 
       {lessons && lessons.length > 0 ? (

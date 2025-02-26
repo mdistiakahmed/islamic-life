@@ -9,6 +9,7 @@ import { quran } from "./quranTypes";
 import { salat } from "./salatTypes";
 import { sawm } from "./sawmTypes";
 import { zakat } from "./zakatTypes";
+import { kalima } from "./kalimaTypes";
 
 export const schema: { types: SchemaTypeDefinition[] } = {
   types: [
@@ -21,5 +22,6 @@ export const schema: { types: SchemaTypeDefinition[] } = {
     salat,
     sawm,
     zakat,
+    kalima,
   ],
 };
